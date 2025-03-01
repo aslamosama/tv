@@ -125,6 +125,60 @@ h1 {
   margin-bottom: 10px;
 }
 
+/* 🟢 Mobile Fixes */
+@media (max-width: 600px) {
+  .modal-content {
+    flex-direction: column;
+    /* Stack items vertically */
+    width: 85%;
+    /* Make modal smaller */
+    max-height: 80;
+    /* Prevent full-screen height */
+    overflow-y: auto;
+    /* Enable scrolling if needed */
+    padding: 15;
+    position: relative; /* Ensure close button aligns properly */
+  }
+
+  /* Close Button Fix */
+  .modal-close {
+    top: 5px; /* Move closer to the edge */
+    right: 5px;
+    font-size: 20px; /* Make it slightly smaller */
+    padding: 3px;
+  }
+
+  .modal-image {
+    width: 90%;
+    /* Make the image full width */
+    max-width: 250;
+    /* Remove width restriction */
+    margin: 0 auto;
+    /* Maintain aspect ratio */
+  }
+
+  .modal-details {
+    width: 90%;
+    /* Ensure text takes full width */
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto
+    /* Center text */
+  }
+
+  .modal-title {
+    font-size: 1.4em;
+    /* Slightly smaller title */
+  }
+
+  .modal-info {
+    font-size: 0.85em;
+    /* Adjust font size for readability */
+    text-align: center; /* Center all text */
+    margin: 5px auto; /* Center within available space */
+  }
+}
+
 /* Close Button */
 .modal-close {
   position: absolute;
