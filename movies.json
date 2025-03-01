@@ -1,0 +1,2934 @@
+{
+  "The Godfather": {
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "rating": 93,
+    "cover": "covers/the_godfather.jpg"
+  },
+  "Seven Samurai": {
+    "year": 1954,
+    "director": "Akira Kurosawa",
+    "description": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+    "cast": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "rating": 93,
+    "cover": "covers/seven_samurai.jpg"
+  },
+  "12 Angry Men": {
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "cast": [
+      "Henry Fonda",
+      "Lee J. Cobb",
+      "Martin Balsam"
+    ],
+    "rating": 92,
+    "cover": "covers/12_angry_men.jpg"
+  },
+  "Schindler's List": {
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "rating": 92,
+    "cover": "covers/schindlers_list.jpg"
+  },
+  "Grave of the Fireflies": {
+    "year": 1988,
+    "director": "Isao Takahata",
+    "description": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+    "cast": [
+      "Tsutomu Tatsumi",
+      "Ayano Shiraishi",
+      "Yoshiko Shinohara"
+    ],
+    "rating": 92,
+    "cover": "covers/grave_of_the_fireflies.jpg"
+  },
+  "The Godfather Part II": {
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall",
+      "Diane Keaton"
+    ],
+    "rating": 92,
+    "cover": "covers/the_godfather_part_ii.jpg"
+  },
+  "Parasite": {
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "rating": 91,
+    "cover": "covers/parasite.jpg"
+  },
+  "Rear Window": {
+    "year": 1954,
+    "director": "Alfred Hitchcock",
+    "description": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "cast": [
+      "James Stewart",
+      "Grace Kelly",
+      "Wendell Corey"
+    ],
+    "rating": 91,
+    "cover": "covers/rear_window.jpg"
+  },
+  "Pulp Fiction": {
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "rating": 91,
+    "cover": "covers/pulp_fiction.jpg"
+  },
+  "City Lights": {
+    "year": 1931,
+    "director": "Charlie Chaplin",
+    "description": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+    "cast": [
+      "Charlie Chaplin",
+      "Virginia Cherrill",
+      "Harry Myers"
+    ],
+    "rating": 91,
+    "cover": "covers/city_lights.jpg"
+  },
+  "Spirited Away": {
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "rating": 91,
+    "cover": "covers/spirited_away.jpg"
+  },
+  "Modern Times": {
+    "year": 1936,
+    "director": "Charlie Chaplin",
+    "description": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
+    "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman"
+    ],
+    "rating": 90,
+    "cover": "covers/modern_times.jpg"
+  },
+  "Casablanca": {
+    "year": 1942,
+    "director": "Michael Curtiz",
+    "description": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+    "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid"
+    ],
+    "rating": 90,
+    "cover": "covers/casablanca.jpg"
+  },
+  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+    "year": 1964,
+    "director": "Stanley Kubrick",
+    "description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+    "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden"
+    ],
+    "rating": 90,
+    "cover": "covers/dr_strangelove_or_how_i_learned_to_stop_worrying_and_love_the_bomb.jpg"
+  },
+  "Goodfellas": {
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "description": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "rating": 90,
+    "cover": "covers/goodfellas.jpg"
+  },
+  "Singin' in the Rain": {
+    "year": 1952,
+    "director": "Stanley Donen, Gene Kelly",
+    "description": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
+    "cast": [
+      "Gene Kelly",
+      "Donald O'Connor",
+      "Debbie Reynolds"
+    ],
+    "rating": 90,
+    "cover": "covers/singin_in_the_rain.jpg"
+  },
+  "The Good, the Bad and the Ugly": {
+    "year": 1966,
+    "director": "Sergio Leone",
+    "description": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef"
+    ],
+    "rating": 89,
+    "cover": "covers/the_good_the_bad_and_the_ugly.jpg"
+  },
+  "Apocalypse Now": {
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "description": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+    "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall"
+    ],
+    "rating": 89,
+    "cover": "covers/apocalypse_now.jpg"
+  },
+  "Psycho": {
+    "year": 1960,
+    "director": "Alfred Hitchcock",
+    "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+    "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles"
+    ],
+    "rating": 89,
+    "cover": "covers/psycho.jpg"
+  },
+  "The Lord of the Rings: The Return of the King": {
+    "year": 2003,
+    "director": "Peter Jackson",
+    "description": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "rating": 89,
+    "cover": "covers/the_lord_of_the_rings_the_return_of_the_king.jpg"
+  },
+  "Lawrence of Arabia": {
+    "year": 1962,
+    "director": "David Lean",
+    "description": "The story of British officer T.E. Lawrence's mission to aid the Arab tribes in their revolt against the Ottoman Empire during the First World War. Lawrence becomes a flamboyant, messianic figure in the cause of Arab unity but his psychological instability threatens to undermine his achievements.",
+    "cast": [
+      "Peter O'Toole",
+      "Alec Guinness",
+      "Anthony Quinn"
+    ],
+    "rating": 89,
+    "cover": "covers/lawrence_of_arabia.jpg"
+  },
+  "The Shawshank Redemption": {
+    "year": 1994,
+    "director": "Frank Darabont",
+    "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "rating": 89,
+    "cover": "covers/the_shawshank_redemption.jpg"
+  },
+  "A Separation": {
+    "year": 2011,
+    "director": "Asghar Farhadi",
+    "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "cast": [
+      "Leila Hatami",
+      "Peyman Moaadi",
+      "Shahab Hosseini"
+    ],
+    "rating": 89,
+    "cover": "covers/a_separation.jpg"
+  },
+  "All About Eve": {
+    "year": 1950,
+    "director": "Joseph L. Mankiewicz",
+    "description": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+    "cast": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders"
+    ],
+    "rating": 89,
+    "cover": "covers/all_about_eve.jpg"
+  },
+  "The Dark Knight": {
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "rating": 88,
+    "cover": "covers/the_dark_knight.jpg"
+  },
+  "One Flew Over the Cuckoo's Nest": {
+    "year": 1975,
+    "director": "Milos Forman",
+    "description": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Will Sampson"
+    ],
+    "rating": 88,
+    "cover": "covers/one_flew_over_the_cuckoos_nest.jpg"
+  },
+  "Pan's Labyrinth": {
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "description": "Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.",
+    "cast": [
+      "Ivana Baquero",
+      "Sergi López",
+      "Maribel Verdú"
+    ],
+    "rating": 88,
+    "cover": "covers/pans_labyrinth.jpg"
+  },
+  "There Will Be Blood": {
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "description": "The story of Daniel Plainview, and his journey to become the most powerful oil tycoon of the 19th century. He cons and financially manipulates himself over the local landowners, gaining rights to their property, thoroughly cementing his dominance. All the while projecting a family man image, using his adopted son as a front for his violent intent. Local preacher Eli suspects Plainview’s unsavory aims, and thus begins a feud that threatens both lives.",
+    "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Dillon Freasier"
+    ],
+    "rating": 88,
+    "cover": "covers/there_will_be_blood.jpg"
+  },
+  "WALL-E": {
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "description": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL•E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "cast": [
+      "Ben Burtt",
+      "Elissa Knight",
+      "Jeff Garlin"
+    ],
+    "rating": 88,
+    "cover": "covers/wall_e.jpg"
+  },
+  "Whiplash": {
+    "year": 2014,
+    "director": "Damien Chazelle",
+    "description": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "rating": 88,
+    "cover": "covers/whiplash.jpg"
+  },
+  "Alien": {
+    "year": 1979,
+    "director": "Ridley Scott",
+    "description": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "cast": [
+      "Sigourney Weaver",
+      "Tom Skerritt",
+      "John Hurt"
+    ],
+    "rating": 88,
+    "cover": "covers/alien.jpg"
+  },
+  "Vertigo": {
+    "year": 1958,
+    "director": "Alfred Hitchcock",
+    "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+    "cast": [
+      "James Stewart",
+      "Kim Novak",
+      "Barbara Bel Geddes"
+    ],
+    "rating": 88,
+    "cover": "covers/vertigo.jpg"
+  },
+  "Ran": {
+    "year": 1985,
+    "director": "Akira Kurosawa",
+    "description": "With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear as a singular historical epic set in sixteenth-century Japan. Majestic in scope, the film is Kurosawa's late-life masterpiece, a profound examination of the folly of war and the crumbling of one family under the weight of betrayal, greed, and the insatiable thirst for power.",
+    "cast": [
+      "Tatsuya Nakadai",
+      "Akira Terao",
+      "Jinpachi Nezu"
+    ],
+    "rating": 88,
+    "cover": "covers/ran.jpg"
+  },
+  "Toy Story": {
+    "year": 1995,
+    "director": "John Lasseter",
+    "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Don Rickles"
+    ],
+    "rating": 88,
+    "cover": "covers/toy_story.jpg"
+  },
+  "Kill Bill: The Whole Bloody Affair": {
+    "year": 2011,
+    "director": "Quentin Tarantino",
+    "description": "An assassin is shot and almost killed by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Daryl Hannah",
+      "Lucy Liu"
+    ],
+    "rating": 88,
+    "cover": "covers/kill_bill_the_whole_bloody_affair.jpg"
+  },
+  "Close-Up": {
+    "year": 1990,
+    "director": "Abbas Kiarostami",
+    "description": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+    "cast": [
+      "Hossain Sabzian",
+      "Mohsen Makhmalbaf",
+      "Abbas Kiarostami"
+    ],
+    "rating": 87,
+    "cover": "covers/close_up.jpg"
+  },
+  "Ratatouille": {
+    "year": 2007,
+    "director": "Brad Bird",
+    "description": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano",
+      "Peter O'Toole"
+    ],
+    "rating": 87,
+    "cover": "covers/ratatouille.jpg"
+  },
+  "Taxi Driver": {
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "description": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd"
+    ],
+    "rating": 87,
+    "cover": "covers/taxi_driver.jpg"
+  },
+  "The Lord of the Rings: The Fellowship of the Ring": {
+    "year": 2001,
+    "director": "Peter Jackson",
+    "description": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom"
+    ],
+    "rating": 87,
+    "cover": "covers/the_lord_of_the_rings_the_fellowship_of_the_ring.jpg"
+  },
+  "The Silence of the Lambs": {
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "description": "Clarice Starling is a top student at the FBI's training academy. Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "rating": 87,
+    "cover": "covers/the_silence_of_the_lambs.jpg"
+  },
+  "Eternal Sunshine of the Spotless Mind": {
+    "year": 2004,
+    "director": "Michel Gondry",
+    "description": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Tom Wilkinson",
+      "Mark Ruffalo"
+    ],
+    "rating": 87,
+    "cover": "covers/eternal_sunshine_of_the_spotless_mind.jpg"
+  },
+  "The Pianist": {
+    "year": 2002,
+    "director": "Roman Polanski",
+    "description": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "rating": 87,
+    "cover": "covers/the_pianist.jpg"
+  },
+  "No Country for Old Men": {
+    "year": 2007,
+    "director": "Joel Coen, Ethan Coen",
+    "description": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+    "cast": [
+      "Javier Bardem",
+      "Josh Brolin",
+      "Tommy Lee Jones"
+    ],
+    "rating": 87,
+    "cover": "covers/no_country_for_old_men.jpg"
+  },
+  "The Lord of the Rings: The Two Towers": {
+    "year": 2002,
+    "director": "Peter Jackson",
+    "description": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom"
+    ],
+    "rating": 87,
+    "cover": "covers/the_lord_of_the_rings_the_two_towers.jpg"
+  },
+  "Toy Story 3": {
+    "year": 2010,
+    "director": "Lee Unkrich",
+    "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack"
+    ],
+    "rating": 86,
+    "cover": "covers/toy_story_3.jpg"
+  },
+  "My Neighbor Totoro": {
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "description": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+    "cast": [
+      "Hitoshi Takagi",
+      "Noriko Hidaka",
+      "Chika Sakamoto"
+    ],
+    "rating": 86,
+    "cover": "covers/my_neighbor_totoro.jpg"
+  },
+  "The Departed": {
+    "year": 2006,
+    "director": "Martin Scorsese",
+    "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson",
+      "Mark Wahlberg"
+    ],
+    "rating": 86,
+    "cover": "covers/the_departed.jpg"
+  },
+  "The Lion King": {
+    "year": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "description": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "cast": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons",
+      "Nathan Lane"
+    ],
+    "rating": 86,
+    "cover": "covers/the_lion_king.jpg"
+  },
+  "The Truman Show": {
+    "year": 1998,
+    "director": "Peter Weir",
+    "description": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
+    "cast": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Ed Harris",
+      "Noah Emmerich"
+    ],
+    "rating": 86,
+    "cover": "covers/the_truman_show.jpg"
+  },
+  "Mad Max: Fury Road": {
+    "year": 2015,
+    "director": "George Miller",
+    "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "rating": 86,
+    "cover": "covers/mad_max_fury_road.jpg"
+  },
+  "2001: A Space Odyssey": {
+    "year": 1968,
+    "director": "Stanley Kubrick",
+    "description": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+    "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "Douglas Rain"
+    ],
+    "rating": 86,
+    "cover": "covers/2001_a_space_odyssey.jpg"
+  },
+  "Dune: Part Two": {
+    "year": 2024,
+    "director": "Denis Villeneuve",
+    "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Austin Butler"
+    ],
+    "rating": 86,
+    "cover": "covers/dune_part_two.jpg"
+  },
+  "Rosemary's Baby": {
+    "year": 1968,
+    "director": "Roman Polanski",
+    "description": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+    "cast": [
+      "Mia Farrow",
+      "John Cassavetes",
+      "Ruth Gordon"
+    ],
+    "rating": 86,
+    "cover": "covers/rosemarys_baby.jpg"
+  },
+  "Once Upon a Time in the West": {
+    "year": 1968,
+    "director": "Sergio Leone",
+    "description": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+    "cast": [
+      "Henry Fonda",
+      "Charles Bronson",
+      "Claudia Cardinale"
+    ],
+    "rating": 86,
+    "cover": "covers/once_upon_a_time_in_the_west.jpg"
+  },
+  "Reservoir Dogs": {
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "description": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "cast": [
+      "Harvey Keitel",
+      "Tim Roth",
+      "Michael Madsen",
+      "Steve Buscemi"
+    ],
+    "rating": 86,
+    "cover": "covers/reservoir_dogs.jpg"
+  },
+  "Finding Nemo": {
+    "year": 2003,
+    "director": "Andrew Stanton",
+    "description": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould",
+      "Willem Dafoe"
+    ],
+    "rating": 85,
+    "cover": "covers/finding_nemo.jpg"
+  },
+  "Memories of Murder": {
+    "year": 2003,
+    "director": "Bong Joon-ho",
+    "description": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases.",
+    "cast": [
+      "Song Kang-ho",
+      "Kim Sang-kyung",
+      "Kim Roi-ha"
+    ],
+    "rating": 85,
+    "cover": "covers/memories_of_murder.jpg"
+  },
+  "The Grand Budapest Hotel": {
+    "year": 2014,
+    "director": "Wes Anderson",
+    "description": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric",
+      "Adrien Brody"
+    ],
+    "rating": 85,
+    "cover": "covers/the_grand_budapest_hotel.jpg"
+  },
+  "Oppenheimer": {
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr.",
+      "Matt Damon"
+    ],
+    "rating": 85,
+    "cover": "covers/oppenheimer.jpg"
+  },
+  "Raging Bull": {
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "cast": [
+      "Robert De Niro",
+      "Joe Pesci",
+      "Cathy Moriarty"
+    ],
+    "rating": 85,
+    "cover": "covers/raging_bull.jpg"
+  },
+  "Up": {
+    "year": 2009,
+    "director": "Pete Docter, Bob Peterson",
+    "description": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+    "cast": [
+      "Ed Asner",
+      "Christopher Plummer",
+      "Jordan Nagai"
+    ],
+    "rating": 85,
+    "cover": "covers/up.jpg"
+  },
+  "Wolfwalkers": {
+    "year": 2020,
+    "director": "Tomm Moore, Ross Stewart",
+    "description": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+    "cast": [
+      "Honor Kneafsey",
+      "Eva Whittaker",
+      "Sean Bean"
+    ],
+    "rating": 85,
+    "cover": "covers/wolfwalkers.jpg"
+  },
+  "Memento": {
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "description": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "cast": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano"
+    ],
+    "rating": 85,
+    "cover": "covers/memento.jpg"
+  },
+  "Nausicaä of the Valley of the Wind": {
+    "year": 1984,
+    "director": "Hayao Miyazaki",
+    "description": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "cast": [
+      "Sumi Shimamoto",
+      "Mahito Tsujimura",
+      "Hisako Kyoda"
+    ],
+    "rating": 85,
+    "cover": "covers/nausica_of_the_valley_of_the_wind.jpg"
+  },
+  "To Kill a Mockingbird": {
+    "year": 1962,
+    "director": "Robert Mulligan",
+    "description": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+    "cast": [
+      "Gregory Peck",
+      "Mary Badham",
+      "Phillip Alford"
+    ],
+    "rating": 85,
+    "cover": "covers/to_kill_a_mockingbird.jpg"
+  },
+  "Django Unchained": {
+    "year": 2012,
+    "director": "Quentin Tarantino",
+    "description": "The violent story of a German Bounty Hunter who frees a slave Django for his own business purposes. After learning that Django’s wife is still bound to slavery, they both endeavor to free her from her crazed and ruthless owner of a Mississippi plantation.",
+    "cast": [
+      "Jamie Foxx",
+      "Christoph Waltz",
+      "Leonardo DiCaprio",
+      "Samuel L. Jackson"
+    ],
+    "rating": 85,
+    "cover": "covers/django_unchained.jpg"
+  },
+  "Forrest Gump": {
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field"
+    ],
+    "rating": 85,
+    "cover": "covers/forrest_gump.jpg"
+  },
+  "The Irishman": {
+    "year": 2019,
+    "director": "Martin Scorsese",
+    "description": "Set in the 1950s, a war veteran Frank Sheeran becomes involved with a Pennsylvania crime family headed by Russell Bufalino. As Frank raises through the gangs ranks to become a trusted hitman, he is introduced to Jimmy Hoffa, a union leader with connections to the underground world, with whom he develops a close and lasting friendship.",
+    "cast": [
+      "Robert De Niro",
+      "Al Pacino",
+      "Joe Pesci"
+    ],
+    "rating": 85,
+    "cover": "covers/the_irishman.jpg"
+  },
+  "Toy Story 2": {
+    "year": 1999,
+    "director": "John Lasseter, Ash Brannon, Lee Unkrich",
+    "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Joan Cusack",
+      "Kelsey Grammer"
+    ],
+    "rating": 85,
+    "cover": "covers/toy_story_2.jpg"
+  },
+  "Princess Mononoke": {
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "description": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "cast": [
+      "Yōji Matsuda",
+      "Yuriko Ishida",
+      "Yūko Tanaka"
+    ],
+    "rating": 84,
+    "cover": "covers/princess_mononoke.jpg"
+  },
+  "The Maltese Falcon": {
+    "year": 1941,
+    "director": "John Huston",
+    "description": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+    "cast": [
+      "Humphrey Bogart",
+      "Mary Astor",
+      "Gladys George"
+    ],
+    "rating": 84,
+    "cover": "covers/the_maltese_falcon.jpg"
+  },
+  "The Tale of The Princess Kaguya": {
+    "year": 2013,
+    "director": "Isao Takahata",
+    "description": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
+    "cast": [
+      "Aki Asakura",
+      "Kengo Kora",
+      "Nobuko Miyamoto"
+    ],
+    "rating": 84,
+    "cover": "covers/the_tale_of_the_princess_kaguya.jpg"
+  },
+  "Howl's Moving Castle": {
+    "year": 2004,
+    "director": "Hayao Miyazaki",
+    "description": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "cast": [
+      "Chieko Baisho",
+      "Takuya Kimura",
+      "Tatsuya Gashuin"
+    ],
+    "rating": 84,
+    "cover": "covers/howls_moving_castle.jpg"
+  },
+  "Kiki's Delivery Service": {
+    "year": 1989,
+    "director": "Hayao Miyazaki",
+    "description": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+    "cast": [
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi"
+    ],
+    "rating": 84,
+    "cover": "covers/kikis_delivery_service.jpg"
+  },
+  "Coco": {
+    "year": 2017,
+    "director": "Lee Unkrich, Adrian Molina",
+    "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "rating": 84,
+    "cover": "covers/coco.jpg"
+  },
+  "Dunkirk": {
+    "year": 2017,
+    "director": "Christopher Nolan",
+    "description": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+    "cast": [
+      "Fionn Whitehead",
+      "Tom Hardy",
+      "Mark Rylance",
+      "Kenneth Branagh"
+    ],
+    "rating": 84,
+    "cover": "covers/dunkirk.jpg"
+  },
+  "My Fair Lady": {
+    "year": 1964,
+    "director": "George Cukor",
+    "description": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+    "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Stanley Holloway"
+    ],
+    "rating": 83,
+    "cover": "covers/my_fair_lady.jpg"
+  },
+  "The Boy and the Heron": {
+    "year": 2023,
+    "director": "Hayao Miyazaki",
+    "description": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the long-awaited one.",
+    "cast": [
+      "Soma Santoki",
+      "Masaki Suda",
+      "Ko Shibasaki"
+    ],
+    "rating": 83,
+    "cover": "covers/the_boy_and_the_heron.jpg"
+  },
+  "A Clockwork Orange": {
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+    "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates"
+    ],
+    "rating": 83,
+    "cover": "covers/a_clockwork_orange.jpg"
+  },
+  "Inception": {
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "rating": 83,
+    "cover": "covers/inception.jpg"
+  },
+  "Aladdin": {
+    "year": 1992,
+    "director": "Ron Clements, John Musker",
+    "description": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+    "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman"
+    ],
+    "rating": 83,
+    "cover": "covers/aladdin.jpg"
+  },
+  "Avengers: Endgame": {
+    "year": 2019,
+    "director": "Anthony Russo, Joe Russo",
+    "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "rating": 83,
+    "cover": "covers/avengers_endgame.jpg"
+  },
+  "Donnie Darko": {
+    "year": 2001,
+    "director": "Richard Kelly",
+    "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+    "cast": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "Mary McDonnell",
+      "Patrick Swayze"
+    ],
+    "rating": 83,
+    "cover": "covers/donnie_darko.jpg"
+  },
+  "Good Will Hunting": {
+    "year": 1997,
+    "director": "Gus Van Sant",
+    "description": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Minnie Driver"
+    ],
+    "rating": 83,
+    "cover": "covers/good_will_hunting.jpg"
+  },
+  "Kill Bill: Volume 2": {
+    "year": 2004,
+    "director": "Quentin Tarantino",
+    "description": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+    "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Michael Madsen",
+      "Daryl Hannah"
+    ],
+    "rating": 83,
+    "cover": "covers/kill_bill_volume_2.jpg"
+  },
+  "Fantastic Mr. Fox": {
+    "year": 2009,
+    "director": "Wes Anderson",
+    "description": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Bill Murray",
+      "Jason Schwartzman"
+    ],
+    "rating": 83,
+    "cover": "covers/fantastic_mr_fox.jpg"
+  },
+  "Mulholland Drive": {
+    "year": 2001,
+    "director": "David Lynch",
+    "description": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+    "cast": [
+      "Naomi Watts",
+      "Laura Harring",
+      "Justin Theroux"
+    ],
+    "rating": 83,
+    "cover": "covers/mulholland_drive.jpg"
+  },
+  "Oldboy": {
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "description": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+    "cast": [
+      "Choi Min-sik",
+      "Yoo Ji-tae",
+      "Kang Hye-jung"
+    ],
+    "rating": 83,
+    "cover": "covers/oldboy.jpg"
+  },
+  "The Wind Rises": {
+    "year": 2013,
+    "director": "Hayao Miyazaki",
+    "description": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+    "cast": [
+      "Hideaki Anno",
+      "Hidetoshi Nishijima",
+      "Miori Takimoto"
+    ],
+    "rating": 83,
+    "cover": "covers/the_wind_rises.jpg"
+  },
+  "The Wind Will Carry Us": {
+    "year": 1999,
+    "director": "Abbas Kiarostami",
+    "description": "Irreverent city engineer Behzad comes to a rural Kurdish village in Iran to keep vigil for a dying relative. In the meanwhile the film follows his efforts to fit in with the local community and how he changes his own attitudes as a result.",
+    "cast": [
+      "Behzad Dorani",
+      "Noghre Asadi",
+      "Roushan Karam Elmi"
+    ],
+    "rating": 83,
+    "cover": "covers/the_wind_will_carry_us.jpg"
+  },
+  "Children of Heaven": {
+    "year": 1997,
+    "director": "Majid Majidi",
+    "description": "Zohre's shoes are gone; her older brother Ali lost them. They are poor, there are no shoes for Zohre until they come up with an idea: they will share one pair of shoes. School awaits.",
+    "cast": [
+      "Mohammad Amir Naji",
+      "Amir Farrokh Hashemian",
+      "Bahare Seddiqi"
+    ],
+    "rating": 82,
+    "cover": "covers/children_of_heaven.jpg"
+  },
+  "Interstellar": {
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "rating": 82,
+    "cover": "covers/interstellar.jpg"
+  },
+  "Where Is My Friend's House?": {
+    "year": 1987,
+    "director": "Abbas Kiarostami",
+    "description": "An 8 year old boy must return his friend's notebook he took by mistake, lest his friend be punished by expulsion from school.",
+    "cast": [
+      "Babak Ahmadpour",
+      "Ahmad Ahmadpour",
+      "Kheda Barech Defai"
+    ],
+    "rating": 82,
+    "cover": "covers/where_is_my_friends_house.jpg"
+  },
+  "Ponyo": {
+    "year": 2008,
+    "director": "Hayao Miyazaki",
+    "description": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "cast": [
+      "Yuria Nara",
+      "Hiroki Doi",
+      "George Tokoro"
+    ],
+    "rating": 82,
+    "cover": "covers/ponyo.jpg"
+  },
+  "Porco Rosso": {
+    "year": 1992,
+    "director": "Hayao Miyazaki",
+    "description": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+    "cast": [
+      "Shūichirō Moriyama",
+      "Tokiko Katō",
+      "Akemi Okamura"
+    ],
+    "rating": 82,
+    "cover": "covers/porco_rosso.jpg"
+  },
+  "Soul": {
+    "year": 2020,
+    "director": "Pete Docter, Kemp Powers",
+    "description": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House"
+    ],
+    "rating": 82,
+    "cover": "covers/soul.jpg"
+  },
+  "American Beauty": {
+    "year": 1999,
+    "director": "Sam Mendes",
+    "description": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+    "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch"
+    ],
+    "rating": 82,
+    "cover": "covers/american_beauty.jpg"
+  },
+  "Knives Out": {
+    "year": 2019,
+    "director": "Rian Johnson",
+    "description": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+    "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas",
+      "Jamie Lee Curtis"
+    ],
+    "rating": 82,
+    "cover": "covers/knives_out.jpg"
+  },
+  "Only Yesterday": {
+    "year": 1991,
+    "director": "Isao Takahata",
+    "description": "In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+    "cast": [
+      "Miki Imai",
+      "Toshirō Yanagiba",
+      "Yoko Honna"
+    ],
+    "rating": 82,
+    "cover": "covers/only_yesterday.jpg"
+  },
+  "The Matrix": {
+    "year": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "rating": 82,
+    "cover": "covers/the_matrix.jpg"
+  },
+  "The Shining": {
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "description": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Scatman Crothers"
+    ],
+    "rating": 82,
+    "cover": "covers/the_shining.jpg"
+  },
+  "Casino Royale": {
+    "year": 2006,
+    "director": "Martin Campbell",
+    "description": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+    "cast": [
+      "Daniel Craig",
+      "Eva Green",
+      "Mads Mikkelsen",
+      "Judi Dench"
+    ],
+    "rating": 82,
+    "cover": "covers/casino_royale.jpg"
+  },
+  "The Color of Paradise": {
+    "year": 1999,
+    "director": "Majid Majidi",
+    "description": "The story revolves around a blind boy named Mohammed who is released from his special school in Tehran for summer vacation. His father, shamed and burdened by Mohammed's blindness, arrives late to pick him up and then tries to convince the headmaster to keep Mohammed over the summer. The headmaster refuses, so Mohammed's father eventually takes him home.",
+    "cast": [
+      "Mohsen Ramezani",
+      "Hossein Mahjoub",
+      "Salameh Feyzi"
+    ],
+    "rating": 82,
+    "cover": "covers/the_color_of_paradise.jpg"
+  },
+  "The Usual Suspects": {
+    "year": 1995,
+    "director": "Bryan Singer",
+    "description": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Chazz Palminteri",
+      "Stephen Baldwin"
+    ],
+    "rating": 82,
+    "cover": "covers/the_usual_suspects.jpg"
+  },
+  "Castle in the Sky": {
+    "year": 1986,
+    "director": "Hayao Miyazaki",
+    "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "cast": [
+      "Mayumi Tanaka",
+      "Keiko Yokozawa",
+      "Kotoe Hatsui"
+    ],
+    "rating": 82,
+    "cover": "covers/castle_in_the_sky.jpg"
+  },
+  "The Exorcist": {
+    "year": 1973,
+    "director": "William Friedkin",
+    "description": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the devil - and that her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+    "cast": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "rating": 82,
+    "cover": "covers/the_exorcist.jpg"
+  },
+  "Fight Club": {
+    "year": 1999,
+    "director": "David Fincher",
+    "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "rating": 81,
+    "cover": "covers/fight_club.jpg"
+  },
+  "Jurassic Park": {
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "description": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "rating": 81,
+    "cover": "covers/jurassic_park.jpg"
+  },
+  "Black Panther": {
+    "year": 2018,
+    "director": "Ryan Coogler",
+    "description": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "cast": [
+      "Chadwick Boseman",
+      "Michael B. Jordan",
+      "Lupita Nyong'o",
+      "Danai Gurira"
+    ],
+    "rating": 81,
+    "cover": "covers/black_panther.jpg"
+  },
+  "Inglourious Basterds": {
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "description": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "cast": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Mélanie Laurent",
+      "Diane Kruger"
+    ],
+    "rating": 81,
+    "cover": "covers/inglourious_basterds.jpg"
+  },
+  "Roman Holiday": {
+    "year": 1953,
+    "director": "William Wyler",
+    "description": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+    "cast": [
+      "Audrey Hepburn",
+      "Gregory Peck",
+      "Eddie Albert"
+    ],
+    "rating": 81,
+    "cover": "covers/roman_holiday.jpg"
+  },
+  "Blade Runner 2049": {
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Jared Leto"
+    ],
+    "rating": 81,
+    "cover": "covers/blade_runner_2049.jpg"
+  },
+  "For a Few Dollars More": {
+    "year": 1965,
+    "director": "Sergio Leone",
+    "description": "Two bounty hunters both pursue a brutal and sadistic bandit El Indio who has a massive bounty on his head.",
+    "cast": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volonté"
+    ],
+    "rating": 81,
+    "cover": "covers/for_a_few_dollars_more.jpg"
+  },
+  "Se7en": {
+    "year": 1995,
+    "director": "David Fincher",
+    "description": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow",
+      "Kevin Spacey"
+    ],
+    "rating": 81,
+    "cover": "covers/se7en.jpg"
+  },
+  "Skyfall": {
+    "year": 2012,
+    "director": "Sam Mendes",
+    "description": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+    "cast": [
+      "Daniel Craig",
+      "Javier Bardem",
+      "Naomie Harris",
+      "Judi Dench"
+    ],
+    "rating": 81,
+    "cover": "covers/skyfall.jpg"
+  },
+  "The Wolf of Wall Street": {
+    "year": 2013,
+    "director": "Martin Scorsese",
+    "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey"
+    ],
+    "rating": 81,
+    "cover": "covers/the_wolf_of_wall_street.jpg"
+  },
+  "Hot Fuzz": {
+    "year": 2007,
+    "director": "Edgar Wright",
+    "description": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+    "cast": [
+      "Simon Pegg",
+      "Nick Frost",
+      "Timothy Dalton",
+      "Jim Broadbent"
+    ],
+    "rating": 81,
+    "cover": "covers/hot_fuzz.jpg"
+  },
+  "Whisper of the Heart": {
+    "year": 1995,
+    "director": "Yoshifumi Kondō",
+    "description": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
+    "cast": [
+      "Yōko Honna",
+      "Issei Takahashi",
+      "Takashi Tachibana"
+    ],
+    "rating": 81,
+    "cover": "covers/whisper_of_the_heart.jpg"
+  },
+  "Kill Bill: Vol. 1": {
+    "year": 2003,
+    "director": "Quentin Tarantino",
+    "description": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Michael Madsen"
+    ],
+    "rating": 80,
+    "cover": "covers/kill_bill_vol_1.jpg"
+  },
+  "Catch Me If You Can": {
+    "year": 2002,
+    "director": "Steven Spielberg",
+    "description": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken",
+      "Amy Adams"
+    ],
+    "rating": 80,
+    "cover": "covers/catch_me_if_you_can.jpg"
+  },
+  "Life is Beautiful": {
+    "year": 1997,
+    "director": "Roberto Benigni",
+    "description": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "rating": 80,
+    "cover": "covers/life_is_beautiful.jpg"
+  },
+  "The Dark Knight Rises": {
+    "year": 2012,
+    "director": "Christopher Nolan",
+    "description": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway",
+      "Gary Oldman"
+    ],
+    "rating": 80,
+    "cover": "covers/the_dark_knight_rises.jpg"
+  },
+  "Wait Until Dark": {
+    "year": 1967,
+    "director": "Terence Young",
+    "description": "After a flight back home, Sam Hendrix returns with a doll he innocently acquired along the way. As it turns out, the doll is actually stuffed with heroin, and a group of criminals led by the ruthless Roat has followed Hendrix back to his place to retrieve it. When Hendrix leaves for business, the crooks make their move -- and find his blind wife, Susy, alone in the apartment. Soon, a life-threatening game begins between Susy and the thugs.",
+    "cast": [
+      "Audrey Hepburn",
+      "Alan Arkin",
+      "Richard Crenna"
+    ],
+    "rating": 80,
+    "cover": "covers/wait_until_dark.jpg"
+  },
+  "John Wick: Chapter 4": {
+    "year": 2023,
+    "director": "Chad Stahelski",
+    "description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "cast": [
+      "Keanu Reeves",
+      "Donnie Yen",
+      "Bill Skarsgård",
+      "Laurence Fishburne"
+    ],
+    "rating": 80,
+    "cover": "covers/john_wick_chapter_4.jpg"
+  },
+  "Logan": {
+    "year": 2017,
+    "director": "James Mangold",
+    "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+    "cast": [
+      "Hugh Jackman",
+      "Patrick Stewart",
+      "Dafne Keen"
+    ],
+    "rating": 80,
+    "cover": "covers/logan.jpg"
+  },
+  "Zootopia": {
+    "year": 2016,
+    "director": "Byron Howard, Rich Moore, Jared Bush",
+    "description": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+    "cast": [
+      "Ginnifer Goodwin",
+      "Jason Bateman",
+      "Idris Elba",
+      "Jenny Slate"
+    ],
+    "rating": 80,
+    "cover": "covers/zootopia.jpg"
+  },
+  "Mulan": {
+    "year": 1998,
+    "director": "Tony Bancroft, Barry Cook",
+    "description": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+    "cast": [
+      "Ming-Na Wen",
+      "Eddie Murphy",
+      "BD Wong",
+      "Harvey Fierstein"
+    ],
+    "rating": 80,
+    "cover": "covers/mulan.jpg"
+  },
+  "Gladiator": {
+    "year": 2000,
+    "director": "Ridley Scott",
+    "description": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed"
+    ],
+    "rating": 80,
+    "cover": "covers/gladiator.jpg"
+  },
+  "Hereditary": {
+    "year": 2018,
+    "director": "Ari Aster",
+    "description": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+    "cast": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro",
+      "Gabriel Byrne"
+    ],
+    "rating": 80,
+    "cover": "covers/hereditary.jpg"
+  },
+  "Avengers: Infinity War": {
+    "year": 2018,
+    "director": "Anthony Russo, Joe Russo",
+    "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans"
+    ],
+    "rating": 79,
+    "cover": "covers/avengers_infinity_war.jpg"
+  },
+  "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan": {
+    "year": 2006,
+    "director": "Larry Charles",
+    "description": "Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he zigzags across the nation, Borat meets real people in real situations with hysterical consequences. His backwards behavior generates strong reactions around him exposing prejudices and hypocrisies in American culture.",
+    "cast": [
+      "Sacha Baron Cohen",
+      "Ken Davitian",
+      "Luenell"
+    ],
+    "rating": 79,
+    "cover": "covers/borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan.jpg"
+  },
+  "Killers of the Flower Moon": {
+    "year": 2023,
+    "director": "Martin Scorsese",
+    "description": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Robert De Niro",
+      "Lily Gladstone",
+      "Jesse Plemons"
+    ],
+    "rating": 79,
+    "cover": "covers/killers_of_the_flower_moon.jpg"
+  },
+  "The Lighthouse": {
+    "year": 2019,
+    "director": "Robert Eggers",
+    "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+    "cast": [
+      "Robert Pattinson",
+      "Willem Dafoe"
+    ],
+    "rating": 79,
+    "cover": "covers/the_lighthouse.jpg"
+  },
+  "The Secret World of Arrietty": {
+    "year": 2010,
+    "director": "Hiromasa Yonebayashi",
+    "description": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+    "cast": [
+      "Mirai Shida",
+      "Ryunosuke Kamiki",
+      "Shinobu Otake"
+    ],
+    "rating": 79,
+    "cover": "covers/the_secret_world_of_arrietty.jpg"
+  },
+  "The Revenant": {
+    "year": 2015,
+    "director": "Alejandro González Iñárritu",
+    "description": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter"
+    ],
+    "rating": 79,
+    "cover": "covers/the_revenant.jpg"
+  },
+  "The Imitation Game": {
+    "year": 2014,
+    "director": "Morten Tyldum",
+    "description": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode",
+      "Mark Strong"
+    ],
+    "rating": 79,
+    "cover": "covers/the_imitation_game.jpg"
+  },
+  "Toy Story 4": {
+    "year": 2019,
+    "director": "Josh Cooley",
+    "description": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+    "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts",
+      "Tony Hale"
+    ],
+    "rating": 79,
+    "cover": "covers/toy_story_4.jpg"
+  },
+  "The Shape of Water": {
+    "year": 2017,
+    "director": "Guillermo del Toro",
+    "description": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
+    "cast": [
+      "Sally Hawkins",
+      "Michael Shannon",
+      "Richard Jenkins",
+      "Octavia Spencer"
+    ],
+    "rating": 79,
+    "cover": "covers/the_shape_of_water.jpg"
+  },
+  "The Sixth Sense": {
+    "year": 1999,
+    "director": "M. Night Shyamalan",
+    "description": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+    "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette"
+    ],
+    "rating": 79,
+    "cover": "covers/the_sixth_sense.jpg"
+  },
+  "A Fistful of Dollars": {
+    "year": 1964,
+    "director": "Sergio Leone",
+    "description": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+    "cast": [
+      "Clint Eastwood",
+      "Marianne Koch",
+      "Gian Maria Volonté"
+    ],
+    "rating": 79,
+    "cover": "covers/a_fistful_of_dollars.jpg"
+  },
+  "Puss in Boots: The Last Wish": {
+    "year": 2022,
+    "director": "Joel Crawford",
+    "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "cast": [
+      "Antonio Banderas",
+      "Salma Hayek",
+      "Harvey Guillén",
+      "Florence Pugh"
+    ],
+    "rating": 79,
+    "cover": "covers/puss_in_boots_the_last_wish.jpg"
+  },
+  "Kung Fu Hustle": {
+    "year": 2004,
+    "director": "Stephen Chow",
+    "description": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+    "cast": [
+      "Stephen Chow",
+      "Danny Chan Kwok-kwan",
+      "Yuen Wah"
+    ],
+    "rating": 78,
+    "cover": "covers/kung_fu_hustle.jpg"
+  },
+  "A Quiet Place": {
+    "year": 2018,
+    "director": "John Krasinski",
+    "description": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds",
+      "Noah Jupe"
+    ],
+    "rating": 78,
+    "cover": "covers/a_quiet_place.jpg"
+  },
+  "The Green Mile": {
+    "year": 1999,
+    "director": "Frank Darabont",
+    "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse",
+      "Bonnie Hunt"
+    ],
+    "rating": 78,
+    "cover": "covers/the_green_mile.jpg"
+  },
+  "A Nightmare on Elm Street": {
+    "year": 1984,
+    "director": "Wes Craven",
+    "description": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+    "cast": [
+      "Heather Langenkamp",
+      "Johnny Depp",
+      "Robert Englund"
+    ],
+    "rating": 78,
+    "cover": "covers/a_nightmare_on_elm_street.jpg"
+  },
+  "Léon: The Professional": {
+    "year": 1994,
+    "director": "Luc Besson",
+    "description": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+    "cast": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman"
+    ],
+    "rating": 78,
+    "cover": "covers/lon_the_professional.jpg"
+  },
+  "The Thing": {
+    "year": 1982,
+    "director": "John Carpenter",
+    "description": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.",
+    "cast": [
+      "Kurt Russell",
+      "Wilford Brimley",
+      "Keith David"
+    ],
+    "rating": 78,
+    "cover": "covers/the_thing.jpg"
+  },
+  "When Marnie Was There": {
+    "year": 2014,
+    "director": "Hiromasa Yonebayashi",
+    "description": "Upon being sent to live with relatives in the countryside due to an illness, an emotionally distant adolescent girl becomes obsessed with an abandoned mansion and infatuated with a girl who lives there - a girl who may or may not be real.",
+    "cast": [
+      "Sara Takatsuki",
+      "Kasumi Arimura",
+      "Nanako Matsushima"
+    ],
+    "rating": 78,
+    "cover": "covers/when_marnie_was_there.jpg"
+  },
+  "Batman Begins": {
+    "year": 2005,
+    "director": "Christopher Nolan",
+    "description": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City. Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes"
+    ],
+    "rating": 78,
+    "cover": "covers/batman_begins.jpg"
+  },
+  "The Batman": {
+    "year": 2022,
+    "director": "Matt Reeves",
+    "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright"
+    ],
+    "rating": 78,
+    "cover": "covers/the_batman.jpg"
+  },
+  "John Wick: Chapter 2": {
+    "year": 2017,
+    "director": "Chad Stahelski",
+    "description": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+    "cast": [
+      "Keanu Reeves",
+      "Riccardo Scamarcio",
+      "Ian McShane",
+      "Laurence Fishburne"
+    ],
+    "rating": 78,
+    "cover": "covers/john_wick_chapter_2.jpg"
+  },
+  "The Prestige": {
+    "year": 2006,
+    "director": "Christopher Nolan",
+    "description": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson",
+      "Michael Caine"
+    ],
+    "rating": 77,
+    "cover": "covers/the_prestige.jpg"
+  },
+  "Black Hawk Down": {
+    "year": 2001,
+    "director": "Ridley Scott",
+    "description": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+    "cast": [
+      "Josh Hartnett",
+      "Ewan McGregor",
+      "Tom Sizemore",
+      "Eric Bana"
+    ],
+    "rating": 77,
+    "cover": "covers/black_hawk_down.jpg"
+  },
+  "Dune": {
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "cast": [
+      "Timothée Chalamet",
+      "Rebecca Ferguson",
+      "Oscar Isaac",
+      "Zendaya"
+    ],
+    "rating": 77,
+    "cover": "covers/dune.jpg"
+  },
+  "Sabrina": {
+    "year": 1954,
+    "director": "Billy Wilder",
+    "description": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work – busily running the family corporate empire, he has no time for a wife and family. David is all play – technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
+    "cast": [
+      "Audrey Hepburn",
+      "Humphrey Bogart",
+      "William Holden"
+    ],
+    "rating": 77,
+    "cover": "covers/sabrina.jpg"
+  },
+  "Thor: Ragnarok": {
+    "year": 2017,
+    "director": "Taika Waititi",
+    "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "cast": [
+      "Chris Hemsworth",
+      "Tom Hiddleston",
+      "Cate Blanchett",
+      "Mark Ruffalo"
+    ],
+    "rating": 77,
+    "cover": "covers/thor_ragnarok.jpg"
+  },
+  "Pirates of the Caribbean: The Curse of the Black Pearl": {
+    "year": 2003,
+    "director": "Gore Verbinski",
+    "description": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley"
+    ],
+    "rating": 77,
+    "cover": "covers/pirates_of_the_caribbean_the_curse_of_the_black_pearl.jpg"
+  },
+  "A Serious Man": {
+    "year": 2009,
+    "director": "Joel Coen, Ethan Coen",
+    "description": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+    "cast": [
+      "Michael Stuhlbarg",
+      "Richard Kind",
+      "Sari Lennick"
+    ],
+    "rating": 77,
+    "cover": "covers/a_serious_man.jpg"
+  },
+  "Shutter Island": {
+    "year": 2010,
+    "director": "Martin Scorsese",
+    "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley",
+      "Max von Sydow"
+    ],
+    "rating": 77,
+    "cover": "covers/shutter_island.jpg"
+  },
+  "The Hateful Eight": {
+    "year": 2015,
+    "director": "Quentin Tarantino",
+    "description": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "cast": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh",
+      "Walton Goggins"
+    ],
+    "rating": 77,
+    "cover": "covers/the_hateful_eight.jpg"
+  },
+  "John Wick: Chapter 3 – Parabellum": {
+    "year": 2019,
+    "director": "Chad Stahelski",
+    "description": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+    "cast": [
+      "Keanu Reeves",
+      "Halle Berry",
+      "Ian McShane",
+      "Laurence Fishburne"
+    ],
+    "rating": 76,
+    "cover": "covers/john_wick_chapter_3_parabellum.jpg"
+  },
+  "Kung Fu Panda": {
+    "year": 2008,
+    "director": "Mark Osborne, John Stevenson",
+    "description": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+    "cast": [
+      "Jack Black",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "Ian McShane"
+    ],
+    "rating": 76,
+    "cover": "covers/kung_fu_panda.jpg"
+  },
+  "Sweeney Todd: The Demon Barber of Fleet Street": {
+    "year": 2007,
+    "director": "Tim Burton",
+    "description": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett. Based on the hit Broadway musical.",
+    "cast": [
+      "Johnny Depp",
+      "Helena Bonham Carter",
+      "Alan Rickman",
+      "Timothy Spall"
+    ],
+    "rating": 76,
+    "cover": "covers/sweeney_todd_the_demon_barber_of_fleet_street.jpg"
+  },
+  "Joker": {
+    "year": 2019,
+    "director": "Todd Phillips",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "rating": 76,
+    "cover": "covers/joker.jpg"
+  },
+  "Shaolin Soccer": {
+    "year": 2001,
+    "director": "Stephen Chow",
+    "description": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+    "cast": [
+      "Stephen Chow",
+      "Wei Zhao",
+      "Man Tat Ng"
+    ],
+    "rating": 76,
+    "cover": "covers/shaolin_soccer.jpg"
+  },
+  "John Wick": {
+    "year": 2014,
+    "director": "Chad Stahelski",
+    "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "cast": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen",
+      "Willem Dafoe"
+    ],
+    "rating": 75,
+    "cover": "covers/john_wick.jpg"
+  },
+  "Deadpool": {
+    "year": 2016,
+    "director": "Tim Miller",
+    "description": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "cast": [
+      "Ryan Reynolds",
+      "Morena Baccarin",
+      "Ed Skrein",
+      "T.J. Miller"
+    ],
+    "rating": 75,
+    "cover": "covers/deadpool.jpg"
+  },
+  "From Up on Poppy Hill": {
+    "year": 2011,
+    "director": "Gorō Miyazaki",
+    "description": "Yokohama, 1963. Japan is picking itself up from the devastation of World War II and preparing to host the 1964 Olympics—and the mood is one of both optimism and conflict as the young generation struggles to throw off the shackles of a troubled past. Against this backdrop of hope and change, a friendship begins to blossom between high school students Umi and Shun—but a buried secret from their past emerges to cast a shadow on the future and pull them apart.",
+    "cast": [
+      "Masami Nagasawa",
+      "Jun Fubuki",
+      "Shunsuke Kazama"
+    ],
+    "rating": 75,
+    "cover": "covers/from_up_on_poppy_hill.jpg"
+  },
+  "Rango": {
+    "year": 2011,
+    "director": "Gore Verbinski",
+    "description": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+    "cast": [
+      "Johnny Depp",
+      "Isla Fisher",
+      "Ned Beatty",
+      "Bill Nighy"
+    ],
+    "rating": 75,
+    "cover": "covers/rango.jpg"
+  },
+  "El Camino: A Breaking Bad Movie": {
+    "year": 2019,
+    "director": "Vince Gilligan",
+    "description": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+    "cast": [
+      "Aaron Paul",
+      "Jesse Plemons",
+      "Krysten Ritter",
+      "Charles Baker"
+    ],
+    "rating": 75,
+    "cover": "covers/el_camino_a_breaking_bad_movie.jpg"
+  },
+  "The Conjuring": {
+    "year": 2013,
+    "director": "James Wan",
+    "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Lili Taylor",
+      "Ron Livingston"
+    ],
+    "rating": 75,
+    "cover": "covers/the_conjuring.jpg"
+  },
+  "Lupin the Third: Goemon's Blood Spray": {
+    "year": 2017,
+    "director": "Takeshi Koike",
+    "description": "A yakuza boss hires Goemon Ishikawa, a modern day samurai, to protect him aboard his cruise ship casino. Everything goes sideways when the famous thief, Lupin the Third, tries to rob the vessel. Lupin's being hunted by a powerful and mysterious man: the so called “Ghost of Bermuda.” With Goemon's employer dead in the ensuing chaos, his honor is at stake, and the only way to preserve it is with blood. But this opponent is like no other, and to make things right, Goemon may need to sharpen not only his sword, but himself as well!",
+    "cast": [
+      "Kanichi Kurita",
+      "Daisuke Namikawa",
+      "Akio Otsuka"
+    ],
+    "rating": 75,
+    "cover": "covers/lupin_the_third_goemons_blood_spray.jpg"
+  },
+  "Blood Diamond": {
+    "year": 2006,
+    "director": "Edward Zwick",
+    "description": "An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Djimon Hounsou",
+      "Jennifer Connelly"
+    ],
+    "rating": 74,
+    "cover": "covers/blood_diamond.jpg"
+  },
+  "Ip Man": {
+    "year": 2008,
+    "director": "Wilson Yip",
+    "description": "A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun. The film focuses on events surrounding Ip that took place in the city of Foshan between the 1930s to 1940s during the Second Sino-Japanese War. Directed by Wilson Yip, the film stars Donnie Yen in the lead role, and features fight choreography by Sammo Hung.",
+    "cast": [
+      "Donnie Yen",
+      "Simon Yam",
+      "Lynn Hung"
+    ],
+    "rating": 74,
+    "cover": "covers/ip_man.jpg"
+  },
+  "Ip Man 2": {
+    "year": 2010,
+    "director": "Wilson Yip",
+    "description": "Having defeated the best fighters of the Imperial Japanese army in occupied Shanghai, Ip Man and his family settle in post-war Hong Kong. Struggling to make a living, Master Ip opens a kung fu school to bring his celebrated art of Wing Chun to the troubled youth of Hong Kong. His growing reputation soon brings challenges from powerful enemies, including pre-eminent Hung Gar master, Hung Quan.",
+    "cast": [
+      "Donnie Yen",
+      "Sammo Hung",
+      "Huang Xiaoming"
+    ],
+    "rating": 74,
+    "cover": "covers/ip_man_2.jpg"
+  },
+  "American Psycho": {
+    "year": 2000,
+    "director": "Mary Harron",
+    "description": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "cast": [
+      "Christian Bale",
+      "Willem Dafoe",
+      "Jared Leto",
+      "Chloë Sevigny"
+    ],
+    "rating": 74,
+    "cover": "covers/american_psycho.jpg"
+  },
+  "Kung Fu Panda 2": {
+    "year": 2011,
+    "director": "Jennifer Yuh Nelson",
+    "description": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+    "cast": [
+      "Jack Black",
+      "Angelina Jolie",
+      "Gary Oldman",
+      "Dustin Hoffman"
+    ],
+    "rating": 74,
+    "cover": "covers/kung_fu_panda_2.jpg"
+  },
+  "Despicable Me": {
+    "year": 2010,
+    "director": "Pierre Coffin, Chris Renaud",
+    "description": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "cast": [
+      "Steve Carell",
+      "Jason Segel",
+      "Russell Brand",
+      "Julie Andrews"
+    ],
+    "rating": 73,
+    "cover": "covers/despicable_me.jpg"
+  },
+  "Tropic Thunder": {
+    "year": 2008,
+    "director": "Ben Stiller",
+    "description": "A group of self-absorbed actors set out to make the most expensive war film ever. After ballooning costs force the studio to cancel the movie, the frustrated director refuses to stop shooting, leading his cast into the jungles of Southeast Asia, where they encounter real bad guys.",
+    "cast": [
+      "Ben Stiller",
+      "Jack Black",
+      "Robert Downey Jr.",
+      "Tom Cruise"
+    ],
+    "rating": 73,
+    "cover": "covers/tropic_thunder.jpg"
+  },
+  "Deadpool 2": {
+    "year": 2018,
+    "director": "David Leitch",
+    "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "cast": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Morena Baccarin",
+      "Zazie Beetz"
+    ],
+    "rating": 73,
+    "cover": "covers/deadpool_2.jpg"
+  },
+  "Home Alone": {
+    "year": 1990,
+    "director": "Chris Columbus",
+    "description": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "Catherine O'Hara"
+    ],
+    "rating": 73,
+    "cover": "covers/home_alone.jpg"
+  },
+  "One Piece: Stampede": {
+    "year": 2019,
+    "director": "Takashi Otsuka",
+    "description": "The world's boldest buccaneers set sail for the great Pirate Festival, where the Straw Hats join a mad-dash race to find Gol D. Roger's treasure. There's just one little problem: An old member of Roger's crew has a sinister score to settle.",
+    "cast": [
+      "Mayumi Tanaka",
+      "Kazuya Nakai",
+      "Akemi Okamura"
+    ],
+    "rating": 73,
+    "cover": "covers/one_piece_stampede.jpg"
+  },
+  "Flight": {
+    "year": 2012,
+    "director": "Robert Zemeckis",
+    "description": "Commercial airline pilot Whip Whitaker has a problem with drugs and alcohol, though so far he's managed to complete his flights safely. His luck runs out when a disastrous mechanical malfunction sends his plane hurtling toward the ground. Whip pulls off a miraculous crash-landing that results in only six lives lost. Shaken to the core, Whip vows to get sober -- but when the crash investigation exposes his addiction, he finds himself in an even worse situation.",
+    "cast": [
+      "Denzel Washington",
+      "Don Cheadle",
+      "Kelly Reilly",
+      "John Goodman"
+    ],
+    "rating": 73,
+    "cover": "covers/flight.jpg"
+  },
+  "It": {
+    "year": 2017,
+    "director": "Andy Muschietti",
+    "description": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+    "cast": [
+      "Bill Skarsgård",
+      "Jaeden Martell",
+      "Finn Wolfhard",
+      "Sophia Lillis"
+    ],
+    "rating": 73,
+    "cover": "covers/it.jpg"
+  },
+  "The Machinist": {
+    "year": 2004,
+    "director": "Brad Anderson",
+    "description": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+    "cast": [
+      "Christian Bale",
+      "Jennifer Jason Leigh",
+      "Aitana Sánchez-Gijón"
+    ],
+    "rating": 73,
+    "cover": "covers/the_machinist.jpg"
+  },
+  "American Sniper": {
+    "year": 2014,
+    "director": "Clint Eastwood",
+    "description": "U.S. Navy SEAL Chris Kyle takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+    "cast": [
+      "Bradley Cooper",
+      "Sienna Miller",
+      "Kyle Gallner",
+      "Cole Konis"
+    ],
+    "rating": 72,
+    "cover": "covers/american_sniper.jpg"
+  },
+  "Charlie and the Chocolate Factory": {
+    "year": 2005,
+    "director": "Tim Burton",
+    "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "cast": [
+      "Johnny Depp",
+      "Freddie Highmore",
+      "David Kelly",
+      "Helena Bonham Carter"
+    ],
+    "rating": 72,
+    "cover": "covers/charlie_and_the_chocolate_factory.jpg"
+  },
+  "Kingsman: The Secret Service": {
+    "year": 2014,
+    "director": "Matthew Vaughn",
+    "description": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+    "cast": [
+      "Taron Egerton",
+      "Colin Firth",
+      "Samuel L. Jackson",
+      "Mark Strong"
+    ],
+    "rating": 72,
+    "cover": "covers/kingsman_the_secret_service.jpg"
+  },
+  "Pom Poko": {
+    "year": 1994,
+    "director": "Isao Takahata",
+    "description": "The Raccoons of the Tama Hills are being forced from their homes by the rapid development of houses and shopping malls. As it becomes harder to find food and shelter, they decide to band together and fight back. The Raccoons practice and perfect the ancient art of transformation until they are even able to appear as humans in hilarious circumstances.",
+    "cast": [
+      "Shinchou Kokontei",
+      "Makoto Nonomura",
+      "Nijiko Kiyokawa"
+    ],
+    "rating": 72,
+    "cover": "covers/pom_poko.jpg"
+  },
+  "Ice Age": {
+    "year": 2002,
+    "director": "Chris Wedge, Carlos Saldanha",
+    "description": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
+    "cast": [
+      "Ray Romano",
+      "John Leguizamo",
+      "Denis Leary"
+    ],
+    "rating": 72,
+    "cover": "covers/ice_age.jpg"
+  },
+  "Predestination": {
+    "year": 2014,
+    "director": "Michael Spierig, Peter Spierig",
+    "description": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+    "cast": [
+      "Ethan Hawke",
+      "Sarah Snook",
+      "Noah Taylor"
+    ],
+    "rating": 72,
+    "cover": "covers/predestination.jpg"
+  },
+  "The Conjuring 2": {
+    "year": 2016,
+    "director": "James Wan",
+    "description": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+    "cast": [
+      "Vera Farmiga",
+      "Patrick Wilson",
+      "Frances O'Connor",
+      "Madison Wolfe"
+    ],
+    "rating": 72,
+    "cover": "covers/the_conjuring_2.jpg"
+  },
+  "The Godfather Part III": {
+    "year": 1990,
+    "director": "Francis Ford Coppola",
+    "description": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+    "cast": [
+      "Al Pacino",
+      "Diane Keaton",
+      "Andy Garcia",
+      "Talia Shire"
+    ],
+    "rating": 72,
+    "cover": "covers/the_godfather_part_iii.jpg"
+  },
+  "Megamind": {
+    "year": 2010,
+    "director": "Tom McGrath",
+    "description": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+    "cast": [
+      "Will Ferrell",
+      "Tina Fey",
+      "Brad Pitt",
+      "Jonah Hill"
+    ],
+    "rating": 71,
+    "cover": "covers/megamind.jpg"
+  },
+  "The Hobbit: The Desolation of Smaug": {
+    "year": 2013,
+    "director": "Peter Jackson",
+    "description": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+    "cast": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage",
+      "Benedict Cumberbatch"
+    ],
+    "rating": 71,
+    "cover": "covers/the_hobbit_the_desolation_of_smaug.jpg"
+  },
+  "My Neighbors the Yamadas": {
+    "year": 1999,
+    "director": "Isao Takahata",
+    "description": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humorous to the heartbreaking, we see this family cope with life's little conflicts, problems, and joys in their own way.",
+    "cast": [
+      "Yukiji Asaoka",
+      "Toru Masuoka",
+      "Masako Araki"
+    ],
+    "rating": 71,
+    "cover": "covers/my_neighbors_the_yamadas.jpg"
+  },
+  "The Hobbit: An Unexpected Journey": {
+    "year": 2012,
+    "director": "Peter Jackson",
+    "description": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon., ",
+    "cast": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage",
+      "Andy Serkis"
+    ],
+    "rating": 71,
+    "cover": "covers/the_hobbit_an_unexpected_journey.jpg"
+  },
+  "Split": {
+    "year": 2016,
+    "director": "M. Night Shyamalan",
+    "description": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.James McAvoy",
+    "cast": [
+      "James McAvoy",
+      "Anya Taylor-Joy",
+      "Betty Buckley"
+    ],
+    "rating": 71,
+    "cover": "covers/split.jpg"
+  },
+  "Perfume: The Story of a Murderer": {
+    "year": 2006,
+    "director": "Tom Tykwer",
+    "description": "Jean-Baptiste Grenouille, born in the stench of 18th century Paris, develops a superior olfactory sense, which he uses to create the world's finest perfumes. However, his work takes a dark turn as he tries to preserve scents in the search for the ultimate perfume.",
+    "cast": [
+      "Ben Whishaw",
+      "Dustin Hoffman",
+      "Alan Rickman"
+    ],
+    "rating": 71,
+    "cover": "covers/perfume_the_story_of_a_murderer.jpg"
+  },
+  "Tenet": {
+    "year": 2020,
+    "director": "Christopher Nolan",
+    "description": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "cast": [
+      "John David Washington",
+      "Robert Pattinson",
+      "Elizabeth Debicki",
+      "Kenneth Branagh"
+    ],
+    "rating": 71,
+    "cover": "covers/tenet.jpg"
+  },
+  "Pirates of the Caribbean: Dead Man's Chest": {
+    "year": 2006,
+    "director": "Gore Verbinski",
+    "description": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Bill Nighy"
+    ],
+    "rating": 70,
+    "cover": "covers/pirates_of_the_caribbean_dead_mans_chest.jpg"
+  },
+  "Ip Man 4": {
+    "year": 2019,
+    "director": "Wilson Yip",
+    "description": "Following the death of his wife, Ip Man travels to San Francisco to ease tensions between the local kung fu masters and his star student, Bruce Lee, while searching for a better future for his son.",
+    "cast": [
+      "Donnie Yen",
+      "Scott Adkins",
+      "Danny Chan Kwok-kwan"
+    ],
+    "rating": 70,
+    "cover": "covers/ip_man_4.jpg"
+  },
+  "Glass Onion: A Knives Out Mystery": {
+    "year": 2022,
+    "director": "Rian Johnson",
+    "description": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+    "cast": [
+      "Daniel Craig",
+      "Edward Norton",
+      "Janelle Monáe",
+      "Kathryn Hahn"
+    ],
+    "rating": 70,
+    "cover": "covers/glass_onion_a_knives_out_mystery.jpg"
+  },
+  "Shazam!": {
+    "year": 2019,
+    "director": "David F. Sandberg",
+    "description": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+    "cast": [
+      "Zachary Levi",
+      "Asher Angel",
+      "Mark Strong",
+      "Jack Dylan Grazer"
+    ],
+    "rating": 69,
+    "cover": "covers/shazam.jpg"
+  },
+  "The Mask": {
+    "year": 1994,
+    "director": "Chuck Russell",
+    "description": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+    "cast": [
+      "Jim Carrey",
+      "Cameron Diaz",
+      "Peter Riegert"
+    ],
+    "rating": 69,
+    "cover": "covers/the_mask.jpg"
+  },
+  "Madagascar": {
+    "year": 2005,
+    "director": "Eric Darnell, Tom McGrath",
+    "description": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+    "cast": [
+      "Ben Stiller",
+      "Chris Rock",
+      "David Schwimmer",
+      "Jada Pinkett Smith"
+    ],
+    "rating": 69,
+    "cover": "covers/madagascar.jpg"
+  },
+  "Ip Man 3": {
+    "year": 2015,
+    "director": "Wilson Yip",
+    "description": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+    "cast": [
+      "Donnie Yen",
+      "Lynn Hung",
+      "Mike Tyson"
+    ],
+    "rating": 68,
+    "cover": "covers/ip_man_3.jpg"
+  },
+  "The Hobbit: The Battle of the Five Armies": {
+    "year": 2014,
+    "director": "Peter Jackson",
+    "description": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+    "cast": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage",
+      "Luke Evans"
+    ],
+    "rating": 68,
+    "cover": "covers/the_hobbit_the_battle_of_the_five_armies.jpg"
+  },
+  "Pirates of the Caribbean: At World's End": {
+    "year": 2007,
+    "director": "Gore Verbinski",
+    "description": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Geoffrey Rush"
+    ],
+    "rating": 67,
+    "cover": "covers/pirates_of_the_caribbean_at_worlds_end.jpg"
+  },
+  "The Great Gatsby": {
+    "year": 2013,
+    "director": "Baz Luhrmann",
+    "description": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Carey Mulligan",
+      "Tobey Maguire",
+      "Joel Edgerton"
+    ],
+    "rating": 67,
+    "cover": "covers/the_great_gatsby.jpg"
+  },
+  "Star Wars: Episode II - Attack of the Clones": {
+    "year": 2002,
+    "director": "George Lucas",
+    "description": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot that could change the galaxy forever.",
+    "cast": [
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Hayden Christensen",
+      "Christopher Lee"
+    ],
+    "rating": 66,
+    "cover": "covers/star_wars_episode_ii_attack_of_the_clones.jpg"
+  },
+  "The Maze Runner": {
+    "year": 2014,
+    "director": "Wes Ball",
+    "description": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster",
+      "Will Poulter"
+    ],
+    "rating": 65,
+    "cover": "covers/the_maze_runner.jpg"
+  },
+  "Star Wars: Episode I - The Phantom Menace": {
+    "year": 1999,
+    "director": "George Lucas",
+    "description": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "cast": [
+      "Liam Neeson",
+      "Ewan McGregor",
+      "Natalie Portman",
+      "Jake Lloyd"
+    ],
+    "rating": 64,
+    "cover": "covers/star_wars_episode_i_the_phantom_menace.jpg"
+  },
+  "The Phantom of the Opera": {
+    "year": 2004,
+    "director": "Joel Schumacher",
+    "description": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opera House.",
+    "cast": [
+      "Gerard Butler",
+      "Emmy Rossum",
+      "Patrick Wilson",
+      "Miranda Richardson"
+    ],
+    "rating": 64,
+    "cover": "covers/the_phantom_of_the_opera.jpg"
+  },
+  "Home Alone 2: Lost in New York": {
+    "year": 1992,
+    "director": "Chris Columbus",
+    "description": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+    "cast": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern",
+      "Catherine O'Hara"
+    ],
+    "rating": 64,
+    "cover": "covers/home_alone_2_lost_in_new_york.jpg"
+  },
+  "Night at the Museum": {
+    "year": 2006,
+    "director": "Shawn Levy",
+    "description": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+    "cast": [
+      "Ben Stiller",
+      "Carla Gugino",
+      "Dick Van Dyke",
+      "Mickey Rooney"
+    ],
+    "rating": 64,
+    "cover": "covers/night_at_the_museum.jpg"
+  },
+  "The Dictator": {
+    "year": 2012,
+    "director": "Larry Charles",
+    "description": "The heroic story of a dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+    "cast": [
+      "Sacha Baron Cohen",
+      "Anna Faris",
+      "Ben Kingsley",
+      "Jason Mantzoukas"
+    ],
+    "rating": 64,
+    "cover": "covers/the_dictator.jpg"
+  },
+  "Shoot 'Em Up": {
+    "year": 2007,
+    "director": "Michael Davis",
+    "description": "A man named Mr. Smith delivers a woman's baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.",
+    "cast": [
+      "Clive Owen",
+      "Paul Giamatti",
+      "Monica Bellucci"
+    ],
+    "rating": 63,
+    "cover": "covers/shoot_em_up.jpg"
+  },
+  "Fast & Furious Presents: Hobbs & Shaw": {
+    "year": 2019,
+    "director": "David Leitch",
+    "description": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.",
+    "cast": [
+      "Dwayne Johnson",
+      "Jason Statham",
+      "Idris Elba",
+      "Vanessa Kirby"
+    ],
+    "rating": 63,
+    "cover": "covers/fast_furious_presents_hobbs_shaw.jpg"
+  },
+  "Kingsman: The Golden Circle": {
+    "year": 2017,
+    "director": "Matthew Vaughn",
+    "description": "When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.",
+    "cast": [
+      "Taron Egerton",
+      "Colin Firth",
+      "Julianne Moore",
+      "Mark Strong"
+    ],
+    "rating": 61,
+    "cover": "covers/kingsman_the_golden_circle.jpg"
+  },
+  "MouseHunt": {
+    "year": 1997,
+    "director": "Gore Verbinski",
+    "description": "Down-on-their luck brothers, Lars and Ernie Smuntz, aren't happy with the crumbling old mansion they inherit... until they discover the estate is worth millions. Before they can cash in, they have to rid the house of its single, stubborn occupant—a tiny and tenacious mouse.",
+    "cast": [
+      "Nathan Lane",
+      "Lee Evans",
+      "Vicki Lewis",
+      "Christopher Walken"
+    ],
+    "rating": 61,
+    "cover": "covers/mousehunt.jpg"
+  },
+  "Maze Runner: The Death Cure": {
+    "year": 2018,
+    "director": "Wes Ball",
+    "description": "Thomas leads his group of escaped Gladers on their final and most dangerous mission yet. To save their friends, they must break into the legendary Last City, a WCKD-controlled labyrinth that may turn out to be the deadliest maze of all. Anyone who makes it out alive will get answers to the questions the Gladers have been asking since they first arrived in the maze.",
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster",
+      "Rosa Salazar"
+    ],
+    "rating": 61,
+    "cover": "covers/maze_runner_the_death_cure.jpg"
+  },
+  "Pirates of the Caribbean: On Stranger Tides": {
+    "year": 2011,
+    "director": "Rob Marshall",
+    "description": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love — or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush",
+      "Ian McShane"
+    ],
+    "rating": 61,
+    "cover": "covers/pirates_of_the_caribbean_on_stranger_tides.jpg"
+  },
+  "Night at the Museum: Secret of the Tomb": {
+    "year": 2009,
+    "director": "Shawn Levy",
+    "description": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
+    "cast": [
+      "Ben Stiller",
+      "Robin Williams",
+      "Owen Wilson",
+      "Steve Coogan"
+    ],
+    "rating": 59,
+    "cover": "covers/night_at_the_museum_secret_of_the_tomb.jpg"
+  },
+  "Tales from Earthsea": {
+    "year": 2006,
+    "director": "Gorō Miyazaki",
+    "description": "Something bizarre has come over the land. The kingdom is deteriorating. People are beginning to act strange... What's even more strange is that people are beginning to see dragons, which shouldn't enter the world of humans. Due to all these bizarre events, Ged, a wandering wizard, is investigating the cause. During his journey, he meets Prince Arren, a young distraught teenage boy. While Arren may look like a shy young teen, he has a severe dark side, which grants him strength, hatred, ruthlessness and has no mercy, especially when it comes to protecting Teru. For the witch Kumo this is a perf...",
+    "cast": [
+      "Junichi Okada",
+      "Aoi Teshima",
+      "Bunta Sugawara"
+    ],
+    "rating": 59,
+    "cover": "covers/tales_from_earthsea.jpg"
+  },
+  "Pirates of the Caribbean: Dead Men Tell No Tales": {
+    "year": 2017,
+    "director": "Joachim Rønning, Espen Sandberg",
+    "description": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+    "cast": [
+      "Johnny Depp",
+      "Javier Bardem",
+      "Geoffrey Rush",
+      "Brenton Thwaites"
+    ],
+    "rating": 58,
+    "cover": "covers/pirates_of_the_caribbean_dead_men_tell_no_tales.jpg"
+  },
+  "The King's Man": {
+    "year": 2021,
+    "director": "Matthew Vaughn",
+    "description": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+    "cast": [
+      "Ralph Fiennes",
+      "Gemma Arterton",
+      "Rhys Ifans",
+      "Harris Dickinson"
+    ],
+    "rating": 58,
+    "cover": "covers/the_kings_man.jpg"
+  },
+  "Maze Runner: The Scorch Trials": {
+    "year": 2015,
+    "director": "Wes Ball",
+    "description": "Thomas and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD’s vastly superior forces and uncover its shocking plans for them all.",
+    "cast": [
+      "Dylan O'Brien",
+      "Kaya Scodelario",
+      "Thomas Brodie-Sangster",
+      "Giancarlo Esposito"
+    ],
+    "rating": 57,
+    "cover": "covers/maze_runner_the_scorch_trials.jpg"
+  },
+  "Red Notice": {
+    "year": 2021,
+    "director": "Rawson Marshall Thurber",
+    "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+    "cast": [
+      "Dwayne Johnson",
+      "Ryan Reynolds",
+      "Gal Gadot",
+      "Ritu Arya"
+    ],
+    "rating": 55,
+    "cover": "covers/red_notice.jpg"
+  },
+  "The Lone Ranger": {
+    "year": 2013,
+    "director": "Gore Verbinski",
+    "description": "The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.",
+    "cast": [
+      "Johnny Depp",
+      "Armie Hammer",
+      "William Fichtner",
+      "Helena Bonham Carter"
+    ],
+    "rating": 54,
+    "cover": "covers/the_lone_ranger.jpg"
+  },
+  "Baby's Day Out": {
+    "year": 1994,
+    "director": "Patrick Read Johnson",
+    "description": "Baby Bink couldn't ask for more: he has adoring (if somewhat sickly-sweet) parents, lives in a huge mansion, and he's just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink's parents—especially the three enterprising kidnappers who pretend to be photographers from the newspaper. Successfully kidnapping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+    "cast": [
+      "Joe Mantegna",
+      "Lara Flynn Boyle",
+      "Joe Pantoliano",
+      "Brian Haley"
+    ],
+    "rating": 54,
+    "cover": "covers/babys_day_out.jpg"
+  },
+  "47 Ronin": {
+    "year": 2013,
+    "director": "Carl Rinsch",
+    "description": "Kai—an outcast—joins Oishi, the leader of 47 outcast samurai. Together they seek vengeance upon the treacherous overlord who killed their master and banished their kind. To restore honour to their homeland, the warriors embark upon a quest that challenges them with a series of trials that would destroy ordinary warriors.",
+    "cast": [
+      "Keanu Reeves",
+      "Hiroyuki Sanada",
+      "Kô Shibasaki",
+      "Tadanobu Asano"
+    ],
+    "rating": 51,
+    "cover": "covers/47_ronin.jpg"
+  },
+  "Home Alone 3": {
+    "year": 1997,
+    "director": "Raja Gosnell",
+    "description": "9-year-old Alex Pruitt is home alone with the chicken pox. Turns out, due to a mix-up among nefarious spies, Alex was given a toy car concealing a top-secret microchip. Now Alex must fend off the spies as they try to break into his house to get it back.",
+    "cast": [
+      "Alex D. Linz",
+      "Olek Krupa",
+      "Rya Kihlstedt",
+      "Scarlett Johansson"
+    ],
+    "rating": 45,
+    "cover": "covers/home_alone_3.jpg"
+  },
+  "Home Alone 4": {
+    "year": 2002,
+    "director": "Rod Daniel",
+    "description": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+    "cast": [
+      "French Stewart",
+      "Mike Weinberg",
+      "Erick Avari",
+      "Barbara Babcock"
+    ],
+    "rating": 24,
+    "cover": "covers/home_alone_4.jpg"
+  }
+}

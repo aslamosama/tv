@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>List of Movies I've Watched</h1>
+    <div id="movies"></div>
+  </div>
+
+  <!-- Movie Popup Modal -->
+  <div id="movie-modal" class="modal">
+    <div class="modal-content">
+      <img id="modal-image" class="modal-image" src="" alt="Movie Cover">
+      <div class="modal-details">
+        <h2 id="modal-title" class="modal-title"></h2>
+        <p id="modal-rating" class="modal-info"></p>
+        <p id="modal-director" class="modal-info"></p>
+        <p id="modal-cast" class="modal-info"></p>
+        <p id="modal-description" class="modal-info"></p>
+      </div>
+      <button id="modal-close" class="modal-close">✖</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
