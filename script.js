@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const moviesContainer = document.getElementById("movies");
-    const modal = document.getElementById("movie-modal");
+    const mediaContainer = document.getElementById("media-container");
+    const modal = document.getElementById("media-modal");
     const modalImage = document.getElementById("modal-image");
     const modalTitle = document.getElementById("modal-title");
     const modalRating = document.getElementById("modal-rating");
@@ -9,52 +9,64 @@ document.addEventListener("DOMContentLoaded", function () {
     const modalDescription = document.getElementById("modal-description");
     const modalClose = document.getElementById("modal-close");
 
-    // Fetch Movies
-    fetch("movies.json")
-        .then(response => response.json())
-        .then(data => {
-            const moviesArray = Object.entries(data)
-                .map(([title, details]) => ({ title, ...details }))
-                .sort((a, b) => b.rating - a.rating);
+    let mediaData = {};
+    let activeTab = "movies"; // Default tab
 
-            moviesContainer.innerHTML = moviesArray.map(movie => `
-                <div class="movie-card" data-title="${movie.title}">
-                    <div class="movie-image">
-                        ${movie.cover ? `<img src="${movie.cover}" alt="${movie.title} Cover" style="width:100%; height:auto; border-radius: 8px;">` : "No Cover Yet"}
-                    </div>
-                    <div class="movie-title">${movie.title} (${movie.year})</div>
-                    <div class="movie-rating">⭐ ${movie.rating}/100</div>
+    function loadMedia(jsonFile, type) {
+        fetch(jsonFile)
+            .then(response => response.json())
+            .then(data => {
+                const mediaArray = Object.entries(data).map(([title, details]) => ({ title, ...details }));
+                mediaData[type] = mediaArray;
+                if (activeTab === type) renderMedia(type);
+            })
+            .catch(error => console.error(`Error loading ${jsonFile}:`, error));
+    }
+
+    function renderMedia(type) {
+        mediaContainer.innerHTML = mediaData[type].map(media => `
+            <div class="media-card" data-title="${media.title}">
+                <div class="media-image">
+                    <img src="${media.cover}" alt="${media.title} Cover">
                 </div>
-            `).join("");
+                <div class="media-title">${media.title} (${media.year})</div>
+                <div class="media-rating">⭐ ${media.rating}/100</div>
+            </div>
+        `).join("");
 
-            // Add Click Event to Each Movie Card
-            document.querySelectorAll(".movie-card").forEach(card => {
-                card.addEventListener("click", function () {
-                    const movie = moviesArray.find(m => m.title === card.dataset.title);
-                    if (!movie) return;
-
-                    // Populate Modal with Movie Details
-                    modalImage.src = movie.cover || "";
-                    modalTitle.textContent = `${movie.title} (${movie.year})`;
-                    modalRating.textContent = `⭐ Rating: ${movie.rating}/100`;
-                    modalDirector.textContent = `🎬 Director: ${movie.director}`;
-                    modalCast.textContent = `🎭 Cast: ${movie.cast.join(", ")}`;
-                    modalDescription.textContent = movie.description;
-
-                    // Show Modal
-                    modal.style.display = "flex";
-                });
+        document.querySelectorAll(".media-card").forEach(card => {
+            card.addEventListener("click", function () {
+                const selectedMedia = mediaData[type].find(m => m.title === card.dataset.title);
+                if (!selectedMedia) return;
+                showModal(selectedMedia);
             });
+        });
+    }
 
-            // Close Modal on Click
-            modalClose.addEventListener("click", () => { modal.style.display = "none"; });
+    function showModal(media) {
+        modalImage.src = media.cover || "";
+        modalTitle.textContent = `${media.title} (${media.year})`;
+        modalRating.textContent = `⭐ Rating: ${media.rating}/100`;
+        modalDirector.textContent = `🎬 Director: ${media.director}`;
+        modalCast.textContent = `🎭 Cast: ${media.cast.join(", ")}`;
+        modalDescription.textContent = media.description;
+        modal.style.display = "flex";
+    }
 
-            // Close Modal When Clicking Outside Content
-            modal.addEventListener("click", (event) => {
-                if (event.target === modal) {
-                    modal.style.display = "none";
-                }
-            });
-        })
-        .catch(error => console.error("Error loading movies:", error));
+    modalClose.addEventListener("click", () => { modal.style.display = "none"; });
+    modal.addEventListener("click", (event) => {
+        if (event.target === modal) modal.style.display = "none";
+    });
+
+    document.querySelectorAll(".tab-button").forEach(button => {
+        button.addEventListener("click", function () {
+            document.querySelectorAll(".tab-button").forEach(btn => btn.classList.remove("active"));
+            this.classList.add("active");
+            activeTab = this.dataset.type;
+            renderMedia(activeTab);
+        });
+    });
+
+    loadMedia("movies.json", "movies");
+    loadMedia("series.json", "series");
 });

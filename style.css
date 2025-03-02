@@ -17,53 +17,68 @@ h1 {
   margin-bottom: 20px;
 }
 
-/* Movie Grid */
-#movies {
+/* Tabs */
+.tab-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.tab-button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1em;
+  transition: background 0.2s ease-in-out;
+}
+
+.tab-button.active {
+  background: red;
+}
+
+/* Movie/Series Grid */
+#media-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 15px;
   padding: 10px;
 }
 
-/* Movie Card */
-.movie-card {
+/* Cards */
+.media-card {
   background: #2a2a2a;
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s ease-in-out;
   text-align: center;
-  display: flex;
-  flex-direction: column;
+  cursor: pointer;
 }
 
-/* Ensure the image takes its own space */
-.movie-image {
+.media-card:hover {
+  transform: scale(1.03);
+}
+
+.media-image img {
   width: 100%;
   height: 250px;
   border-radius: 5px;
   object-fit: cover;
   display: block;
-  margin-bottom: 0.5em;
 }
 
-/* New wrapper for title and rating */
-.movie-info {
-  padding-top: 8px;
-  /* Adds space between image and text */
-  text-align: center;
-}
-
-/* Title */
-.movie-title {
+.media-title {
   font-size: 1em;
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-top: 8px;
 }
 
-/* Rating */
-.movie-rating {
-  font-size: 0.9em;
+.media-rating {
+  font-size: 0.85em;
   color: #bbb;
 }
 
@@ -81,40 +96,32 @@ h1 {
   z-index: 1000;
 }
 
-/* Modal Content */
 .modal-content {
   display: flex;
+  flex-direction: column;
   background: #222;
-  width: 60%;
-  max-width: 700px;
+  width: 90%;
+  max-width: 500px;
   border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
-  animation: fadeIn 0.3s ease-in-out;
   padding: 15px;
   position: relative;
+  text-align: center;
 }
 
-/* Modal Image */
 .modal-image {
   width: 100%;
-  max-width: 300px;
+  max-height: 250px;
   object-fit: cover;
   border-radius: 8px;
 }
 
-/* Modal Details */
 .modal-details {
-  padding: 20px;
-  width: 60%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  padding: 10px;
   color: #f5f5f5;
 }
 
 .modal-title {
-  font-size: 1.8em;
+  font-size: 1.5em;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -122,61 +129,7 @@ h1 {
 .modal-info {
   font-size: 1em;
   color: #bbb;
-  margin-bottom: 10px;
-}
-
-/* 🟢 Mobile Fixes */
-@media (max-width: 600px) {
-  .modal-content {
-    flex-direction: column;
-    /* Stack items vertically */
-    width: 85%;
-    /* Make modal smaller */
-    max-height: 80;
-    /* Prevent full-screen height */
-    overflow-y: auto;
-    /* Enable scrolling if needed */
-    padding: 15;
-    position: relative; /* Ensure close button aligns properly */
-  }
-
-  /* Close Button Fix */
-  .modal-close {
-    top: 5px; /* Move closer to the edge */
-    right: 5px;
-    font-size: 20px; /* Make it slightly smaller */
-    padding: 3px;
-  }
-
-  .modal-image {
-    width: 90%;
-    /* Make the image full width */
-    max-width: 250;
-    /* Remove width restriction */
-    margin: 0 auto;
-    /* Maintain aspect ratio */
-  }
-
-  .modal-details {
-    width: 90%;
-    /* Ensure text takes full width */
-    padding: 10px;
-    text-align: center;
-    margin: 0 auto
-    /* Center text */
-  }
-
-  .modal-title {
-    font-size: 1.4em;
-    /* Slightly smaller title */
-  }
-
-  .modal-info {
-    font-size: 0.85em;
-    /* Adjust font size for readability */
-    text-align: center; /* Center all text */
-    margin: 5px auto; /* Center within available space */
-  }
+  margin-bottom: 5px;
 }
 
 /* Close Button */
@@ -190,23 +143,10 @@ h1 {
   background: none;
   border: none;
   padding: 5px;
-  border-radius: 5px;
   transition: background 0.2s ease-in-out;
 }
 
 .modal-close:hover {
-  color: #ccc;
-}
-
-/* Fade-in Animation */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: scale(0.95);
-  }
-
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
+  background: red;
+  border-radius: 5px;
 }
