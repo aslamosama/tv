@@ -17,7 +17,7 @@ h1 {
   margin-bottom: 20px;
 }
 
-/* Tabs */
+
 .tab-container {
   display: flex;
   justify-content: center;
@@ -37,18 +37,18 @@ h1 {
 }
 
 .tab-button.active {
-  background: red;
+  background: #777;
 }
 
-/* Movie/Series Grid */
+
 #media-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 15px;
   padding: 10px;
 }
 
-/* Cards */
+
 .media-card {
   background: #2a2a2a;
   padding: 10px;
@@ -82,7 +82,7 @@ h1 {
   color: #bbb;
 }
 
-/* Modal */
+
 .modal {
   display: none;
   position: fixed;
@@ -98,25 +98,31 @@ h1 {
 
 .modal-content {
   display: flex;
-  flex-direction: column;
   background: #222;
-  width: 90%;
-  max-width: 500px;
+  width: 60%;
+  max-width: 700px;
   border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+  animation: fadeIn 0.3s ease-in-out;
   padding: 15px;
   position: relative;
-  text-align: center;
 }
 
 .modal-image {
   width: 100%;
-  max-height: 250px;
+  max-width: 250px;
   object-fit: cover;
   border-radius: 8px;
 }
 
+
 .modal-details {
-  padding: 10px;
+  padding: 20px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   color: #f5f5f5;
 }
 
@@ -132,7 +138,48 @@ h1 {
   margin-bottom: 5px;
 }
 
-/* Close Button */
+
+@media (max-width: 500px) {
+  .modal-content {
+    flex-direction: column;
+    width: 85%;
+    max-height: 80;
+    overflow-y: auto;
+    padding: 10;
+    position: relative;
+  }
+
+  .modal-close {
+    top: 5px;
+    right: 5px;
+    font-size: 20px;
+    padding: 3px;
+  }
+
+  .modal-image {
+    width: 80%;
+    max-width: 200;
+    margin: 0 auto;
+  }
+
+  .modal-details {
+    width: 90%;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto
+  }
+
+  .modal-title {
+    font-size: 1.4em;
+  }
+
+  .modal-info {
+    font-size: 0.85em;
+    text-align: center;
+    margin: 5px auto;
+  }
+}
+
 .modal-close {
   position: absolute;
   top: 10px;
@@ -147,6 +194,17 @@ h1 {
 }
 
 .modal-close:hover {
-  background: red;
-  border-radius: 5px;
+  color: #ccc;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
