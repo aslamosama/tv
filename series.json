@@ -1,0 +1,373 @@
+{
+  "Breaking Bad": {
+    "year": 2008,
+    "description": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "RJ Mitte"
+    ],
+    "rating": 95,
+    "cover": "covers/breaking_bad.jpg"
+  },
+  "Avatar: The Last Airbender": {
+    "year": 2005,
+    "description": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "cast": [
+      "Zach Tyler Eisen",
+      "Mae Whitman",
+      "Jack De Sena",
+      "Dante Basco"
+    ],
+    "rating": 93,
+    "cover": "covers/avatar_the_last_airbender.jpg"
+  },
+  "Game of Thrones": {
+    "year": 2011,
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "cast": [
+      "Peter Dinklage",
+      "Kit Harington",
+      "Nikolai Coster-Waldau",
+      "Lena Headey"
+    ],
+    "rating": 92,
+    "cover": "covers/game_of_thrones.jpg"
+  },
+  "The Sopranos": {
+    "year": 1999,
+    "description": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+    "cast": [
+      "James Gandolfini",
+      "Edie Falco",
+      "Jamie-Lynn Sigler",
+      "Robert Iler"
+    ],
+    "rating": 92,
+    "cover": "covers/the_sopranos.jpg"
+  },
+  "Attack on Titan": {
+    "year": 2013,
+    "description": "Many years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the heroic members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+    "cast": [
+      "Yuki Kajj",
+      "Yui Ishikawa",
+      "Marina Inoue",
+      "Kisho Taniyama"
+    ],
+    "rating": 91,
+    "cover": "covers/attack_on_titan.jpg"
+  },
+  "Fullmetal Alchemist: Brotherhood": {
+    "year": 2009,
+    "description": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable",
+    "cast": [
+      "Romi Park",
+      "Rie Kugimiya",
+      "Shin'ichiro Miki",
+      "Fumiko Orikasa"
+    ],
+    "rating": 91,
+    "cover": "covers/fullmetal_alchemist_brotherhood.jpg"
+  },
+  "Rick and Morty": {
+    "year": 2013,
+    "description": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "cast": [
+      "Chris Parnell",
+      "Spencer Grammer",
+      "Sarah Chalke",
+      "Ian Cardoni"
+    ],
+    "rating": 91,
+    "cover": "covers/rick_and_morty.jpg"
+  },
+  "Sherlock": {
+    "year": 2010,
+    "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+    "cast": [
+      "Benedict Cumberbatch",
+      "Martin Freeman"
+    ],
+    "rating": 91,
+    "cover": "covers/sherlock.jpg"
+  },
+  "Better Call Saul": {
+    "year": 2015,
+    "description": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer”.",
+    "cast": [
+      "Bob Odenkirk",
+      "Jonathan Banks",
+      "Rhea Seehorn",
+      "Tony Dalton"
+    ],
+    "rating": 90,
+    "cover": "covers/better_call_saul.jpg"
+  },
+  "One Piece": {
+    "year": 1999,
+    "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates. Monkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
+    "cast": [
+      "Mayumi Tanaka",
+      "Kazuya Nakai",
+      "Akemi Okamura",
+      "Kappei Yamaguchi"
+    ],
+    "rating": 90,
+    "cover": "covers/one_piece.jpg"
+  },
+  "Cowboy Bebop": {
+    "year": 1998,
+    "description": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
+    "director": "Shinichiro Watanabe",
+    "cast": [
+      "Koichi Yamadera",
+      "Unsho Ishizuka",
+      "Megumi Hayashibara",
+      "Aoi Tada"
+    ],
+    "rating": 89,
+    "cover": "covers/cowboy_bebop.jpg"
+  },
+  "Death Note": {
+    "year": 2006,
+    "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+    "cast": [
+      "Mamoru Miyano",
+      "Shido Nakamura",
+      "Aya Hirano",
+      "Kappei Yamaguchi"
+    ],
+    "rating": 89,
+    "cover": "covers/death_note.jpg"
+  },
+  "Vinland Saga": {
+    "year": 2019,
+    "description": "For a thousand years, the Vikings have made quite a name and reputation for themselves as the strongest families with a thirst for violence. Thorfinn, the son of one of the Vikings' greatest warriors, spends his boyhood in a battlefield enhancing his skills in his adventure to redeem his most-desired revenge after his father was murdered.",
+    "cast": [
+      "Yuto Uemura",
+      "Shunsuke Takeuchi"
+    ],
+    "rating": 88,
+    "cover": "covers/vinland_saga.jpg"
+  },
+  "House": {
+    "year": 2004,
+    "description": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "cast": [
+      "Hugh Laurie",
+      "Robert Sean Leonard",
+      "Omar Epps",
+      "Jesse Spencer"
+    ],
+    "rating": 87,
+    "cover": "covers/house.jpg"
+  },
+  "Monster": {
+    "year": 2004,
+    "description": "Kenzou Tenma, a Japanese brain surgeon in Germany, finds his life in utter turmoil after getting involved with a psychopath that was once a former patient.",
+    "cast": [
+      "Hidenobu Kiuchi"
+    ],
+    "rating": 87,
+    "cover": "covers/monster.jpg"
+  },
+  "Narcos": {
+    "year": 2015,
+    "description": "A gritty chronicle of the war against Colombia's infamously violent and powerful drug cartels.",
+    "cast": [
+      "Pedro Pascal",
+      "Matias Varela",
+      "Damián Alcázar",
+      "Francisco Denis"
+    ],
+    "rating": 87,
+    "cover": "covers/narcos.jpg"
+  },
+  "Naruto Shippuden": {
+    "year": 2007,
+    "description": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+    "cast": [
+      "Junko Takeuchi",
+      "Noriaki Sugiyama",
+      "Chie Nakamura",
+      "Kazuhiko Inoue"
+    ],
+    "rating": 87,
+    "cover": "covers/naruto_shippuden.jpg"
+  },
+  "Peaky Blinders": {
+    "year": 2013,
+    "description": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+    "cast": [
+      "Cillian Murphy",
+      "Paul Anderson",
+      "Sophie Rundle",
+      "Natasha O'Keeffe"
+    ],
+    "rating": 87,
+    "cover": "covers/peaky_blinders.jpg"
+  },
+  "The Boys": {
+    "year": 2019,
+    "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "cast": [
+      "Karl Urban",
+      "Jack Quaid",
+      "Antony Starr",
+      "Erin Moriarty"
+    ],
+    "rating": 87,
+    "cover": "covers/the_boys.jpg"
+  },
+  "Jujutsu Kaisen": {
+    "year": 2020,
+    "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "rating": 85,
+    "cover": "covers/jujutsu_kaisen.jpg"
+  },
+  "The Queen's Gambit": {
+    "year": 2020,
+    "description": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Chloe Pirrie"
+    ],
+    "rating": 85,
+    "cover": "covers/the_queens_gambit.jpg"
+  },
+  "Vikings": {
+    "year": 2013,
+    "description": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "cast": [
+      "Alex Høgh Andersen",
+      "Jordan Patrick Smith",
+      "Marco Ilsø",
+      "Peter Franzén"
+    ],
+    "rating": 85,
+    "cover": "covers/vikings.jpg"
+  },
+  "Naruto": {
+    "year": 2002,
+    "description": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "cast": [
+      "Junko Takeuchi",
+      "Noriaki Sugiyama",
+      "Chie Nakamura",
+      "Kazuhiko Inoue"
+    ],
+    "rating": 84,
+    "cover": "covers/naruto.jpg"
+  },
+  "Dragon Ball Super": {
+    "year": 2015,
+    "description": "With Majin Buu defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God. The series retells the events from the two Dragon Ball Z films, Battle of Gods and Resurrection 'F' before proceeding to an original story about the exploration of alternate universes.",
+    "cast": [
+      "Masako Nozawa",
+      "Ryo Horikawa",
+      "Hiromi Tsuru",
+      "Koichi Yamadera"
+    ],
+    "rating": 83,
+    "cover": "covers/dragon_ball_super.jpg"
+  },
+  "Dragon Ball Z Kai": {
+    "year": 2009,
+    "description": "Rejoin Goku and his friends in a series of cosmic battles! Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series. The show's story arc has been refined to better follow the comic book series on which it is based. The show also features a new opening and ending. In the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil. Can Earth's defender defeat demons, aliens, and other villains?",
+    "director": "Yasuhiro Nowatari",
+    "cast": [
+      "Masako Nozawa",
+      "Joji Yanami",
+      "Mayumi Tanaka",
+      "Ryo HorikawaIMDb"
+    ],
+    "rating": 83,
+    "cover": "covers/dragon_ball_z_kai.jpg"
+  },
+  "Solo Leveling": {
+    "year": 2024,
+    "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "cast": [
+      "Taito Ban",
+      "Genta Nakamura",
+      "Haruna Mikawa",
+      "Reina Ueda"
+    ],
+    "rating": 83,
+    "cover": "covers/solo_leveling.jpg"
+  },
+  "Prison Break": {
+    "year": 2005,
+    "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "cast": [
+      "Wentworth Miller",
+      "Dominic Purcell",
+      "Sarah Wayne Callies",
+      "Paul Adelstein"
+    ],
+    "rating": 83,
+    "cover": "covers/prison_break.jpg"
+  },
+  "The Legend of Korra": {
+    "year": 83,
+    "description": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+    "cast": [
+      "Janet Varney",
+      "David Faustino",
+      "P.J. Byrne",
+      "Seychelle Gabriel"
+    ],
+    "rating": 83,
+    "cover": "covers/the_legend_of_korra.jpg"
+  },
+  "Loki": {
+    "year": 2021,
+    "description": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+    "cast": [
+      "Tom Hiddleston",
+      "Sophia Di Martino",
+      "Wunmi Mosaku",
+      "Eugene Cordero"
+    ],
+    "rating": 82,
+    "cover": "covers/loki.jpg"
+  },
+  "Money Heist": {
+    "year": 2017,
+    "description": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+    "cast": [
+      "Álvaro Morte",
+      "Pedro Alonso",
+      "Úrsula Corberó",
+      "Itziar Ituño"
+    ],
+    "rating": 82,
+    "cover": "covers/money_heist.jpg"
+  },
+  "Rise of Empires: Ottoman": {
+    "year": 2020,
+    "description": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+    "cast": [
+      "Charles Dance",
+      "Cem Yiğit Üzümoğlu",
+      "Daniel Nuță",
+      "Ali Gözüşirin"
+    ],
+    "rating": 80,
+    "cover": "covers/rise_of_empires_ottoman.jpg"
+  },
+  "Da Vinci's Demons": {
+    "year": 2013,
+    "description": "The series follows the \"untold\" story of Leonardo Da Vinci: the genius during his early years in Renaissance Florence. As a 25-year old artist, inventor, swordsman, lover, dreamer and idealist, he struggles to live within the confines of his own reality and time as he begins to not only see the future, but invent it.",
+    "cast": [
+      "Tom Riley",
+      "Laura Haddock",
+      "Elliot Cowan",
+      "Hera Hilmar"
+    ],
+    "rating": 79,
+    "cover": "covers/da_vincis_demons.jpg"
+  }
+}

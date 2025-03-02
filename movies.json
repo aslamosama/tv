@@ -2141,6 +2141,19 @@
     "rating": 75,
     "cover": "covers/lupin_the_third_goemons_blood_spray.jpg"
   },
+  "Doctor Who: The Day of the Doctor": {
+    "year": 2013,
+    "director": "Nick Hurran",
+    "description": "In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
+    "cast": [
+      "Matt Smith",
+      "David Tennant",
+      "John Hurt",
+      "Jenna Coleman"
+    ],
+    "rating": 75,
+    "cover": "covers/doctor_who_the_day_of_the_doctor.jpg"
+  },
   "Blood Diamond": {
     "year": 2006,
     "director": "Edward Zwick",

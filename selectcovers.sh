@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Paths
-MOVIE_JSON="movies.json"
+MOVIE_JSON="series.json"
 COVERS_DIR="covers"
 
 # Check dependencies
@@ -38,7 +38,7 @@ while true; do
     fi
 
     # Format filename to be lowercase and hyphenated
-    formatted_name=$(echo "$selected_title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-').jpg
+    formatted_name=$(echo "$selected_title" | tr '[:upper:]' '[:lower:]' | tr ' ' '_').jpg
 
     # Rename the selected image
     mv "$COVERS_DIR/$selected_image" "$COVERS_DIR/$formatted_name"
