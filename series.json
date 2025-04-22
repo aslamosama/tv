@@ -117,6 +117,19 @@
     "rating": 90,
     "cover": "covers/one_piece.jpg"
   },
+  "The Office": {
+    "year": 2005,
+    "description": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+    "cast": [
+      "Rainn Wilson",
+      "John Krasinski",
+      "Jenna Fischer",
+      "Steve Carell",
+      "Ed Helms"
+    ],
+    "rating": 90,
+    "cover": "covers/the_office.jpg"
+  },
   "Cowboy Bebop": {
     "year": 1998,
     "description": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
@@ -221,11 +234,42 @@
     "rating": 87,
     "cover": "covers/the_boys.jpg"
   },
+  "Demon Slayer: Kimetsu no Yaiba": {
+    "year": 2019,
+    "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+    "cast": [
+      "Natsuki Hanae",
+      "Akari Kito",
+      "Hiro Shimono",
+      "Yoshitsugu Matsuoka"
+    ],
+    "rating": 86,
+    "cover": "covers/demon_slayer.jpg"
+  },
   "Jujutsu Kaisen": {
     "year": 2020,
     "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "cast": [
+      "Jun'ya Enoki",
+      "Yuma Uchida",
+      "Asami Seto",
+      "Nobunaga Shimazaki",
+      "Kaiji Tang"
+    ],
     "rating": 85,
     "cover": "covers/jujutsu_kaisen.jpg"
+  },
+  "Samurai Champloo": {
+    "year": 2004,
+    "description": "Break-dancing but fierce warrior Mugen has to deal with the cold-blooded and conceited Jin, a samurai who believes he is above all. These sworn enemies are brought together by Fuu for a special task.",
+    "cast": [
+      "Ayako Kawasumi",
+      "Kazuya Nakai",
+      "Ginpei Sato",
+      "Akio Otsuka"
+    ],
+    "rating": 85,
+    "cover": "covers/samurai_champloo.jpg"
   },
   "The Queen's Gambit": {
     "year": 2020,
@@ -369,5 +413,17 @@
     ],
     "rating": 79,
     "cover": "covers/da_vincis_demons.jpg"
+  },
+  "Berserk": {
+    "year": 2016,
+    "description": "Spurred by the flame raging in his heart, the Black Swordsman Guts continues his seemingly endless quest for revenge. Standing in his path are heinous outlaws, delusional evil spirits, and a devout child of god. Even as it chips away at his life, Guts continues to fight his enemies, who wield repulsive and inhumane power, with nary but his body and sword—his strength as a human.",
+    "cast": [
+      "Hiroaki Iwanaga",
+      "Toa Yukinari",
+      "Kaoru Mizuhara",
+      "Yoko Hikasa"
+    ],
+    "rating": 67,
+    "cover": "covers/berserk_2016.jpg"
   }
 }

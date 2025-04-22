@@ -1458,6 +1458,58 @@
     "rating": 81,
     "cover": "covers/whisper_of_the_heart.jpg"
   },
+  "Taste of Cherry": {
+    "year": 1997,
+    "director": "Abbas Kiarostami",
+    "description": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+    "cast": [
+      "Homayoun Ershadi",
+      "Abdolrahman Bagheri",
+      "Safar Ali Moradi",
+      "Mir Hossein Noor"
+    ],
+    "rating": 81,
+    "cover": "covers/taste_of_cherry.jpg"
+  },
+  "Little Miss Sunshine": {
+    "year": 2006,
+    "director": "Jonathan Dayton",
+    "description": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+    "cast": [
+      "Greg Kinnear",
+      "Toni Collette",
+      "Steve Carell",
+      "Paul Dano"
+    ],
+    "rating": 81,
+    "cover": "covers/little_miss_sunshine.jpg"
+  },
+  "Drive": {
+    "year": 2011,
+    "director": "Nicolas Winding Refn",
+    "description": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston",
+      "Albert Brooks"
+    ],
+    "rating": 81,
+    "cover": "covers/drive.jpg"
+  },
+  "Jujutsu Kaisen 0: The Movie": {
+    "year": 2021,
+    "director": "Sunghoo Park",
+    "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+    "cast": [
+      "Megumi Ogata",
+      "Kana Hanazawa",
+      "Yuichi Nakamura",
+      "Takahiro Sakurai"
+    ],
+    "rating": 80,
+    "cover": "covers/jjk0.jpg"
+  },
   "Kill Bill: Vol. 1": {
     "year": 2003,
     "director": "Quentin Tarantino",
@@ -1646,6 +1698,19 @@
     ],
     "rating": 79,
     "cover": "covers/the_lighthouse.jpg"
+  },
+  "Through the Olive Trees": {
+    "year": 1994,
+    "director": "Abbas Kiarostami",
+    "description": "Complications arise in a director's attempt to film a scene in Life, and Nothing More... (1992).",
+    "cast": [
+      "Mohammadali Keshavarz",
+      "Farhad Kheradmand",
+      "Zarifeh Shiva",
+      "Hossein Rezai"
+    ],
+    "rating": 79,
+    "cover": "covers/through_the_olive_trees.jpg"
   },
   "The Secret World of Arrietty": {
     "year": 2010,
@@ -1873,6 +1938,19 @@
     "rating": 78,
     "cover": "covers/john_wick_chapter_2.jpg"
   },
+  "Nosferatu": {
+    "year": 2024,
+    "director": "Robert Eggers",
+    "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "cast": [
+      "Lily-Rose Depp",
+      "Nicholas Hoult",
+      "Bill Skarsgard",
+      "Aaron Taylor-Johnson"
+    ],
+    "rating": 78,
+    "cover": "covers/nosferatu.jpg"
+  },
   "The Prestige": {
     "year": 2006,
     "director": "Christopher Nolan",
@@ -1988,6 +2066,19 @@
     "rating": 77,
     "cover": "covers/the_hateful_eight.jpg"
   },
+  "The Red Turtle": {
+    "year": 2016,
+    "director": "Michael Dudok de Wit",
+    "description": "The dialogue-less film follows the major life stages of a castaway on a deserted tropical island populated by turtles, crabs and birds.",
+    "cast": [
+      "Tom Hudson",
+      "Baptiste Goy",
+      "Axel Devillers",
+      "Barbara Beretta"
+    ],
+    "rating": 77,
+    "cover": "covers/the_red_turtle.jpg"
+  },
   "John Wick: Chapter 3 – Parabellum": {
     "year": 2019,
     "director": "Chad Stahelski",
@@ -2013,6 +2104,19 @@
     ],
     "rating": 76,
     "cover": "covers/kung_fu_panda.jpg"
+  },
+  "Ninja Scroll": {
+    "year": 1993,
+    "director": "Yoshiaki Kawajiri",
+    "description": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+    "cast": [
+      "Koichi Yamadera",
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Daisuke Gori"
+    ],
+    "rating": 77,
+    "cover": "covers/ninja_scroll.jpg"
   },
   "Sweeney Todd: The Demon Barber of Fleet Street": {
     "year": 2007,
@@ -2141,6 +2245,19 @@
     "rating": 75,
     "cover": "covers/lupin_the_third_goemons_blood_spray.jpg"
   },
+  "Dragon Ball Super: Broly": {
+    "year": 2018,
+    "director": "Tatsuya Nagamine",
+    "description": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caugh...",
+    "cast": [
+      "Masako Nozawa",
+      "Aya Hisakawa",
+      "Ryo Horikawa",
+      "Toshio Furukawa"
+    ],
+    "rating": 77,
+    "cover": "covers/dbs_broly.jpg"
+  },
   "Doctor Who: The Day of the Doctor": {
     "year": 2013,
     "director": "Nick Hurran",
@@ -2153,6 +2270,19 @@
     ],
     "rating": 75,
     "cover": "covers/doctor_who_the_day_of_the_doctor.jpg"
+  },
+  "Office Space": {
+    "year": 1999,
+    "director": "Mike Judge",
+    "description": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+    "cast": [
+      "Ron Livingston",
+      "Jennifer Aniston",
+      "David Herman",
+      "Ajay Naidu"
+    ],
+    "rating": 75,
+    "cover": "covers/office_space.jpg"
   },
   "Blood Diamond": {
     "year": 2006,
@@ -2634,6 +2764,19 @@
     "rating": 67,
     "cover": "covers/the_great_gatsby.jpg"
   },
+  "Berserk: The Golden Age Arc 3 - The Advent": {
+    "year": 2013,
+    "director": "Toshiyuki Kubooka",
+    "description": "A year has passed since Guts parted ways with the Band of the Hawks. Meanwhile, his former mercenary group is plotting a rescue mission to save an imprisoned Griffith.",
+    "cast": [
+      "Hiroaki Iwanaga",
+      "Toa Yukinari",
+      "Takahiro Sakurai",
+      "Takahiro Fujiwara"
+    ],
+    "rating": 66,
+    "cover": "covers/berserk_movie_3.jpg"
+  },
   "Star Wars: Episode II - Attack of the Clones": {
     "year": 2002,
     "director": "George Lucas",
@@ -2659,6 +2802,19 @@
     ],
     "rating": 65,
     "cover": "covers/the_maze_runner.jpg"
+  },
+  "Berserk: The Golden Age Arc 2 - The Battle for Doldrey": {
+    "year": 2012,
+    "director": "Toshiyuki Kubooka",
+    "description": "The Band of the Hawk participates in the Midland war campaign. On the bloody battlefield, they conquer decisive victories that lead them to Doldrey, an old fortress that will decide the outcome of the war.",
+    "cast": [
+      "Hiroaki Iwanaga",
+      "Toa Yukinari",
+      "Takahiro Sakurai",
+      "Takahiro Fujiwara"
+    ],
+    "rating": 64,
+    "cover": "covers/berserk_movie_2.jpg"
   },
   "Star Wars: Episode I - The Phantom Menace": {
     "year": 1999,
@@ -2749,6 +2905,32 @@
     ],
     "rating": 63,
     "cover": "covers/fast_furious_presents_hobbs_shaw.jpg"
+  },
+  "The Last: Naruto the Movie": {
+    "year": 2014,
+    "director": "Tsuneo Kobayashi",
+    "description": "Two years after the events of the Fourth Great Ninja War, the moon that Hagoromo Otsutsuki created long ago to seal away the Gedo Statue begins to descend towards the world, threatening to become a meteor that would destroy everything on impact. Amidst this crisis, a direct descendant of Kaguya Otsutsuki named Toneri Otsutsuki attempts to kidnap Hinata Hyuga but ends up abducting her younger sister Hanabi. Naruto and his allies now mount a rescue mission before finding themselves embroiled in a final battle to decide the fate of everything.",
+    "cast": [
+      "Junko Takeuchi",
+      "Nana Mizuki",
+      "Jun Fukuyama",
+      "Chie Nakamura"
+    ],
+    "rating": 62,
+    "cover": "covers/the_last_naruto.jpg"
+  },
+  "Berserk: The Golden Age Arc 1 - The Egg of the King": {
+    "year": 2014,
+    "director": "Toshiyuki Kubooka",
+    "description": "Guts, an immensely strong sword-for-hire, has little direction in his life, simply fighting one battle after the next. However, this all changes suddenly when he meets and is bested by Griffith, a beautiful and charismatic young man who leads the Band of the Hawk mercenary army. After Guts joins the Band and the relationship between the two men begins to blossom, Casca, the tough, lone swordswoman in the Band of the Hawk, struggles to accept Guts and the influence he has on the world around her. While the two men begin to fight together, Griffith continues to rise to power, all seemingly in o...",
+    "cast": [
+      "Hiroaki Iwanaga",
+      "Takahiro Fujiwara",
+      "Yuki Kaji",
+      "Takahiro Fujiwara"
+    ],
+    "rating": 61,
+    "cover": "covers/berserk_movie_1.jpg"
   },
   "Kingsman: The Golden Circle": {
     "year": 2017,
