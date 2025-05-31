@@ -17,7 +17,6 @@ h1 {
   margin-bottom: 20px;
 }
 
-
 .tab-container {
   display: flex;
   justify-content: center;
@@ -40,14 +39,12 @@ h1 {
   background: #777;
 }
 
-
 #media-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 15px;
+  gap: 10px;
   padding: 10px;
 }
-
 
 .media-card {
   background: #2a2a2a;
@@ -82,7 +79,6 @@ h1 {
   color: #bbb;
 }
 
-
 .modal {
   display: none;
   position: fixed;
@@ -116,7 +112,6 @@ h1 {
   border-radius: 8px;
 }
 
-
 .modal-details {
   padding: 20px;
   width: 60%;
@@ -137,7 +132,6 @@ h1 {
   color: #bbb;
   margin-bottom: 5px;
 }
-
 
 @media (max-width: 500px) {
   .modal-content {
@@ -166,7 +160,7 @@ h1 {
     width: 90%;
     padding: 10px;
     text-align: center;
-    margin: 0 auto
+    margin: 0 auto;
   }
 
   .modal-title {

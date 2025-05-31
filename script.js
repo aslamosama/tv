@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <img src="${media.cover}" alt="${media.title} Cover">
 </div>
 <div class="media-title">${media.title} (${media.year})</div>
-<div class="media-rating">⭐ ${media.rating}/100</div>
+<div class="media-rating">${media.rating}/100</div>
 </div>
 `).join("");
 
