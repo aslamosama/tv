@@ -1,41 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Movies & Series</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <div class="container">
-    <!-- Tab Buttons -->
-    <div class="tab-container">
-      <button class="tab-button active" data-type="movies">Movies</button>
-      <button class="tab-button" data-type="series">Series</button>
-    </div>
-
-    <!-- Media Grid -->
-    <div id="media-container"></div>
-  </div>
-
-  <!-- Modal for Details -->
-  <div id="media-modal" class="modal">
-    <div class="modal-content">
-      <img id="modal-image" class="modal-image" src="" alt="Cover">
-      <div class="modal-details">
-        <h2 id="modal-title" class="modal-title"></h2>
-        <p id="modal-rating" class="modal-info"></p>
-        <p id="modal-director" class="modal-info"></p>
-        <p id="modal-cast" class="modal-info"></p>
-        <p id="modal-description" class="modal-info"></p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies & Series</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Movies & Series</h1>
+      <div class="header-controls">
+        <nav class="tab-container">
+          <button class="tab-button active" data-type="movies">Movies</button>
+          <button class="tab-button" data-type="series">Series</button>
+          <button class="tab-button" data-type="analysis">Statistics</button>
+        </nav>
+        <input type="search" id="search-bar" placeholder="Search..." />
+        <div class="sort-container">
+          <label for="sort-by">Sort by:</label>
+          <select id="sort-by">
+            <option value="rating-desc">Rating (High to Low)</option>
+            <option value="rating-asc">Rating (Low to High)</option>
+            <option value="title-asc">Title (A-Z)</option>
+            <option value="title-desc">Title (Z-A)</option>
+            <option value="year-desc">Year (Newest First)</option>
+            <option value="year-asc">Year (Oldest First)</option>
+          </select>
+        </div>
       </div>
-      <button id="modal-close" class="modal-close">✖</button>
+    </header>
+
+    <main>
+      <div id="media-container" class="media-grid">
+        <div class="loader"></div>
+      </div>
+      <div id="analysis-container" style="display: none"></div>
+    </main>
+
+    <div
+      id="media-modal"
+      class="modal"
+      role="dialog"
+      aria-modal="true"
+      aria-hidden="true"
+    >
+      <div class="modal-content">
+        <button id="modal-close" class="modal-close" aria-label="Close">
+          &times;
+        </button>
+        <img id="modal-image" class="modal-image" src="" alt="Cover" />
+        <div class="modal-details">
+          <h2 id="modal-title" class="modal-title"></h2>
+          <p id="modal-rating" class="modal-info"></p>
+          <p id="modal-director" class="modal-info"></p>
+          <p id="modal-cast" class="modal-info"></p>
+          <p id="modal-description" class="modal-info"></p>
+        </div>
+      </div>
     </div>
-  </div>
 
-  <script src="script.js"></script>
-</body>
-
+    <script src="script.js"></script>
+  </body>
 </html>
