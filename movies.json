@@ -3129,5 +3129,15 @@
     "rating": 80,
     "cover": "covers/zootopia.jpg",
     "genres": ["Action", "Adventure", "Animation"]
+  },
+  {
+    "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
+    "year": 2025,
+    "director": "Kenji Nakamura",
+    "description": "The Medicine Seller returns as the Edo harem faces a new crisis, with family feuds, inner turmoil and fiery envy igniting the birth of a raging spirit.",
+    "cast": ["Hiroshi Kamiya", "Cho", "Daisuke Hosomi", "Haruka Tomatsu"],
+    "rating": 76,
+    "cover": "covers/mononoke_the_movie_chapter_ii_the_ashes_of_rage.jpg",
+    "genres": ["Animation", "Fantasy", "Mystery"]
   }
 ]
