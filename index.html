@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -16,18 +16,30 @@
           <button class="tab-button" data-type="analysis">Statistics</button>
         </nav>
         <input type="search" id="search-bar" placeholder="Search..." />
+        <div class="genre-container">
+          <label for="genre-filter">Genre:</label>
+          <select id="genre-filter">
+            <option value="all">All</option>
+          </select>
+        </div>
         <div class="sort-container">
           <label for="sort-by">Sort by:</label>
           <select id="sort-by">
-            <option value="rating-desc">Rating (High to Low)</option>
-            <option value="rating-asc">Rating (Low to High)</option>
-            <option value="title-asc">Title (A-Z)</option>
-            <option value="title-desc">Title (Z-A)</option>
-            <option value="year-desc">Year (Newest First)</option>
-            <option value="year-asc">Year (Oldest First)</option>
+            <option value="rating">Rating</option>
+            <option value="title">Title</option>
+            <option value="year">Year</option>
           </select>
+          <div class="sort-order">
+            <button id="sort-asc" class="sort-button" data-order="asc">
+              ↑
+            </button>
+            <button id="sort-desc" class="sort-button" data-order="desc">
+              ↓
+            </button>
+          </div>
         </div>
       </div>
+      <div id="results-count" class="results-count"></div>
     </header>
 
     <main>

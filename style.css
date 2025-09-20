@@ -39,6 +39,28 @@ h1 {
   flex-wrap: wrap;
 }
 
+@media (max-width: 768px) {
+  .controls {
+    flex-direction: column;
+    align-items: stretch; /* full width, consistent */
+    gap: 0.75rem;
+  }
+
+  #search-bar,
+  #genre-filter,
+  .sort-container {
+    width: 100%; /* all controls same width */
+  }
+
+  .sort-container {
+    justify-content: space-between; /* keeps label and buttons balanced */
+  }
+
+  .tab-container {
+    flex-wrap: wrap;
+  }
+}
+
 #search-bar {
   padding: 0.5rem 1rem;
   border-radius: 5px;
@@ -52,9 +74,9 @@ h1 {
 
 #search-bar:focus,
 #sort-by:focus {
-    outline: none;
-    border: 1px solid var(--accent-color); /* matches your theme */
-    box-shadow: 0 0 5px var(--accent-color); /* optional glow */
+  outline: none;
+  border: 1px solid var(--accent-color); /* matches your theme */
+  box-shadow: 0 0 5px var(--accent-color); /* optional glow */
 }
 
 .sort-container {
@@ -64,6 +86,45 @@ h1 {
 }
 
 #sort-by {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid var(--box-border-color);
+  background-color: var(--secondary-bg-color);
+  color: var(--text-color);
+  font-size: 1em;
+}
+
+.sort-order {
+  display: inline-flex;
+  margin-left: 0.5rem;
+}
+
+.sort-button {
+  border: none;
+  background: transparent;
+  color: inherit;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.sort-button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.sort-button.active {
+  background: var(--accent-color);
+  color: #fff;
+}
+
+.genre-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#genre-filter {
   padding: 0.5rem;
   border-radius: 5px;
   border: 1px solid var(--box-border-color);
@@ -113,6 +174,23 @@ h1 {
   overflow: hidden;
 }
 
+.media-card img {
+  display: block;
+  width: 100%;
+  height: auto; /* keeps proportions */
+  aspect-ratio: 2 / 3; /* ensures poster ratio even if parent is weird */
+  object-fit: cover;
+}
+
+.media-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.media-card .media-image {
+  flex: 0 0 auto;
+}
+
 .media-card:hover {
   transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
@@ -124,9 +202,8 @@ h1 {
 
 .media-image img {
   width: 100%;
-  height: 270px;
+  aspect-ratio: 2 / 3;
   object-fit: cover;
-  display: block;
 }
 
 .media-rating-badge {
@@ -260,12 +337,25 @@ h1 {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    padding: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 
   .modal-image {
     width: 100%;
-    max-width: 250px;
-    margin-bottom: 20px;
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+  .media-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .media-grid {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
   }
 }
 
@@ -371,4 +461,76 @@ h1 {
 body.analysis-mode #search-bar,
 body.analysis-mode .sort-container {
   display: none;
+}
+body.analysis-mode .genre-container {
+  display: none;
+}
+
+.totals-container {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.totals-line {
+  font-size: 1.4em;
+  margin: 0.25rem 0;
+}
+
+.totals-label {
+  color: var(--accent-color); /* red */
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
+
+.totals-value {
+  color: var(--text-color); /* regular white */
+}
+
+.results-count {
+  text-align: center;
+  font-size: 0.9em;
+  color: var(--text-secondary-color);
+  margin: 1rem 0 1rem 0;
+}
+
+@media (max-width: 600px) {
+  .chart {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .chart-bar {
+    display: flex;
+    flex-direction: column; /* label above the bar */
+    align-items: stretch;
+  }
+
+  .chart-label {
+    font-size: 0.9rem;
+    margin-bottom: 0.2rem;
+    word-break: break-word; /* long names won’t overflow */
+  }
+
+  .chart-value {
+    background: var(--accent-color);
+    color: #fff;
+    border-radius: 4px;
+    padding: 0.2rem 0.4rem;
+    white-space: nowrap; /* keeps the stats together */
+    overflow: hidden;
+    text-overflow: ellipsis; /* truncates if needed */
+    min-width: 3rem;
+  }
+
+  .chart-value span {
+    font-size: 0.75rem; /* shrink text a bit */
+  }
+}
+
+.explanation pre {
+  white-space: pre-wrap; /* wrap long lines */
+  word-break: break-word; /* break long tokens if needed */
+  max-width: 100%; /* don’t exceed viewport */
+  overflow-x: auto; /* allow scroll only if absolutely necessary */
 }
