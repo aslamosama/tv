@@ -6,6 +6,7 @@
     <title>Movies & Series</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
     <header>
       <h1>Movies & Series</h1>
@@ -28,6 +29,7 @@
             <option value="rating">Rating</option>
             <option value="title">Title</option>
             <option value="year">Year</option>
+            <option value="duration">Duration</option>
           </select>
           <div class="sort-order">
             <button id="sort-asc" class="sort-button" data-order="asc">
@@ -63,10 +65,19 @@
         <img id="modal-image" class="modal-image" src="" alt="Cover" />
         <div class="modal-details">
           <h2 id="modal-title" class="modal-title"></h2>
-          <p id="modal-rating" class="modal-info"></p>
-          <p id="modal-director" class="modal-info"></p>
-          <p id="modal-cast" class="modal-info"></p>
-          <p id="modal-description" class="modal-info"></p>
+
+          <div class="modal-meta">
+            <p id="modal-rating" class="modal-info"></p>
+            <p id="modal-genre" class="modal-info"></p>
+            <p id="modal-language" class="modal-info"></p>
+            <p id="modal-duration" class="modal-info"></p>
+            <p id="modal-episodes" class="modal-info"></p>
+            <p id="modal-avg-duration" class="modal-info"></p>
+            <p id="modal-director" class="modal-info"></p>
+            <p id="modal-cast" class="modal-info"></p>
+          </div>
+
+          <div id="modal-description" class="modal-description"></div>
         </div>
       </div>
     </div>

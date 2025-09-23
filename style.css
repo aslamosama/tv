@@ -7,6 +7,13 @@
   --box-border-color: #333;
   --accent-color: #e50914;
   --accent-hover-color: #f40612;
+  --modal-overlay: rgba(0, 0, 0, 0.9);
+  --modal-bg: #18181c;
+  --radius-lg: 12px;
+  --radius-md: 8px;
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --transition-fast: 0.2s ease;
 }
 
 body {
@@ -17,6 +24,7 @@ body {
   padding: 20px;
   background-color: var(--primary-bg-color);
   color: var(--text-color);
+  line-height: 1.6;
 }
 
 header {
@@ -37,28 +45,6 @@ h1 {
   gap: 1rem;
   margin-bottom: 1rem;
   flex-wrap: wrap;
-}
-
-@media (max-width: 768px) {
-  .controls {
-    flex-direction: column;
-    align-items: stretch; /* full width, consistent */
-    gap: 0.75rem;
-  }
-
-  #search-bar,
-  #genre-filter,
-  .sort-container {
-    width: 100%; /* all controls same width */
-  }
-
-  .sort-container {
-    justify-content: space-between; /* keeps label and buttons balanced */
-  }
-
-  .tab-container {
-    flex-wrap: wrap;
-  }
 }
 
 #search-bar {
@@ -172,28 +158,17 @@ h1 {
   text-align: center;
   cursor: pointer;
   overflow: hidden;
-}
-
-.media-card img {
-  display: block;
-  width: 100%;
-  height: auto; /* keeps proportions */
-  aspect-ratio: 2 / 3; /* ensures poster ratio even if parent is weird */
-  object-fit: cover;
-}
-
-.media-card {
   display: flex;
   flex-direction: column;
 }
 
-.media-card .media-image {
-  flex: 0 0 auto;
+.media-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
 }
 
-.media-card:hover {
-  transform: scale(1.05);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+.media-card .media-image {
+  flex: 0 0 auto;
 }
 
 .media-image {
@@ -204,6 +179,8 @@ h1 {
   width: 100%;
   aspect-ratio: 2 / 3;
   object-fit: cover;
+  display: block;
+  height: auto;
 }
 
 .media-rating-badge {
@@ -219,7 +196,7 @@ h1 {
 }
 
 .media-info {
-  padding: 5px;
+  padding: 0.5rem;
 }
 
 .media-title {
@@ -236,70 +213,21 @@ h1 {
   color: var(--text-secondary-color);
 }
 
+/* Modal */
 .modal {
   display: none;
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.85);
+  inset: 0;
+  background: var(--modal-overlay);
   justify-content: center;
   align-items: center;
   z-index: 1000;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
 }
-
 .modal.show {
   display: flex;
   opacity: 1;
-}
-
-.modal-content {
-  display: flex;
-  background: #222;
-  width: 90%;
-  max-width: 800px;
-  border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
-  animation: slideIn 0.3s ease-out;
-  padding: 20px;
-  position: relative;
-}
-
-.modal-image {
-  width: 300px;
-  height: auto;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-.modal-details {
-  padding: 0 20px;
-  flex: 1;
-}
-
-.modal-title {
-  font-size: 2em;
-  margin-bottom: 10px;
-}
-
-.modal-info {
-  font-size: 1em;
-  color: var(--text-secondary-color);
-  margin-bottom: 10px;
-}
-
-.modal-close {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  font-size: 28px;
-  cursor: pointer;
-  color: white;
-  background: none;
-  border: none;
 }
 
 .loader {
@@ -329,26 +257,6 @@ h1 {
   to {
     transform: translateY(0);
     opacity: 1;
-  }
-}
-
-@media (max-width: 768px) {
-  .modal-content {
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 15px;
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-
-  .modal-image {
-    width: 100%;
-    max-width: 200px;
-    margin-bottom: 10px;
-  }
-  .media-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
 }
 
@@ -437,27 +345,6 @@ h1 {
   flex-shrink: 0;
 }
 
-/* Mobile: stack vertically */
-@media (max-width: 768px) {
-  .header-controls {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .header-controls .tab-container {
-    justify-content: center;
-  }
-
-  .header-controls #search-bar {
-    width: 100%;
-  }
-
-  .header-controls .sort-container {
-    width: 100%;
-    justify-content: center;
-  }
-}
-
 body.analysis-mode #search-bar,
 body.analysis-mode .sort-container {
   display: none;
@@ -493,7 +380,235 @@ body.analysis-mode .genre-container {
   margin: 1rem 0 1rem 0;
 }
 
+.explanation pre {
+  white-space: pre-wrap; /* wrap long lines */
+  word-break: break-word; /* break long tokens if needed */
+  max-width: 100%; /* don’t exceed viewport */
+  overflow-x: auto; /* allow scroll only if absolutely necessary */
+}
+
+
+/* ---------- Modal: premium two-column metadata layout ---------- */
+.modal-content {
+  display: flex;
+  gap: 20px;
+  background: var(--modal-bg);
+  width: 90%;
+  max-width: 920px;
+  border-radius: 12px;
+  box-shadow: var(--shadow-lg);
+  padding-left: 0px;
+  padding-right: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  position: relative;
+  overflow-y: auto;
+  max-height: 90vh;
+  animation: slideIn 0.3s ease-out;
+}
+
+/* cover image */
+.modal-image {
+  flex: 0 0 300px;
+  width: 300px;
+  border-radius: 0px;
+  object-fit: cover;
+  aspect-ratio: 2/3;
+}
+
+/* right-side container */
+.modal-details {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0; /* allow children to shrink properly */
+  padding: 24px;
+}
+
+/* title centered in the available modal-details space */
+.modal-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-color);
+  margin: 0;
+  text-align: center;           /* centered horizontally */
+  width: 100%;
+  margin-bottom: 0.6rem;
+}
+
+/* metadata grid (two columns on desktop) */
+.modal-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 16px;
+  align-items: start;
+}
+
+.modal-info {
+  margin: 0;
+  display: grid;              /* keeps label + value on same line */
+  grid-template-columns: auto 1fr; /* label = auto width, value takes the rest */
+  gap: 0.25rem;               /* small spacing between label and value */
+  margin-bottom: 0.5rem;   /* slightly larger than 0.1rem for consistency */
+  font-size: 0.9rem;        /* slightly smaller text for dense layout */
+  line-height: 1.5;         /* tighter vertical rhythm */
+  align-items: start;
+  color: var(--text-secondary-color);
+}
+
+.modal-label {
+  font-weight: 600;
+  color: var(--text-color);
+  white-space: nowrap; /* keep label on one line */
+  margin-right: 6px;
+}
+
+.modal-value {
+  color: var(--text-secondary-color);
+  white-space: normal;   /* allow wrapping */
+  word-break: break-word;
+}
+
+/* label / value inside metadata */
+.modal-info .modal-label,
+.modal-info .modal-value,
+.modal-info strong {
+  display: inline;  /* inline so they sit on same line */
+  margin: 0;
+}
+
+.modal-info .modal-label,
+.modal-info strong {
+  color: var(--text-color);
+  font-weight: 600;
+  margin-right: 6px; /* space between label and value */
+  font-size: 0.95rem;
+}
+.modal-info .modal-value {
+  color: var(--text-secondary-color);
+  font-weight: 500;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* description is full-width and below the grid */
+.modal-description {
+  margin-top: 4px;
+  border-radius: 8px;
+  color: var(--text-secondary-color);
+  line-height: 1.45;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+/* close button */
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  font-size: 1.8rem;
+  color: var(--text-color);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.modal-close:hover { color: var(--accent-color); }
+
+/* ensure long label/value pairs wrap gracefully */
+.modal-info .modal-value,
+.modal-info .modal-label {
+  word-break: break-word;
+  white-space: normal;
+}
+
+
+/* Cast row spans both columns */
+.modal-info.cast {
+  grid-column: 1 / -1;  /* span across both columns */
+  grid-template-columns: auto 1fr; /* keep label + value layout */
+}
+
+@media (max-width: 768px) {
+  .controls {
+    flex-direction: column;
+    align-items: stretch; /* full width, consistent */
+    gap: 0.75rem;
+  }
+
+  #search-bar,
+  #genre-filter,
+  .sort-container {
+    width: 100%; /* all controls same width */
+  }
+
+  .sort-container {
+    justify-content: space-between; /* keeps label and buttons balanced */
+  }
+
+  .tab-container {
+    flex-wrap: wrap;
+  }
+
+  .header-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .header-controls .tab-container {
+    justify-content: center;
+  }
+
+  .header-controls #search-bar {
+    width: 100%;
+  }
+
+  .header-controls .sort-container {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .modal-content {
+    flex-direction: column;
+    padding: 14px;
+    max-width: 96%;
+    width: 95%;
+    max-width: 320px;
+  }
+
+  .modal-image {
+    width: 100%;
+    max-width: 260px;
+    margin: 0 auto 8px;
+    border-radius: 8px;
+  }
+
+  .modal-title { font-size: 1.4rem; text-align: center; white-space: normal; }
+
+  .modal-meta {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+
+  .modal-info { min-height: auto; padding: 4px 10px; margin-bottom: 0.1rem;}
+  .modal-description { max-height: 200px; }
+}
+
 @media (max-width: 600px) {
+  .totals-line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .totals-label {
+    margin-right: 0;
+    margin-bottom: 0.25rem;
+  }
+
   .chart {
     display: flex;
     flex-direction: column;
@@ -526,11 +641,4 @@ body.analysis-mode .genre-container {
   .chart-value span {
     font-size: 0.75rem; /* shrink text a bit */
   }
-}
-
-.explanation pre {
-  white-space: pre-wrap; /* wrap long lines */
-  word-break: break-word; /* break long tokens if needed */
-  max-width: 100%; /* don’t exceed viewport */
-  overflow-x: auto; /* allow scroll only if absolutely necessary */
 }

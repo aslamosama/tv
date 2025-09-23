@@ -6,7 +6,11 @@
     "cast": ["Yuki Kajj", "Yui Ishikawa", "Marina Inoue", "Kisho Taniyama"],
     "rating": 91,
     "cover": "covers/attack_on_titan.jpg",
-    "genres": ["Adventure", "Animation", "Action"]
+    "genres": ["Adventure", "Animation", "Action"],
+    "language": ["Japanese"],
+    "total_episodes": 87,
+    "avg_episode_duration": 24,
+    "total_duration": 2088
   },
   {
     "title": "Avatar: The Last Airbender",
@@ -15,7 +19,11 @@
     "cast": ["Zach Tyler Eisen", "Mae Whitman", "Jack De Sena", "Dante Basco"],
     "rating": 93,
     "cover": "covers/avatar_the_last_airbender.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["English"],
+    "total_episodes": 61,
+    "avg_episode_duration": 23,
+    "total_duration": 1403
   },
   {
     "title": "Berserk",
@@ -29,7 +37,11 @@
     ],
     "rating": 67,
     "cover": "covers/berserk_2016.jpg",
-    "genres": ["Action", "Adventure", "Animation", "Horror"]
+    "genres": ["Action", "Adventure", "Animation", "Horror"],
+    "language": ["Japanese"],
+    "total_episodes": 25,
+    "avg_episode_duration": 23,
+    "total_duration": 575
   },
   {
     "title": "Better Call Saul",
@@ -38,7 +50,11 @@
     "cast": ["Bob Odenkirk", "Jonathan Banks", "Rhea Seehorn", "Tony Dalton"],
     "rating": 90,
     "cover": "covers/better_call_saul.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "language": ["English"],
+    "total_episodes": 63,
+    "avg_episode_duration": 46,
+    "total_duration": 2898
   },
   {
     "title": "Boruto:Naruto Next Generations",
@@ -52,7 +68,11 @@
     ],
     "rating": 64,
     "cover": "covers/boruto_naruto_next_generations.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 293,
+    "avg_episode_duration": 23,
+    "total_duration": 6739
   },
   {
     "title": "Breaking Bad",
@@ -61,7 +81,11 @@
     "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "RJ Mitte"],
     "rating": 95,
     "cover": "covers/breaking_bad.jpg",
-    "genres": ["Crime", "Drama", "Thriller"]
+    "genres": ["Crime", "Drama", "Thriller"],
+    "language": ["English", "Spanish"],
+    "total_episodes": 62,
+    "avg_episode_duration": 47,
+    "total_duration": 2914
   },
   {
     "title": "Cowboy Bebop",
@@ -76,7 +100,11 @@
     ],
     "rating": 89,
     "cover": "covers/cowboy_bebop.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "language": ["Japanese"],
+    "total_episodes": 26,
+    "avg_episode_duration": 24,
+    "total_duration": 624
   },
   {
     "title": "Da Vinci's Demons",
@@ -85,7 +113,11 @@
     "cast": ["Tom Riley", "Laura Haddock", "Elliot Cowan", "Hera Hilmar"],
     "rating": 79,
     "cover": "covers/da_vincis_demons.jpg",
-    "genres": ["Adventure", "Biograaphy", "Drama"]
+    "genres": ["Adventure", "Biograaphy", "Drama"],
+    "language": ["English"],
+    "total_episodes": 28,
+    "avg_episode_duration": 58,
+    "total_duration": 1624
   },
   {
     "title": "Death Note",
@@ -99,7 +131,11 @@
     ],
     "rating": 89,
     "cover": "covers/death_note.jpg",
-    "genres": ["Animation", "Crime", "Drama"]
+    "genres": ["Animation", "Crime", "Drama"],
+    "language": ["Japanese"],
+    "total_episodes": 37,
+    "avg_episode_duration": 23,
+    "total_duration": 851
   },
   {
     "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -113,7 +149,11 @@
     ],
     "rating": 86,
     "cover": "covers/demon_slayer.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "language": ["Japanese"],
+    "total_episodes": 55,
+    "avg_episode_duration": 23,
+    "total_duration": 1265
   },
   {
     "title": "Dragon Ball Super",
@@ -127,7 +167,11 @@
     ],
     "rating": 83,
     "cover": "covers/dragon_ball_super.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 131,
+    "avg_episode_duration": 24,
+    "total_duration": 3144
   },
   {
     "title": "Dragon Ball Z Kai",
@@ -142,7 +186,11 @@
     ],
     "rating": 83,
     "cover": "covers/dragon_ball_z_kai.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "language": ["Japanese"],
+    "total_episodes": 167,
+    "avg_episode_duration": 23,
+    "total_duration": 3841
   },
   {
     "title": "Fullmetal Alchemist: Brotherhood",
@@ -151,7 +199,11 @@
     "cast": ["Romi Park", "Rie Kugimiya", "Shin'ichiro Miki", "Fumiko Orikasa"],
     "rating": 91,
     "cover": "covers/fullmetal_alchemist_brotherhood.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 64,
+    "avg_episode_duration": 24,
+    "total_duration": 1536
   },
   {
     "title": "Game of Thrones",
@@ -165,7 +217,11 @@
     ],
     "rating": 92,
     "cover": "covers/game_of_thrones.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "language": ["English"],
+    "total_episodes": 73,
+    "avg_episode_duration": 57,
+    "total_duration": 4161
   },
   {
     "title": "Hellsing Ultimate",
@@ -179,7 +235,11 @@
     ],
     "rating": 82,
     "cover": "covers/hellsing_ultimate.jpg",
-    "genres": ["Animation", "Action", "Fantasy"]
+    "genres": ["Animation", "Action", "Fantasy"],
+    "language": ["Japanese"],
+    "total_episodes": 10,
+    "avg_episode_duration": 50,
+    "total_duration": 500
   },
   {
     "title": "Hellsing: The Dawn",
@@ -188,7 +248,11 @@
     "cast": ["Romi Park", "Daisuke Namikawa", "Hiroshi Naka", "Jouji Nakata"],
     "rating": 66,
     "cover": "covers/hellsing_the_dawn.jpg",
-    "genres": ["Animation", "Action"]
+    "genres": ["Animation", "Action"],
+    "language": ["Japanese"],
+    "total_episodes": 3,
+    "avg_episode_duration": 9,
+    "total_duration": 27
   },
   {
     "title": "House",
@@ -202,7 +266,11 @@
     ],
     "rating": 87,
     "cover": "covers/house.jpg",
-    "genres": ["Drama", "Mystery"]
+    "genres": ["Drama", "Mystery"],
+    "language": ["English"],
+    "total_episodes": 177,
+    "avg_episode_duration": 44,
+    "total_duration": 7788
   },
   {
     "title": "Jujutsu Kaisen",
@@ -217,7 +285,11 @@
     ],
     "rating": 85,
     "cover": "covers/jujutsu_kaisen.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "language": ["Japanese"],
+    "total_episodes": 47,
+    "avg_episode_duration": 24,
+    "total_duration": 1128
   },
   {
     "title": "Loki",
@@ -231,7 +303,25 @@
     ],
     "rating": 82,
     "cover": "covers/loki.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "language": ["English"],
+    "total_episodes": 12,
+    "avg_episode_duration": 50,
+    "total_duration": 600
+  },
+  {
+    "title": "Lord of Mysteries",
+    "year": 2025,
+    "description": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+    "director": "Gideon Liu",
+    "cast": ["Yang Kaiqi", "Lei Wu", "Titus Jin"],
+    "rating": 87,
+    "cover": "covers/lord_of_mysteries.jpg",
+    "genres": ["Mystery", "Fantasy", "Animation"],
+    "language": ["Chinese"],
+    "total_episodes": 40,
+    "avg_episode_duration": 24,
+    "total_duration": 960
   },
   {
     "title": "Money Heist",
@@ -240,7 +330,29 @@
     "cast": ["Álvaro Morte", "Pedro Alonso", "Úrsula Corberó", "Itziar Ituño"],
     "rating": 82,
     "cover": "covers/money_heist.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "language": ["Spanish"],
+    "total_episodes": 41,
+    "avg_episode_duration": 47,
+    "total_duration": 1927
+  },
+  {
+    "title": "Mononoke",
+    "year": 2007,
+    "description": "The Medicine Seller is a deadly and mysterious master of the occult who travels across feudal Japan in search of malevolent spirits called mononoke to slay. When he locates one of these spirits, he cannot simply kill it; he must first learn its Form, its Truth, and its Reason in order to wield the mighty Exorcism Sword and fight against it. He must begin his strange exorcisms with intense psychological analysis and careful investigative work—an extremely dangerous step, as he must first confront and learn about the mononoke before he even has the means to defeat it.",
+    "cast": [
+      "Takahiro Sakurai",
+      "Daisuke Namikawa",
+      "Daisuke Sakaguchi",
+      "Eiji Takemoto"
+    ],
+    "rating": 81,
+    "cover": "covers/mononoke.jpg",
+    "genres": ["Mystery", "Fantasy", "Animation", "Horror"],
+    "language": ["Japanese"],
+    "total_episodes": 12,
+    "avg_episode_duration": 23,
+    "total_duration": 276
   },
   {
     "title": "Monster",
@@ -249,7 +361,11 @@
     "cast": ["Hidenobu Kiuchi"],
     "rating": 87,
     "cover": "covers/monster.jpg",
-    "genres": ["Animation", "Drama", "Crime"]
+    "genres": ["Animation", "Drama", "Crime"],
+    "language": ["Japanese"],
+    "total_episodes": 74,
+    "avg_episode_duration": 23,
+    "total_duration": 1702
   },
   {
     "title": "Narcos",
@@ -263,7 +379,11 @@
     ],
     "rating": 87,
     "cover": "covers/narcos.jpg",
-    "genres": ["Crime", "Biograaphy", "Drama"]
+    "genres": ["Crime", "Biograaphy", "Drama"],
+    "language": ["Spanish, English"],
+    "total_episodes": 30,
+    "avg_episode_duration": 49,
+    "total_duration": 1470
   },
   {
     "title": "Naruto",
@@ -277,7 +397,11 @@
     ],
     "rating": 84,
     "cover": "covers/naruto.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 220,
+    "avg_episode_duration": 23,
+    "total_duration": 5060
   },
   {
     "title": "Naruto Shippuden",
@@ -291,7 +415,11 @@
     ],
     "rating": 87,
     "cover": "covers/naruto_shippuden.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 500,
+    "avg_episode_duration": 23,
+    "total_duration": 11500
   },
   {
     "title": "One Piece",
@@ -305,7 +433,11 @@
     ],
     "rating": 90,
     "cover": "covers/one_piece.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 1144,
+    "avg_episode_duration": 24,
+    "total_duration": 27456
   },
   {
     "title": "Peaky Blinders",
@@ -319,7 +451,11 @@
     ],
     "rating": 87,
     "cover": "covers/peaky_blinders.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "language": ["English"],
+    "total_episodes": 36,
+    "avg_episode_duration": 58,
+    "total_duration": 2088
   },
   {
     "title": "Prison Break",
@@ -333,7 +469,11 @@
     ],
     "rating": 83,
     "cover": "covers/prison_break.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "language": ["English"],
+    "total_episodes": 90,
+    "avg_episode_duration": 44,
+    "total_duration": 3960
   },
   {
     "title": "Rick and Morty",
@@ -342,7 +482,11 @@
     "cast": ["Chris Parnell", "Spencer Grammer", "Sarah Chalke", "Ian Cardoni"],
     "rating": 91,
     "cover": "covers/rick_and_morty.jpg",
-    "genres": ["Action", "Adventure", "Animation", "Comedy", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Animation", "Comedy", "Sci-Fi"],
+    "language": ["English"],
+    "total_episodes": 61,
+    "avg_episode_duration": 23,
+    "total_duration": 1403
   },
   {
     "title": "Rise of Empires: Ottoman",
@@ -356,7 +500,11 @@
     ],
     "rating": 80,
     "cover": "covers/rise_of_empires_ottoman.jpg",
-    "genres": ["Documentary", "Drama", "History"]
+    "genres": ["Documentary", "Drama", "History"],
+    "language": ["English, Turkish"],
+    "total_episodes": 12,
+    "avg_episode_duration": 50,
+    "total_duration": 600
   },
   {
     "title": "Samurai Champloo",
@@ -365,7 +513,11 @@
     "cast": ["Ayako Kawasumi", "Kazuya Nakai", "Ginpei Sato", "Akio Otsuka"],
     "rating": 85,
     "cover": "covers/samurai_champloo.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 26,
+    "avg_episode_duration": 24,
+    "total_duration": 624
   },
   {
     "title": "Sherlock",
@@ -374,7 +526,11 @@
     "cast": ["Benedict Cumberbatch", "Martin Freeman"],
     "rating": 91,
     "cover": "covers/sherlock.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "language": ["English"],
+    "total_episodes": 13,
+    "avg_episode_duration": 88,
+    "total_duration": 1144
   },
   {
     "title": "Solo Leveling",
@@ -383,7 +539,11 @@
     "cast": ["Taito Ban", "Genta Nakamura", "Haruna Mikawa", "Reina Ueda"],
     "rating": 83,
     "cover": "covers/solo_leveling.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "language": ["Japanese"],
+    "total_episodes": 12,
+    "avg_episode_duration": 24,
+    "total_duration": 288
   },
   {
     "title": "The Boys",
@@ -392,7 +552,11 @@
     "cast": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty"],
     "rating": 87,
     "cover": "covers/the_boys.jpg",
-    "genres": ["Action", "Comedy", "Crime", "Drama", "Sci-Fi"]
+    "genres": ["Action", "Comedy", "Crime", "Drama", "Sci-Fi"],
+    "language": ["English"],
+    "total_episodes": 24,
+    "avg_episode_duration": 60,
+    "total_duration": 1440
   },
   {
     "title": "The Legend of Korra",
@@ -406,7 +570,11 @@
     ],
     "rating": 83,
     "cover": "covers/the_legend_of_korra.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["English"],
+    "total_episodes": 52,
+    "avg_episode_duration": 23,
+    "total_duration": 1196
   },
   {
     "title": "The Office",
@@ -421,7 +589,11 @@
     ],
     "rating": 90,
     "cover": "covers/the_office.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "language": ["English"],
+    "total_episodes": 201,
+    "avg_episode_duration": 22,
+    "total_duration": 4422
   },
   {
     "title": "The Penguin",
@@ -435,7 +607,11 @@
     ],
     "rating": 86,
     "cover": "covers/the_penguin.jpg",
-    "genres": ["Crime", "Drama", "Fantasy"]
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "language": ["English"],
+    "total_episodes": 8,
+    "avg_episode_duration": 55,
+    "total_duration": 440
   },
   {
     "title": "The Queen's Gambit",
@@ -444,7 +620,11 @@
     "cast": ["Anya Taylor-Joy", "Chloe Pirrie"],
     "rating": 85,
     "cover": "covers/the_queens_gambit.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "language": ["English"],
+    "total_episodes": 7,
+    "avg_episode_duration": 55,
+    "total_duration": 385
   },
   {
     "title": "The Sopranos",
@@ -458,7 +638,11 @@
     ],
     "rating": 92,
     "cover": "covers/the_sopranos.jpg",
-    "genres": ["Drama", "Crime"]
+    "genres": ["Drama", "Crime"],
+    "language": ["English"],
+    "total_episodes": 86,
+    "avg_episode_duration": 55,
+    "total_duration": 4730
   },
   {
     "title": "The Witcher",
@@ -467,7 +651,11 @@
     "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan", "Joey Batey"],
     "rating": 79,
     "cover": "covers/the_witcher.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+    "language": ["English"],
+    "total_episodes": 24,
+    "avg_episode_duration": 60,
+    "total_duration": 1440
   },
   {
     "title": "Vikings",
@@ -481,7 +669,11 @@
     ],
     "rating": 85,
     "cover": "covers/vikings.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "language": ["English"],
+    "total_episodes": 89,
+    "avg_episode_duration": 45,
+    "total_duration": 4005
   },
   {
     "title": "Vinland Saga",
@@ -490,6 +682,10 @@
     "cast": ["Yuto Uemura", "Shunsuke Takeuchi"],
     "rating": 88,
     "cover": "covers/vinland_saga.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "language": ["Japanese"],
+    "total_episodes": 48,
+    "avg_episode_duration": 24,
+    "total_duration": 1152
   }
 ]

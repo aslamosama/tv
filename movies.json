@@ -7,7 +7,9 @@
     "cast": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam"],
     "rating": 92,
     "cover": "covers/12_angry_men.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 96,
+    "language": ["English"]
   },
   {
     "title": "2001: A Space Odyssey",
@@ -17,7 +19,9 @@
     "cast": ["Keir Dullea", "Gary Lockwood", "Douglas Rain"],
     "rating": 86,
     "cover": "covers/2001_a_space_odyssey.jpg",
-    "genres": ["Adventure", "Sci-Fi"]
+    "genres": ["Adventure", "Sci-Fi"],
+    "duration": 149,
+    "language": ["English"]
   },
   {
     "title": "47 Ronin",
@@ -32,7 +36,9 @@
     ],
     "rating": 51,
     "cover": "covers/47_ronin.jpg",
-    "genres": ["Action", "Drama", "Fantasy"]
+    "genres": ["Action", "Drama", "Fantasy"],
+    "duration": 128,
+    "language": ["English", "Japanese"]
   },
   {
     "title": "A Clockwork Orange",
@@ -42,7 +48,9 @@
     "cast": ["Malcolm McDowell", "Patrick Magee", "Michael Bates"],
     "rating": 83,
     "cover": "covers/a_clockwork_orange.jpg",
-    "genres": ["Crime", "Sci-Fi"]
+    "genres": ["Crime", "Sci-Fi"],
+    "duration": 136,
+    "language": ["English"]
   },
   {
     "title": "A Fistful of Dollars",
@@ -52,7 +60,9 @@
     "cast": ["Clint Eastwood", "Marianne Koch", "Gian Maria Volonté"],
     "rating": 79,
     "cover": "covers/a_fistful_of_dollars.jpg",
-    "genres": ["Action", "Drama", "Western"]
+    "genres": ["Action", "Drama", "Western"],
+    "duration": 99,
+    "language": ["Italian", "Spanish"]
   },
   {
     "title": "A Nightmare on Elm Street",
@@ -62,7 +72,9 @@
     "cast": ["Heather Langenkamp", "Johnny Depp", "Robert Englund"],
     "rating": 78,
     "cover": "covers/a_nightmare_on_elm_street.jpg",
-    "genres": ["Horror"]
+    "genres": ["Horror"],
+    "duration": 91,
+    "language": ["English"]
   },
   {
     "title": "A Quiet Place",
@@ -77,7 +89,9 @@
     ],
     "rating": 78,
     "cover": "covers/a_quiet_place.jpg",
-    "genres": ["Drama", "Horror", "Sci-Fi"]
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "duration": 90,
+    "language": ["English", "American Sign Language"]
   },
   {
     "title": "A Separation",
@@ -87,7 +101,9 @@
     "cast": ["Leila Hatami", "Peyman Moaadi", "Shahab Hosseini"],
     "rating": 89,
     "cover": "covers/a_separation.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 123,
+    "language": ["Persian"]
   },
   {
     "title": "A Serious Man",
@@ -97,7 +113,9 @@
     "cast": ["Michael Stuhlbarg", "Richard Kind", "Sari Lennick"],
     "rating": 77,
     "cover": "covers/a_serious_man.jpg",
-    "genres": ["Comedy", "Drama"]
+    "genres": ["Comedy", "Drama"],
+    "duration": 106,
+    "language": ["English", "Yiddish"]
   },
   {
     "title": "Akira",
@@ -107,7 +125,9 @@
     "cast": ["Mitsuo Iwata", "Nozomu Sasaki", "Mami Koyama", "Tarō Ishida"],
     "rating": 81,
     "cover": "covers/akira.jpg",
-    "genres": ["Action", "Drama"]
+    "genres": ["Action", "Drama"],
+    "duration": 124,
+    "language": ["Japanese"]
   },
   {
     "title": "Aladdin",
@@ -122,7 +142,9 @@
     ],
     "rating": 83,
     "cover": "covers/aladdin.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 90,
+    "language": ["English"]
   },
   {
     "title": "Alien",
@@ -132,7 +154,9 @@
     "cast": ["Sigourney Weaver", "Tom Skerritt", "John Hurt"],
     "rating": 88,
     "cover": "covers/alien.jpg",
-    "genres": ["Horror", "Sci-Fi"]
+    "genres": ["Horror", "Sci-Fi"],
+    "duration": 117,
+    "language": ["English"]
   },
   {
     "title": "All About Eve",
@@ -142,7 +166,9 @@
     "cast": ["Bette Davis", "Anne Baxter", "George Sanders"],
     "rating": 89,
     "cover": "covers/all_about_eve.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 138,
+    "language": ["English"]
   },
   {
     "title": "American Beauty",
@@ -152,7 +178,9 @@
     "cast": ["Kevin Spacey", "Annette Bening", "Thora Birch"],
     "rating": 82,
     "cover": "covers/american_beauty.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 122,
+    "language": ["English"]
   },
   {
     "title": "American Psycho",
@@ -162,7 +190,9 @@
     "cast": ["Christian Bale", "Willem Dafoe", "Jared Leto", "Chloë Sevigny"],
     "rating": 74,
     "cover": "covers/american_psycho.jpg",
-    "genres": ["Drama", "Crime", "Horror"]
+    "genres": ["Drama", "Crime", "Horror"],
+    "duration": 102,
+    "language": ["English"]
   },
   {
     "title": "American Sniper",
@@ -172,7 +202,9 @@
     "cast": ["Bradley Cooper", "Sienna Miller", "Kyle Gallner", "Cole Konis"],
     "rating": 72,
     "cover": "covers/american_sniper.jpg",
-    "genres": ["Action", "Biograaphy", "Drama", "War"]
+    "genres": ["Action", "Biograaphy", "Drama", "War"],
+    "duration": 132,
+    "language": ["English", "Arabic"]
   },
   {
     "title": "Apocalypse Now",
@@ -182,7 +214,9 @@
     "cast": ["Martin Sheen", "Marlon Brando", "Robert Duvall"],
     "rating": 89,
     "cover": "covers/apocalypse_now.jpg",
-    "genres": ["Drama", "Mystery", "War"]
+    "genres": ["Drama", "Mystery", "War"],
+    "duration": 147,
+    "language": ["English", "French", "Vietnamese"]
   },
   {
     "title": "Avengers: Endgame",
@@ -197,7 +231,9 @@
     ],
     "rating": 83,
     "cover": "covers/avengers_endgame.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 181,
+    "language": ["English"]
   },
   {
     "title": "Avengers: Infinity War",
@@ -212,7 +248,9 @@
     ],
     "rating": 79,
     "cover": "covers/avengers_infinity_war.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "duration": 149,
+    "language": ["English"]
   },
   {
     "title": "Baby's Day Out",
@@ -227,7 +265,9 @@
     ],
     "rating": 54,
     "cover": "covers/babys_day_out.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "duration": 99,
+    "language": ["English"]
   },
   {
     "title": "Batman Begins",
@@ -237,7 +277,9 @@
     "cast": ["Christian Bale", "Michael Caine", "Liam Neeson", "Katie Holmes"],
     "rating": 78,
     "cover": "covers/batman_begins.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "duration": 140,
+    "language": ["English"]
   },
   {
     "title": "Berserk: The Golden Age Arc 1 - The Egg of the King",
@@ -252,7 +294,9 @@
     ],
     "rating": 61,
     "cover": "covers/berserk_movie_1.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "duration": 76,
+    "language": ["Japanese"]
   },
   {
     "title": "Berserk: The Golden Age Arc 2 - The Battle for Doldrey",
@@ -267,7 +311,16 @@
     ],
     "rating": 64,
     "cover": "covers/berserk_movie_2.jpg",
-    "genres": ["Action", "Adventure", "Animation", "Drama", "Fantasy", "Horror"]
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "duration": 98,
+    "language": ["Japanese"]
   },
   {
     "title": "Berserk: The Golden Age Arc 3 - The Advent",
@@ -282,7 +335,16 @@
     ],
     "rating": 66,
     "cover": "covers/berserk_movie_3.jpg",
-    "genres": ["Action", "Adventure", "Animation", "Drama", "Fantasy", "Horror"]
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "duration": 113,
+    "language": ["Japanese"]
   },
   {
     "title": "Black Hawk Down",
@@ -292,7 +354,9 @@
     "cast": ["Josh Hartnett", "Ewan McGregor", "Tom Sizemore", "Eric Bana"],
     "rating": 77,
     "cover": "covers/black_hawk_down.jpg",
-    "genres": ["Action", "Drama", "History", "War"]
+    "genres": ["Action", "Drama", "History", "War"],
+    "duration": 144,
+    "language": ["English", "Somali", "Arabic"]
   },
   {
     "title": "Black Panther",
@@ -307,7 +371,9 @@
     ],
     "rating": 81,
     "cover": "covers/black_panther.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "duration": 134,
+    "language": ["English", "Xhosa", "Korean"]
   },
   {
     "title": "Blade Runner 2049",
@@ -317,7 +383,9 @@
     "cast": ["Ryan Gosling", "Harrison Ford", "Ana de Armas", "Jared Leto"],
     "rating": 81,
     "cover": "covers/blade_runner_2049.jpg",
-    "genres": ["Action", "Drama", "Mystery"]
+    "genres": ["Action", "Drama", "Mystery"],
+    "duration": 164,
+    "language": ["English"]
   },
   {
     "title": "Blood Diamond",
@@ -327,7 +395,9 @@
     "cast": ["Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly"],
     "rating": 74,
     "cover": "covers/blood_diamond.jpg",
-    "genres": ["Adventure", "Drama", "Thriller"]
+    "genres": ["Adventure", "Drama", "Thriller"],
+    "duration": 143,
+    "language": ["English", "Mende", "Afrikaans"]
   },
   {
     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
@@ -337,7 +407,9 @@
     "cast": ["Sacha Baron Cohen", "Ken Davitian", "Luenell"],
     "rating": 79,
     "cover": "covers/borat_cultural_learnings_of_america_for_make_benefit_glorious_nation_of_kazakhstan.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "duration": 84,
+    "language": ["English", "Kazakh", "Romanian", "Hebrew", "Armenian"]
   },
   {
     "title": "Casablanca",
@@ -347,7 +419,9 @@
     "cast": ["Humphrey Bogart", "Ingrid Bergman", "Paul Henreid"],
     "rating": 90,
     "cover": "covers/casablanca.jpg",
-    "genres": ["Drama", "Romance", "War"]
+    "genres": ["Drama", "Romance", "War"],
+    "duration": 102,
+    "language": ["English", "French", "German"]
   },
   {
     "title": "Casino Royale",
@@ -357,7 +431,9 @@
     "cast": ["Daniel Craig", "Eva Green", "Mads Mikkelsen", "Judi Dench"],
     "rating": 82,
     "cover": "covers/casino_royale.jpg",
-    "genres": ["Action", "Adventure", "Thriller"]
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 144,
+    "language": ["English", "Serbian", "German", "Italian", "French"]
   },
   {
     "title": "Castle in the Sky",
@@ -367,7 +443,9 @@
     "cast": ["Mayumi Tanaka", "Keiko Yokozawa", "Kotoe Hatsui"],
     "rating": 82,
     "cover": "covers/castle_in_the_sky.jpg",
-    "genres": ["Animation", "Adventure", "Family", "Fantasy"]
+    "genres": ["Animation", "Adventure", "Family", "Fantasy"],
+    "duration": 124,
+    "language": ["Japanese"]
   },
   {
     "title": "Catch Me If You Can",
@@ -382,7 +460,9 @@
     ],
     "rating": 80,
     "cover": "covers/catch_me_if_you_can.jpg",
-    "genres": ["Biograaphy", "Crime", "Drama"]
+    "genres": ["Biograaphy", "Crime", "Drama"],
+    "duration": 141,
+    "language": ["English", "French"]
   },
   {
     "title": "Certified Copy",
@@ -397,7 +477,9 @@
     ],
     "rating": 79,
     "cover": "covers/certified_copy.jpg",
-    "genres": ["Drama", "Romance"]
+    "genres": ["Drama", "Romance"],
+    "duration": 106,
+    "language": ["French", "English", "Italian"]
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -412,7 +494,9 @@
     ],
     "rating": 72,
     "cover": "covers/charlie_and_the_chocolate_factory.jpg",
-    "genres": ["Adventure", "Comedy", "Family"]
+    "genres": ["Adventure", "Comedy", "Family"],
+    "duration": 115,
+    "language": ["English"]
   },
   {
     "title": "Children of Heaven",
@@ -422,7 +506,9 @@
     "cast": ["Mohammad Amir Naji", "Amir Farrokh Hashemian", "Bahare Seddiqi"],
     "rating": 82,
     "cover": "covers/children_of_heaven.jpg",
-    "genres": ["Drama", "Family", "Sport"]
+    "genres": ["Drama", "Family", "Sport"],
+    "duration": 89,
+    "language": ["Persian"]
   },
   {
     "title": "City Lights",
@@ -432,7 +518,9 @@
     "cast": ["Charlie Chaplin", "Virginia Cherrill", "Harry Myers"],
     "rating": 91,
     "cover": "covers/city_lights.jpg",
-    "genres": ["Comedy", "Drama", "Romance"]
+    "genres": ["Comedy", "Drama", "Romance"],
+    "duration": 87,
+    "language": ["Silent (English intertitles)"]
   },
   {
     "title": "Close-Up",
@@ -442,7 +530,9 @@
     "cast": ["Hossain Sabzian", "Mohsen Makhmalbaf", "Abbas Kiarostami"],
     "rating": 87,
     "cover": "covers/close_up.jpg",
-    "genres": ["Biograaphy", "Crime", "Drama"]
+    "genres": ["Biograaphy", "Crime", "Drama"],
+    "duration": 98,
+    "language": ["Persian"]
   },
   {
     "title": "Coco",
@@ -452,7 +542,9 @@
     "cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"],
     "rating": 84,
     "cover": "covers/coco.jpg",
-    "genres": ["Animation", "Adventure", "Drama"]
+    "genres": ["Animation", "Adventure", "Drama"],
+    "duration": 105,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Crouching Tiger, Hidden Dragon",
@@ -462,7 +554,9 @@
     "cast": ["Chow Yun-Fat", "Michelle Yeoh", "Zhang Ziyi", "Chang Chen"],
     "rating": 86,
     "cover": "covers/crouching_tiger_hidden_dragon.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 120,
+    "language": ["Mandarin"]
   },
   {
     "title": "Deadpool",
@@ -472,7 +566,9 @@
     "cast": ["Ryan Reynolds", "Morena Baccarin", "Ed Skrein", "T.J. Miller"],
     "rating": 75,
     "cover": "covers/deadpool.jpg",
-    "genres": ["Action", "Comedy", "Sci-Fi"]
+    "genres": ["Action", "Comedy", "Sci-Fi"],
+    "duration": 108,
+    "language": ["English"]
   },
   {
     "title": "Deadpool 2",
@@ -482,7 +578,9 @@
     "cast": ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin", "Zazie Beetz"],
     "rating": 73,
     "cover": "covers/deadpool_2.jpg",
-    "genres": ["Action", "Comedy", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Comedy", "Adventure", "Sci-Fi"],
+    "duration": 119,
+    "language": ["English"]
   },
   {
     "title": "Despicable Me",
@@ -492,7 +590,9 @@
     "cast": ["Steve Carell", "Jason Segel", "Russell Brand", "Julie Andrews"],
     "rating": 73,
     "cover": "covers/despicable_me.jpg",
-    "genres": ["Adventure", "Animation", "Comedy", "Crime", "Family"]
+    "genres": ["Adventure", "Animation", "Comedy", "Crime", "Family"],
+    "duration": 95,
+    "language": ["English"]
   },
   {
     "title": "Django Unchained",
@@ -507,7 +607,9 @@
     ],
     "rating": 85,
     "cover": "covers/django_unchained.jpg",
-    "genres": ["Comedy", "Drama", "Western", "Action"]
+    "genres": ["Comedy", "Drama", "Western", "Action"],
+    "duration": 165,
+    "language": ["English", "German", "French", "Italian"]
   },
   {
     "title": "Doctor Who: The Day of the Doctor",
@@ -517,7 +619,9 @@
     "cast": ["Matt Smith", "David Tennant", "John Hurt", "Jenna Coleman"],
     "rating": 75,
     "cover": "covers/doctor_who_the_day_of_the_doctor.jpg",
-    "genres": ["Adventure", "Drama", "Sci-Fi"]
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "duration": 77,
+    "language": ["English"]
   },
   {
     "title": "Donnie Darko",
@@ -532,7 +636,9 @@
     ],
     "rating": 83,
     "cover": "covers/donnie_darko.jpg",
-    "genres": ["Drama", "Sci-Fi", "Mystery"]
+    "genres": ["Drama", "Sci-Fi", "Mystery"],
+    "duration": 113,
+    "language": ["English"]
   },
   {
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -542,7 +648,9 @@
     "cast": ["Peter Sellers", "George C. Scott", "Sterling Hayden"],
     "rating": 90,
     "cover": "covers/dr_strangelove_or_how_i_learned_to_stop_worrying_and_love_the_bomb.jpg",
-    "genres": ["Comedy", "War"]
+    "genres": ["Comedy", "War"],
+    "duration": 95,
+    "language": ["English", "Russian"]
   },
   {
     "title": "Dragon Ball Super: Broly",
@@ -564,7 +672,9 @@
       "Family",
       "Fantasy",
       "Sci-Fi"
-    ]
+    ],
+    "duration": 100,
+    "language": ["Japanese"]
   },
   {
     "title": "Drive",
@@ -579,7 +689,9 @@
     ],
     "rating": 81,
     "cover": "covers/drive.jpg",
-    "genres": ["Action", "Drama"]
+    "genres": ["Action", "Drama"],
+    "duration": 100,
+    "language": ["English"]
   },
   {
     "title": "Dune",
@@ -589,7 +701,9 @@
     "cast": ["Timothée Chalamet", "Rebecca Ferguson", "Oscar Isaac", "Zendaya"],
     "rating": 77,
     "cover": "covers/dune.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 155,
+    "language": ["English"]
   },
   {
     "title": "Dune: Part Two",
@@ -604,7 +718,9 @@
     ],
     "rating": 86,
     "cover": "covers/dune_part_two.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 166,
+    "language": ["English"]
   },
   {
     "title": "Dunkirk",
@@ -614,7 +730,9 @@
     "cast": ["Fionn Whitehead", "Tom Hardy", "Mark Rylance", "Kenneth Branagh"],
     "rating": 84,
     "cover": "covers/dunkirk.jpg",
-    "genres": ["Action", "Drama", "History"]
+    "genres": ["Action", "Drama", "History"],
+    "duration": 106,
+    "language": ["English", "French", "German"]
   },
   {
     "title": "El Camino: A Breaking Bad Movie",
@@ -624,7 +742,9 @@
     "cast": ["Aaron Paul", "Jesse Plemons", "Krysten Ritter", "Charles Baker"],
     "rating": 75,
     "cover": "covers/el_camino_a_breaking_bad_movie.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "duration": 122,
+    "language": ["English"]
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -634,7 +754,9 @@
     "cast": ["Jim Carrey", "Kate Winslet", "Tom Wilkinson", "Mark Ruffalo"],
     "rating": 87,
     "cover": "covers/eternal_sunshine_of_the_spotless_mind.jpg",
-    "genres": ["Drama", "Romance", "Sci-Fi"]
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "duration": 108,
+    "language": ["English"]
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -649,7 +771,9 @@
     ],
     "rating": 83,
     "cover": "covers/fantastic_mr_fox.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 87,
+    "language": ["English"]
   },
   {
     "title": "Fast & Furious Presents: Hobbs & Shaw",
@@ -659,7 +783,9 @@
     "cast": ["Dwayne Johnson", "Jason Statham", "Idris Elba", "Vanessa Kirby"],
     "rating": 63,
     "cover": "covers/fast_furious_presents_hobbs_shaw.jpg",
-    "genres": ["Action", "Adventure", "Thriller"]
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 137,
+    "language": ["English", "Samoan"]
   },
   {
     "title": "Fight Club",
@@ -669,7 +795,9 @@
     "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
     "rating": 81,
     "cover": "covers/fight_club.jpg",
-    "genres": ["Drama", "Crime", "Thriller"]
+    "genres": ["Drama", "Crime", "Thriller"],
+    "duration": 139,
+    "language": ["English"]
   },
   {
     "title": "Finding Nemo",
@@ -684,7 +812,9 @@
     ],
     "rating": 85,
     "cover": "covers/finding_nemo.jpg",
-    "genres": ["Adventure", "Animation", "Comedy", "Family"]
+    "genres": ["Adventure", "Animation", "Comedy", "Family"],
+    "duration": 100,
+    "language": ["English"]
   },
   {
     "title": "Flight",
@@ -699,7 +829,9 @@
     ],
     "rating": 73,
     "cover": "covers/flight.jpg",
-    "genres": ["Drama", "Thriller"]
+    "genres": ["Drama", "Thriller"],
+    "duration": 138,
+    "language": ["English"]
   },
   {
     "title": "Flow",
@@ -708,7 +840,9 @@
     "description": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
     "rating": 86,
     "cover": "covers/flow.jpg",
-    "genres": ["Adventure", "Animation", "Family"]
+    "genres": ["Adventure", "Animation", "Family"],
+    "duration": 112,
+    "language": ["English"]
   },
   {
     "title": "For a Few Dollars More",
@@ -718,7 +852,9 @@
     "cast": ["Clint Eastwood", "Lee Van Cleef", "Gian Maria Volonté"],
     "rating": 81,
     "cover": "covers/for_a_few_dollars_more.jpg",
-    "genres": ["Drama", "Western"]
+    "genres": ["Drama", "Western"],
+    "duration": 132,
+    "language": ["Italian", "Spanish"]
   },
   {
     "title": "Forrest Gump",
@@ -728,7 +864,9 @@
     "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"],
     "rating": 85,
     "cover": "covers/forrest_gump.jpg",
-    "genres": ["Comedy", "Drama", "Romance"]
+    "genres": ["Comedy", "Drama", "Romance"],
+    "duration": 142,
+    "language": ["English"]
   },
   {
     "title": "From Up on Poppy Hill",
@@ -738,7 +876,9 @@
     "cast": ["Masami Nagasawa", "Jun Fubuki", "Shunsuke Kazama"],
     "rating": 75,
     "cover": "covers/from_up_on_poppy_hill.jpg",
-    "genres": ["Animation", "Comedy", "Drama", "Family", "History", "Romance"]
+    "genres": ["Animation", "Comedy", "Drama", "Family", "History", "Romance"],
+    "duration": 91,
+    "language": ["Japanese"]
   },
   {
     "title": "Gladiator",
@@ -753,7 +893,9 @@
     ],
     "rating": 80,
     "cover": "covers/gladiator.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 155,
+    "language": ["English"]
   },
   {
     "title": "Glass Onion: A Knives Out Mystery",
@@ -763,7 +905,9 @@
     "cast": ["Daniel Craig", "Edward Norton", "Janelle Monáe", "Kathryn Hahn"],
     "rating": 70,
     "cover": "covers/glass_onion_a_knives_out_mystery.jpg",
-    "genres": ["Comedy", "Crime", "Drama", "Mystery", "Thriller"]
+    "genres": ["Comedy", "Crime", "Drama", "Mystery", "Thriller"],
+    "duration": 139,
+    "language": ["English"]
   },
   {
     "title": "Good Will Hunting",
@@ -773,7 +917,9 @@
     "cast": ["Matt Damon", "Robin Williams", "Ben Affleck", "Minnie Driver"],
     "rating": 83,
     "cover": "covers/good_will_hunting.jpg",
-    "genres": ["Drama", "Romance"]
+    "genres": ["Drama", "Romance"],
+    "duration": 126,
+    "language": ["English"]
   },
   {
     "title": "Goodfellas",
@@ -783,7 +929,9 @@
     "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
     "rating": 90,
     "cover": "covers/goodfellas.jpg",
-    "genres": ["Biograaphy", "Crime", "Drama"]
+    "genres": ["Biograaphy", "Crime", "Drama"],
+    "duration": 146,
+    "language": ["English", "Italian"]
   },
   {
     "title": "Grave of the Fireflies",
@@ -793,7 +941,9 @@
     "cast": ["Tsutomu Tatsumi", "Ayano Shiraishi", "Yoshiko Shinohara"],
     "rating": 92,
     "cover": "covers/grave_of_the_fireflies.jpg",
-    "genres": ["Animation", "War", "Drama"]
+    "genres": ["Animation", "War", "Drama"],
+    "duration": 89,
+    "language": ["Japanese"]
   },
   {
     "title": "Hereditary",
@@ -803,7 +953,9 @@
     "cast": ["Toni Collette", "Alex Wolff", "Milly Shapiro", "Gabriel Byrne"],
     "rating": 80,
     "cover": "covers/hereditary.jpg",
-    "genres": ["Horror", "Mystery", "Drama"]
+    "genres": ["Horror", "Mystery", "Drama"],
+    "duration": 127,
+    "language": ["English"]
   },
   {
     "title": "Home Alone",
@@ -818,7 +970,9 @@
     ],
     "rating": 73,
     "cover": "covers/home_alone.jpg",
-    "genres": ["Comedy", "Family"]
+    "genres": ["Comedy", "Family"],
+    "duration": 103,
+    "language": ["English"]
   },
   {
     "title": "Home Alone 2: Lost in New York",
@@ -833,7 +987,9 @@
     ],
     "rating": 64,
     "cover": "covers/home_alone_2_lost_in_new_york.jpg",
-    "genres": ["Comedy", "Family"]
+    "genres": ["Comedy", "Family"],
+    "duration": 120,
+    "language": ["English"]
   },
   {
     "title": "Home Alone 3",
@@ -848,7 +1004,9 @@
     ],
     "rating": 45,
     "cover": "covers/home_alone_3.jpg",
-    "genres": ["Comedy", "Family"]
+    "genres": ["Comedy", "Family"],
+    "duration": 102,
+    "language": ["English"]
   },
   {
     "title": "Home Alone 4",
@@ -863,7 +1021,9 @@
     ],
     "rating": 24,
     "cover": "covers/home_alone_4.jpg",
-    "genres": ["Comedy", "Family"]
+    "genres": ["Comedy", "Family"],
+    "duration": 84,
+    "language": ["English"]
   },
   {
     "title": "Hot Fuzz",
@@ -873,7 +1033,9 @@
     "cast": ["Simon Pegg", "Nick Frost", "Timothy Dalton", "Jim Broadbent"],
     "rating": 81,
     "cover": "covers/hot_fuzz.jpg",
-    "genres": ["Action", "Comedy", "Mystery"]
+    "genres": ["Action", "Comedy", "Mystery"],
+    "duration": 121,
+    "language": ["English"]
   },
   {
     "title": "Howl's Moving Castle",
@@ -883,7 +1045,9 @@
     "cast": ["Chieko Baisho", "Takuya Kimura", "Tatsuya Gashuin"],
     "rating": 84,
     "cover": "covers/howls_moving_castle.jpg",
-    "genres": ["Adventure", "Animation", "Fantasy"]
+    "genres": ["Adventure", "Animation", "Fantasy"],
+    "duration": 119,
+    "language": ["Japanese"]
   },
   {
     "title": "Ice Age",
@@ -893,7 +1057,9 @@
     "cast": ["Ray Romano", "John Leguizamo", "Denis Leary"],
     "rating": 72,
     "cover": "covers/ice_age.jpg",
-    "genres": ["Adventure", "Animation", "Comedy"]
+    "genres": ["Adventure", "Animation", "Comedy"],
+    "duration": 81,
+    "language": ["English"]
   },
   {
     "title": "Ikiru",
@@ -908,7 +1074,9 @@
     ],
     "rating": 89,
     "cover": "covers/ikiru.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 143,
+    "language": ["Japanese"]
   },
   {
     "title": "Inception",
@@ -923,7 +1091,9 @@
     ],
     "rating": 83,
     "cover": "covers/inception.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "duration": 148,
+    "language": ["English", "Japanese", "French"]
   },
   {
     "title": "Inglourious Basterds",
@@ -933,7 +1103,9 @@
     "cast": ["Brad Pitt", "Christoph Waltz", "Mélanie Laurent", "Diane Kruger"],
     "rating": 81,
     "cover": "covers/inglourious_basterds.jpg",
-    "genres": ["Adventure", "Drama", "War"]
+    "genres": ["Adventure", "Drama", "War"],
+    "duration": 153,
+    "language": ["English", "German", "French", "Italian"]
   },
   {
     "title": "Interstellar",
@@ -948,7 +1120,9 @@
     ],
     "rating": 82,
     "cover": "covers/interstellar.jpg",
-    "genres": ["Adventure", "Drama", "Sci-Fi"]
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "duration": 169,
+    "language": ["English"]
   },
   {
     "title": "Ip Man",
@@ -958,7 +1132,9 @@
     "cast": ["Donnie Yen", "Simon Yam", "Lynn Hung"],
     "rating": 74,
     "cover": "covers/ip_man.jpg",
-    "genres": ["Action", "Biograaphy", "Drama"]
+    "genres": ["Action", "Biograaphy", "Drama"],
+    "duration": 106,
+    "language": ["Cantonese", "Mandarin", "Japanese"]
   },
   {
     "title": "Ip Man 2",
@@ -968,7 +1144,9 @@
     "cast": ["Donnie Yen", "Sammo Hung", "Huang Xiaoming"],
     "rating": 74,
     "cover": "covers/ip_man_2.jpg",
-    "genres": ["Action", "Biograaphy", "Drama"]
+    "genres": ["Action", "Biograaphy", "Drama"],
+    "duration": 108,
+    "language": ["Cantonese", "Mandarin", "English"]
   },
   {
     "title": "Ip Man 3",
@@ -978,7 +1156,9 @@
     "cast": ["Donnie Yen", "Lynn Hung", "Mike Tyson"],
     "rating": 68,
     "cover": "covers/ip_man_3.jpg",
-    "genres": ["Action", "Biograaphy", "Drama"]
+    "genres": ["Action", "Biograaphy", "Drama"],
+    "duration": 105,
+    "language": ["Cantonese", "Mandarin", "English"]
   },
   {
     "title": "Ip Man 4",
@@ -988,7 +1168,9 @@
     "cast": ["Donnie Yen", "Scott Adkins", "Danny Chan Kwok-kwan"],
     "rating": 70,
     "cover": "covers/ip_man_4.jpg",
-    "genres": ["Action", "Biograaphy", "Drama"]
+    "genres": ["Action", "Biograaphy", "Drama"],
+    "duration": 105,
+    "language": ["Cantonese", "English"]
   },
   {
     "title": "It",
@@ -1003,7 +1185,9 @@
     ],
     "rating": 73,
     "cover": "covers/it.jpg",
-    "genres": ["Fantasy", "Horror"]
+    "genres": ["Fantasy", "Horror"],
+    "duration": 135,
+    "language": ["English"]
   },
   {
     "title": "John Wick",
@@ -1013,7 +1197,9 @@
     "cast": ["Keanu Reeves", "Michael Nyqvist", "Alfie Allen", "Willem Dafoe"],
     "rating": 75,
     "cover": "covers/john_wick.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 101,
+    "language": ["English", "Russian"]
   },
   {
     "title": "John Wick: Chapter 2",
@@ -1028,7 +1214,9 @@
     ],
     "rating": 78,
     "cover": "covers/john_wick_chapter_2.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 122,
+    "language": ["English", "Italian", "Russian"]
   },
   {
     "title": "John Wick: Chapter 3 – Parabellum",
@@ -1043,7 +1231,9 @@
     ],
     "rating": 76,
     "cover": "covers/john_wick_chapter_3_parabellum.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 131,
+    "language": ["English", "Russian", "Arabic"]
   },
   {
     "title": "John Wick: Chapter 4",
@@ -1058,7 +1248,9 @@
     ],
     "rating": 80,
     "cover": "covers/john_wick_chapter_4.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 169,
+    "language": ["English", "French", "Japanese", "German", "Russian"]
   },
   {
     "title": "Johnny English",
@@ -1073,7 +1265,9 @@
     ],
     "rating": 62,
     "cover": "covers/johnny_english.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 88,
+    "language": ["English"]
   },
   {
     "title": "Johnny English Reborn",
@@ -1088,7 +1282,9 @@
     ],
     "rating": 59,
     "cover": "covers/johnny_english_reborn.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 101,
+    "language": ["English", "Cantonese", "Mandarin"]
   },
   {
     "title": "Johnny English Strikes Again",
@@ -1098,7 +1294,9 @@
     "cast": ["Rowan Atkinson", "Olga Kurylenko", "Ben Miller", "Emma Thompson"],
     "rating": 57,
     "cover": "covers/johnny_english_strikes_again.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 89,
+    "language": ["English", "French"]
   },
   {
     "title": "Joker",
@@ -1113,7 +1311,9 @@
     ],
     "rating": 76,
     "cover": "covers/joker.jpg",
-    "genres": ["Crime", "Drama", "Thriller"]
+    "genres": ["Crime", "Drama", "Thriller"],
+    "duration": 122,
+    "language": ["English"]
   },
   {
     "title": "Jujutsu Kaisen 0: The Movie",
@@ -1128,7 +1328,9 @@
     ],
     "rating": 80,
     "cover": "covers/jjk0.jpg",
-    "genres": ["Animation", "Action", "Fantasy"]
+    "genres": ["Animation", "Action", "Fantasy"],
+    "duration": 105,
+    "language": ["Japanese"]
   },
   {
     "title": "Jurassic Park",
@@ -1143,7 +1345,9 @@
     ],
     "rating": 81,
     "cover": "covers/jurassic_park.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "duration": 127,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Kiki's Delivery Service",
@@ -1153,7 +1357,9 @@
     "cast": ["Minami Takayama", "Rei Sakuma", "Kappei Yamaguchi"],
     "rating": 84,
     "cover": "covers/kikis_delivery_service.jpg",
-    "genres": ["Animation", "Family", "Fantasy"]
+    "genres": ["Animation", "Family", "Fantasy"],
+    "duration": 103,
+    "language": ["Japanese"]
   },
   {
     "title": "Kill Bill: The Whole Bloody Affair",
@@ -1163,7 +1369,9 @@
     "cast": ["Uma Thurman", "David Carradine", "Daryl Hannah", "Lucy Liu"],
     "rating": 88,
     "cover": "covers/kill_bill_the_whole_bloody_affair.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 247,
+    "language": ["English", "Japanese", "Cantonese", "Mandarin"]
   },
   {
     "title": "Kill Bill: Vol. 1",
@@ -1173,7 +1381,9 @@
     "cast": ["Uma Thurman", "Lucy Liu", "Vivica A. Fox", "Michael Madsen"],
     "rating": 80,
     "cover": "covers/kill_bill_vol_1.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 111,
+    "language": ["English", "Japanese", "Cantonese"]
   },
   {
     "title": "Kill Bill: Volume 2",
@@ -1188,7 +1398,9 @@
     ],
     "rating": 83,
     "cover": "covers/kill_bill_volume_2.jpg",
-    "genres": ["Action", "Crime", "Thriller"]
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 137,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Killers of the Flower Moon",
@@ -1203,7 +1415,9 @@
     ],
     "rating": 79,
     "cover": "covers/killers_of_the_flower_moon.jpg",
-    "genres": ["Crime", "Drama", "History"]
+    "genres": ["Crime", "Drama", "History"],
+    "duration": 206,
+    "language": ["English", "Osage"]
   },
   {
     "title": "Kingsman: The Golden Circle",
@@ -1213,7 +1427,9 @@
     "cast": ["Taron Egerton", "Colin Firth", "Julianne Moore", "Mark Strong"],
     "rating": 61,
     "cover": "covers/kingsman_the_golden_circle.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 141,
+    "language": ["English"]
   },
   {
     "title": "Kingsman: The Secret Service",
@@ -1228,7 +1444,9 @@
     ],
     "rating": 72,
     "cover": "covers/kingsman_the_secret_service.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 129,
+    "language": ["English"]
   },
   {
     "title": "Knives Out",
@@ -1238,7 +1456,9 @@
     "cast": ["Daniel Craig", "Chris Evans", "Ana de Armas", "Jamie Lee Curtis"],
     "rating": 82,
     "cover": "covers/knives_out.jpg",
-    "genres": ["Comedy", "Crime", "Drama", "Mystery"]
+    "genres": ["Comedy", "Crime", "Drama", "Mystery"],
+    "duration": 130,
+    "language": ["English"]
   },
   {
     "title": "Kung Fu Hustle",
@@ -1248,7 +1468,9 @@
     "cast": ["Stephen Chow", "Danny Chan Kwok-kwan", "Yuen Wah"],
     "rating": 78,
     "cover": "covers/kung_fu_hustle.jpg",
-    "genres": ["Action", "Comedy", "Fantasy"]
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "duration": 99,
+    "language": ["Cantonese", "Mandarin"]
   },
   {
     "title": "Kung Fu Panda",
@@ -1258,7 +1480,9 @@
     "cast": ["Jack Black", "Dustin Hoffman", "Angelina Jolie", "Ian McShane"],
     "rating": 76,
     "cover": "covers/kung_fu_panda.jpg",
-    "genres": ["Animation", "Action", "Family", "Fantasy", "Adventure"]
+    "genres": ["Animation", "Action", "Family", "Fantasy", "Adventure"],
+    "duration": 92,
+    "language": ["English"]
   },
   {
     "title": "Kung Fu Panda 2",
@@ -1268,7 +1492,9 @@
     "cast": ["Jack Black", "Angelina Jolie", "Gary Oldman", "Dustin Hoffman"],
     "rating": 74,
     "cover": "covers/kung_fu_panda_2.jpg",
-    "genres": ["Action", "Adventure", "Animation", "Fantasy", "Family"]
+    "genres": ["Action", "Adventure", "Animation", "Fantasy", "Family"],
+    "duration": 90,
+    "language": ["English"]
   },
   {
     "title": "Lawrence of Arabia",
@@ -1278,7 +1504,9 @@
     "cast": ["Peter O'Toole", "Alec Guinness", "Anthony Quinn"],
     "rating": 89,
     "cover": "covers/lawrence_of_arabia.jpg",
-    "genres": ["Adventure", "Biograaphy", "Drama", "War"]
+    "genres": ["Adventure", "Biograaphy", "Drama", "War"],
+    "duration": 222,
+    "language": ["English", "Arabic", "Turkish"]
   },
   {
     "title": "Legends of the Fall",
@@ -1288,7 +1516,9 @@
     "cast": ["Brad Pitt", "Anthony Hopkins", "Julia Ormond", "Aidan Quinn"],
     "rating": 66,
     "cover": "covers/legends_of_the_fall.jpg",
-    "genres": ["Drama", "Romance", "War"]
+    "genres": ["Drama", "Romance", "War"],
+    "duration": 133,
+    "language": ["English"]
   },
   {
     "title": "Life is Beautiful",
@@ -1298,7 +1528,9 @@
     "cast": ["Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini"],
     "rating": 80,
     "cover": "covers/life_is_beautiful.jpg",
-    "genres": ["Comedy", "Drama", "Romance", "War"]
+    "genres": ["Comedy", "Drama", "Romance", "War"],
+    "duration": 116,
+    "language": ["Italian", "German", "English"]
   },
   {
     "title": "Little Big Soldier",
@@ -1308,7 +1540,9 @@
     "cast": ["Jackie Chan", "Leehom Wang", "Steve Yoo", " Lin Peng"],
     "rating": 65,
     "cover": "covers/little_big_soldier.jpg",
-    "genres": ["Comedy", "Action", "Adventure", "War"]
+    "genres": ["Comedy", "Action", "Adventure", "War"],
+    "duration": 96,
+    "language": ["Mandarin"]
   },
   {
     "title": "Little Miss Sunshine",
@@ -1318,7 +1552,9 @@
     "cast": ["Greg Kinnear", "Toni Collette", "Steve Carell", "Paul Dano"],
     "rating": 81,
     "cover": "covers/little_miss_sunshine.jpg",
-    "genres": ["Comedy", "Drama"]
+    "genres": ["Comedy", "Drama"],
+    "duration": 101,
+    "language": ["English"]
   },
   {
     "title": "Logan",
@@ -1328,7 +1564,9 @@
     "cast": ["Hugh Jackman", "Patrick Stewart", "Dafne Keen"],
     "rating": 80,
     "cover": "covers/logan.jpg",
-    "genres": ["Action", "Drama", "Sci-Fi"]
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "duration": 137,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Lupin the Third: Goemon's Blood Spray",
@@ -1338,7 +1576,9 @@
     "cast": ["Kanichi Kurita", "Daisuke Namikawa", "Akio Otsuka"],
     "rating": 75,
     "cover": "covers/lupin_the_third_goemons_blood_spray.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 54,
+    "language": ["Japanese"]
   },
   {
     "title": "Léon: The Professional",
@@ -1348,7 +1588,9 @@
     "cast": ["Jean Reno", "Natalie Portman", "Gary Oldman"],
     "rating": 78,
     "cover": "covers/lon_the_professional.jpg",
-    "genres": ["Action", "Crime", "Drama", "Thriller"]
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "duration": 110,
+    "language": ["English", "French", "Italian"]
   },
   {
     "title": "Mad Max: Fury Road",
@@ -1358,7 +1600,9 @@
     "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
     "rating": 86,
     "cover": "covers/mad_max_fury_road.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi"]
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "duration": 120,
+    "language": ["English"]
   },
   {
     "title": "Madagascar",
@@ -1373,7 +1617,9 @@
     ],
     "rating": 69,
     "cover": "covers/madagascar.jpg",
-    "genres": ["Comedy", "Animation", "Adventure", "Family"]
+    "genres": ["Comedy", "Animation", "Adventure", "Family"],
+    "duration": 86,
+    "language": ["English"]
   },
   {
     "title": "Maze Runner: The Death Cure",
@@ -1388,7 +1634,9 @@
     ],
     "rating": 61,
     "cover": "covers/maze_runner_the_death_cure.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"]
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "duration": 143,
+    "language": ["English"]
   },
   {
     "title": "Maze Runner: The Scorch Trials",
@@ -1403,7 +1651,9 @@
     ],
     "rating": 57,
     "cover": "covers/maze_runner_the_scorch_trials.jpg",
-    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"]
+    "genres": ["Action", "Adventure", "Sci-Fi", "Thriller"],
+    "duration": 131,
+    "language": ["English"]
   },
   {
     "title": "Megamind",
@@ -1422,7 +1672,9 @@
       "Family",
       "Fantasy",
       "Sci-Fi"
-    ]
+    ],
+    "duration": 95,
+    "language": ["English"]
   },
   {
     "title": "Memento",
@@ -1432,7 +1684,9 @@
     "cast": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"],
     "rating": 85,
     "cover": "covers/memento.jpg",
-    "genres": ["Thriller", "Mystery"]
+    "genres": ["Thriller", "Mystery"],
+    "duration": 113,
+    "language": ["English"]
   },
   {
     "title": "Memories of Murder",
@@ -1442,7 +1696,9 @@
     "cast": ["Song Kang-ho", "Kim Sang-kyung", "Kim Roi-ha"],
     "rating": 85,
     "cover": "covers/memories_of_murder.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 132,
+    "language": ["Korean"]
   },
   {
     "title": "Modern Times",
@@ -1452,7 +1708,21 @@
     "cast": ["Charlie Chaplin", "Paulette Goddard", "Henry Bergman"],
     "rating": 90,
     "cover": "covers/modern_times.jpg",
-    "genres": ["Comedy", "Drama", "Romance"]
+    "genres": ["Comedy", "Drama", "Romance"],
+    "duration": 87,
+    "language": ["Silent (English intertitles)"]
+  },
+  {
+    "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
+    "year": 2025,
+    "director": "Kenji Nakamura",
+    "description": "The Medicine Seller returns as the Edo harem faces a new crisis, with family feuds, inner turmoil and fiery envy igniting the birth of a raging spirit.",
+    "cast": ["Hiroshi Kamiya", "Cho", "Daisuke Hosomi", "Haruka Tomatsu"],
+    "rating": 76,
+    "cover": "covers/mononoke_the_movie_chapter_ii_the_ashes_of_rage.jpg",
+    "genres": ["Animation", "Fantasy", "Mystery"],
+    "duration": 113,
+    "language": ["Japanese"]
   },
   {
     "title": "Mononoke the Movie: The Phantom in the Rain",
@@ -1462,7 +1732,9 @@
     "cast": ["Hiroshi Kamiya", "Tomoyo Kurosawa", "Aoi Yuki", "Mami Koyama"],
     "rating": 72,
     "cover": "covers/mononoke_the_movie_the_phantom_in_the_rain.jpg",
-    "genres": ["Animation", "Fantasy", "Mystery"]
+    "genres": ["Animation", "Fantasy", "Mystery"],
+    "duration": 114,
+    "language": ["Japanese"]
   },
   {
     "title": "MouseHunt",
@@ -1472,7 +1744,9 @@
     "cast": ["Nathan Lane", "Lee Evans", "Vicki Lewis", "Christopher Walken"],
     "rating": 61,
     "cover": "covers/mousehunt.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "duration": 98,
+    "language": ["English"]
   },
   {
     "title": "Mr. Bean's Holiday",
@@ -1482,7 +1756,9 @@
     "cast": ["Rowan Atkinson", "Willem Dafoe", "Maxim Baldry", "Karel Roden"],
     "rating": 64,
     "cover": "covers/mr_beans_holiday.jpg",
-    "genres": ["Comedy", "Family"]
+    "genres": ["Comedy", "Family"],
+    "duration": 90,
+    "language": ["English", "French", "Russian"]
   },
   {
     "title": "Mulan",
@@ -1492,7 +1768,9 @@
     "cast": ["Ming-Na Wen", "Eddie Murphy", "BD Wong", "Harvey Fierstein"],
     "rating": 80,
     "cover": "covers/mulan.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 88,
+    "language": ["English"]
   },
   {
     "title": "Mulholland Drive",
@@ -1502,7 +1780,9 @@
     "cast": ["Naomi Watts", "Laura Harring", "Justin Theroux"],
     "rating": 83,
     "cover": "covers/mulholland_drive.jpg",
-    "genres": ["Drama", "Mystery", "Thriller"]
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "duration": 147,
+    "language": ["English"]
   },
   {
     "title": "My Fair Lady",
@@ -1512,7 +1792,9 @@
     "cast": ["Audrey Hepburn", "Rex Harrison", "Stanley Holloway"],
     "rating": 83,
     "cover": "covers/my_fair_lady.jpg",
-    "genres": ["Drama", "Family", "Musical"]
+    "genres": ["Drama", "Family", "Musical"],
+    "duration": 170,
+    "language": ["English"]
   },
   {
     "title": "My Neighbor Totoro",
@@ -1522,7 +1804,9 @@
     "cast": ["Hitoshi Takagi", "Noriko Hidaka", "Chika Sakamoto"],
     "rating": 86,
     "cover": "covers/my_neighbor_totoro.jpg",
-    "genres": ["Animation", "Comedy", "Family", "Fantasy"]
+    "genres": ["Animation", "Comedy", "Family", "Fantasy"],
+    "duration": 86,
+    "language": ["Japanese"]
   },
   {
     "title": "My Neighbors the Yamadas",
@@ -1532,7 +1816,9 @@
     "cast": ["Yukiji Asaoka", "Toru Masuoka", "Masako Araki"],
     "rating": 71,
     "cover": "covers/my_neighbors_the_yamadas.jpg",
-    "genres": ["Animation", "Comedy", "Family"]
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 104,
+    "language": ["Japanese"]
   },
   {
     "title": "Nausicaä of the Valley of the Wind",
@@ -1542,7 +1828,9 @@
     "cast": ["Sumi Shimamoto", "Mahito Tsujimura", "Hisako Kyoda"],
     "rating": 85,
     "cover": "covers/nausica_of_the_valley_of_the_wind.jpg",
-    "genres": ["Adventure", "Animation", "Sci-Fi", "Fantasy"]
+    "genres": ["Adventure", "Animation", "Sci-Fi", "Fantasy"],
+    "duration": 117,
+    "language": ["Japanese"]
   },
   {
     "title": "Night at the Museum",
@@ -1552,7 +1840,9 @@
     "cast": ["Ben Stiller", "Carla Gugino", "Dick Van Dyke", "Mickey Rooney"],
     "rating": 64,
     "cover": "covers/night_at_the_museum.jpg",
-    "genres": ["Adventure", "Comedy", "Family"]
+    "genres": ["Adventure", "Comedy", "Family"],
+    "duration": 108,
+    "language": ["English"]
   },
   {
     "title": "Night at the Museum: Secret of the Tomb",
@@ -1562,7 +1852,9 @@
     "cast": ["Ben Stiller", "Robin Williams", "Owen Wilson", "Steve Coogan"],
     "rating": 59,
     "cover": "covers/night_at_the_museum_secret_of_the_tomb.jpg",
-    "genres": ["Adventure", "Comedy", "Family"]
+    "genres": ["Adventure", "Comedy", "Family"],
+    "duration": 98,
+    "language": ["English"]
   },
   {
     "title": "Nightcrawler",
@@ -1572,7 +1864,9 @@
     "cast": ["Jake Gyllenhaal", "Riz Ahmed", "Rene Russo", "Bill Paxton"],
     "rating": 80,
     "cover": "covers/nightcrawler.jpg",
-    "genres": ["Crime", "Drama", "Thriller"]
+    "genres": ["Crime", "Drama", "Thriller"],
+    "duration": 118,
+    "language": ["English"]
   },
   {
     "title": "Ninja Scroll",
@@ -1587,7 +1881,9 @@
     ],
     "rating": 77,
     "cover": "covers/ninja_scroll.jpg",
-    "genres": ["Animation", "Action", "Adventure", "Fantasy", "Thriller"]
+    "genres": ["Animation", "Action", "Adventure", "Fantasy", "Thriller"],
+    "duration": 94,
+    "language": ["Japanese"]
   },
   {
     "title": "No Country for Old Men",
@@ -1597,7 +1893,9 @@
     "cast": ["Javier Bardem", "Josh Brolin", "Tommy Lee Jones"],
     "rating": 87,
     "cover": "covers/no_country_for_old_men.jpg",
-    "genres": ["Crime", "Drama", "Thriller"]
+    "genres": ["Crime", "Drama", "Thriller"],
+    "duration": 122,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Nosferatu",
@@ -1612,7 +1910,9 @@
     ],
     "rating": 78,
     "cover": "covers/nosferatu.jpg",
-    "genres": ["Horror", "Mystery"]
+    "genres": ["Horror", "Mystery"],
+    "duration": 94,
+    "language": ["Silent (German intertitles)"]
   },
   {
     "title": "Office Space",
@@ -1627,7 +1927,9 @@
     ],
     "rating": 75,
     "cover": "covers/office_space.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "duration": 89,
+    "language": ["English"]
   },
   {
     "title": "Oldboy",
@@ -1637,7 +1939,9 @@
     "cast": ["Choi Min-sik", "Yoo Ji-tae", "Kang Hye-jung"],
     "rating": 83,
     "cover": "covers/oldboy.jpg",
-    "genres": ["Mystery", "Drama", "Action"]
+    "genres": ["Mystery", "Drama", "Action"],
+    "duration": 120,
+    "language": ["Korean"]
   },
   {
     "title": "Once Upon a Time in the West",
@@ -1647,7 +1951,9 @@
     "cast": ["Henry Fonda", "Charles Bronson", "Claudia Cardinale"],
     "rating": 86,
     "cover": "covers/once_upon_a_time_in_the_west.jpg",
-    "genres": ["Drama", "Western", "Action"]
+    "genres": ["Drama", "Western", "Action"],
+    "duration": 165,
+    "language": ["Italian", "English", "Spanish"]
   },
   {
     "title": "One Flew Over the Cuckoo's Nest",
@@ -1657,7 +1963,9 @@
     "cast": ["Jack Nicholson", "Louise Fletcher", "Will Sampson"],
     "rating": 88,
     "cover": "covers/one_flew_over_the_cuckoos_nest.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 133,
+    "language": ["English"]
   },
   {
     "title": "One Piece: Stampede",
@@ -1667,7 +1975,9 @@
     "cast": ["Mayumi Tanaka", "Kazuya Nakai", "Akemi Okamura"],
     "rating": 73,
     "cover": "covers/one_piece_stampede.jpg",
-    "genres": ["Animation", "Action", "Adventure"]
+    "genres": ["Animation", "Action", "Adventure"],
+    "duration": 101,
+    "language": ["Japanese"]
   },
   {
     "title": "Only Yesterday",
@@ -1677,7 +1987,9 @@
     "cast": ["Miki Imai", "Toshirō Yanagiba", "Yoko Honna"],
     "rating": 82,
     "cover": "covers/only_yesterday.jpg",
-    "genres": ["Animation", "Drama", "Romance"]
+    "genres": ["Animation", "Drama", "Romance"],
+    "duration": 118,
+    "language": ["Japanese"]
   },
   {
     "title": "Oppenheimer",
@@ -1692,7 +2004,9 @@
     ],
     "rating": 85,
     "cover": "covers/oppenheimer.jpg",
-    "genres": ["Biograaphy", "Drama", "History"]
+    "genres": ["Biograaphy", "Drama", "History"],
+    "duration": 180,
+    "language": ["English"]
   },
   {
     "title": "Pan's Labyrinth",
@@ -1702,7 +2016,9 @@
     "cast": ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
     "rating": 88,
     "cover": "covers/pans_labyrinth.jpg",
-    "genres": ["Drama", "Fantasy", "War"]
+    "genres": ["Drama", "Fantasy", "War"],
+    "duration": 118,
+    "language": ["Spanish"]
   },
   {
     "title": "Parasite",
@@ -1712,7 +2028,9 @@
     "cast": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong"],
     "rating": 91,
     "cover": "covers/parasite.jpg",
-    "genres": ["Drama", "Thriller"]
+    "genres": ["Drama", "Thriller"],
+    "duration": 132,
+    "language": ["Korean", "English"]
   },
   {
     "title": "Perfume: The Story of a Murderer",
@@ -1722,7 +2040,9 @@
     "cast": ["Ben Whishaw", "Dustin Hoffman", "Alan Rickman"],
     "rating": 71,
     "cover": "covers/perfume_the_story_of_a_murderer.jpg",
-    "genres": ["Crime", "Drama", "Fantasy"]
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "duration": 147,
+    "language": ["English", "German", "Italian", "French", "Latin"]
   },
   {
     "title": "Pirates of the Caribbean: At World's End",
@@ -1737,7 +2057,9 @@
     ],
     "rating": 67,
     "cover": "covers/pirates_of_the_caribbean_at_worlds_end.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 169,
+    "language": ["English"]
   },
   {
     "title": "Pirates of the Caribbean: Dead Man's Chest",
@@ -1747,7 +2069,9 @@
     "cast": ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy"],
     "rating": 70,
     "cover": "covers/pirates_of_the_caribbean_dead_mans_chest.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 151,
+    "language": ["English"]
   },
   {
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -1762,7 +2086,9 @@
     ],
     "rating": 58,
     "cover": "covers/pirates_of_the_caribbean_dead_men_tell_no_tales.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 129,
+    "language": ["English"]
   },
   {
     "title": "Pirates of the Caribbean: On Stranger Tides",
@@ -1772,7 +2098,9 @@
     "cast": ["Johnny Depp", "Penélope Cruz", "Geoffrey Rush", "Ian McShane"],
     "rating": 61,
     "cover": "covers/pirates_of_the_caribbean_on_stranger_tides.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 137,
+    "language": ["English"]
   },
   {
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -1787,7 +2115,9 @@
     ],
     "rating": 77,
     "cover": "covers/pirates_of_the_caribbean_the_curse_of_the_black_pearl.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 143,
+    "language": ["English"]
   },
   {
     "title": "Pom Poko",
@@ -1797,7 +2127,9 @@
     "cast": ["Shinchou Kokontei", "Makoto Nonomura", "Nijiko Kiyokawa"],
     "rating": 72,
     "cover": "covers/pom_poko.jpg",
-    "genres": ["Animation", "Comedy", "Drama"]
+    "genres": ["Animation", "Comedy", "Drama"],
+    "duration": 119,
+    "language": ["Japanese"]
   },
   {
     "title": "Ponyo",
@@ -1807,7 +2139,9 @@
     "cast": ["Yuria Nara", "Hiroki Doi", "George Tokoro"],
     "rating": 82,
     "cover": "covers/ponyo.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 101,
+    "language": ["Japanese"]
   },
   {
     "title": "Porco Rosso",
@@ -1817,7 +2151,9 @@
     "cast": ["Shūichirō Moriyama", "Tokiko Katō", "Akemi Okamura"],
     "rating": 82,
     "cover": "covers/porco_rosso.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 94,
+    "language": ["Japanese", "Italian"]
   },
   {
     "title": "Predestination",
@@ -1827,7 +2163,9 @@
     "cast": ["Ethan Hawke", "Sarah Snook", "Noah Taylor"],
     "rating": 72,
     "cover": "covers/predestination.jpg",
-    "genres": ["Action", "Drama", "Sci-Fi"]
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "duration": 97,
+    "language": ["English"]
   },
   {
     "title": "Princess Mononoke",
@@ -1837,7 +2175,9 @@
     "cast": ["Yōji Matsuda", "Yuriko Ishida", "Yūko Tanaka"],
     "rating": 84,
     "cover": "covers/princess_mononoke.jpg",
-    "genres": ["Animation", "Fantasy", "Adventure"]
+    "genres": ["Animation", "Fantasy", "Adventure"],
+    "duration": 134,
+    "language": ["Japanese"]
   },
   {
     "title": "Prisoners",
@@ -1847,7 +2187,9 @@
     "cast": ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis", "Maria Bello"],
     "rating": 78,
     "cover": "covers/prisoners.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 153,
+    "language": ["English"]
   },
   {
     "title": "Psycho",
@@ -1857,7 +2199,9 @@
     "cast": ["Anthony Perkins", "Janet Leigh", "Vera Miles"],
     "rating": 89,
     "cover": "covers/psycho.jpg",
-    "genres": ["Mystery", "Horror", "Thriller"]
+    "genres": ["Mystery", "Horror", "Thriller"],
+    "duration": 109,
+    "language": ["English"]
   },
   {
     "title": "Pulp Fiction",
@@ -1872,7 +2216,9 @@
     ],
     "rating": 91,
     "cover": "covers/pulp_fiction.jpg",
-    "genres": ["Crime", "Comedy", "Drama"]
+    "genres": ["Crime", "Comedy", "Drama"],
+    "duration": 154,
+    "language": ["English", "Spanish", "French"]
   },
   {
     "title": "Puss in Boots: The Last Wish",
@@ -1887,7 +2233,9 @@
     ],
     "rating": 79,
     "cover": "covers/puss_in_boots_the_last_wish.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 102,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Raging Bull",
@@ -1897,7 +2245,9 @@
     "cast": ["Robert De Niro", "Joe Pesci", "Cathy Moriarty"],
     "rating": 85,
     "cover": "covers/raging_bull.jpg",
-    "genres": ["Biograaphy", "Drama", "Sport"]
+    "genres": ["Biograaphy", "Drama", "Sport"],
+    "duration": 129,
+    "language": ["English"]
   },
   {
     "title": "Ran",
@@ -1907,7 +2257,9 @@
     "cast": ["Tatsuya Nakadai", "Akira Terao", "Jinpachi Nezu"],
     "rating": 88,
     "cover": "covers/ran.jpg",
-    "genres": ["Action", "Drama", "War"]
+    "genres": ["Action", "Drama", "War"],
+    "duration": 162,
+    "language": ["Japanese"]
   },
   {
     "title": "Rango",
@@ -1917,7 +2269,9 @@
     "cast": ["Johnny Depp", "Isla Fisher", "Ned Beatty", "Bill Nighy"],
     "rating": 75,
     "cover": "covers/rango.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 107,
+    "language": ["English"]
   },
   {
     "title": "Rashomon",
@@ -1932,7 +2286,9 @@
     ],
     "rating": 89,
     "cover": "covers/rashomon.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 88,
+    "language": ["Japanese"]
   },
   {
     "title": "Ratatouille",
@@ -1942,7 +2298,9 @@
     "cast": ["Patton Oswalt", "Ian Holm", "Lou Romano", "Peter O'Toole"],
     "rating": 87,
     "cover": "covers/ratatouille.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 111,
+    "language": ["English", "French"]
   },
   {
     "title": "Rear Window",
@@ -1952,7 +2310,9 @@
     "cast": ["James Stewart", "Grace Kelly", "Wendell Corey"],
     "rating": 91,
     "cover": "covers/rear_window.jpg",
-    "genres": ["Mystery", "Thriller"]
+    "genres": ["Mystery", "Thriller"],
+    "duration": 112,
+    "language": ["English"]
   },
   {
     "title": "Red Notice",
@@ -1962,7 +2322,9 @@
     "cast": ["Dwayne Johnson", "Ryan Reynolds", "Gal Gadot", "Ritu Arya"],
     "rating": 55,
     "cover": "covers/red_notice.jpg",
-    "genres": ["Action", "Comedy", "Thriller"]
+    "genres": ["Action", "Comedy", "Thriller"],
+    "duration": 118,
+    "language": ["English"]
   },
   {
     "title": "Redline",
@@ -1972,7 +2334,9 @@
     "cast": ["Takuya Kimura", "Tadanobu Asano", "Takeshi Aono"],
     "rating": 60,
     "cover": "covers/redline.jpg",
-    "genres": ["Animation", "Action", "Sci-Fi"]
+    "genres": ["Animation", "Action", "Sci-Fi"],
+    "duration": 102,
+    "language": ["Japanese"]
   },
   {
     "title": "Reservoir Dogs",
@@ -1982,7 +2346,9 @@
     "cast": ["Harvey Keitel", "Tim Roth", "Michael Madsen", "Steve Buscemi"],
     "rating": 86,
     "cover": "covers/reservoir_dogs.jpg",
-    "genres": ["Crime", "Thriller"]
+    "genres": ["Crime", "Thriller"],
+    "duration": 99,
+    "language": ["English"]
   },
   {
     "title": "Roman Holiday",
@@ -1992,7 +2358,9 @@
     "cast": ["Audrey Hepburn", "Gregory Peck", "Eddie Albert"],
     "rating": 81,
     "cover": "covers/roman_holiday.jpg",
-    "genres": ["Comedy", "Drama", "Romance"]
+    "genres": ["Comedy", "Drama", "Romance"],
+    "duration": 118,
+    "language": ["English", "Italian"]
   },
   {
     "title": "Rosemary's Baby",
@@ -2002,7 +2370,9 @@
     "cast": ["Mia Farrow", "John Cassavetes", "Ruth Gordon"],
     "rating": 86,
     "cover": "covers/rosemarys_baby.jpg",
-    "genres": ["Horror", "Drama"]
+    "genres": ["Horror", "Drama"],
+    "duration": 137,
+    "language": ["English"]
   },
   {
     "title": "Sabrina",
@@ -2012,7 +2382,9 @@
     "cast": ["Audrey Hepburn", "Humphrey Bogart", "William Holden"],
     "rating": 77,
     "cover": "covers/sabrina.jpg",
-    "genres": ["Comedy", "Drama", "Romance"]
+    "genres": ["Comedy", "Drama", "Romance"],
+    "duration": 113,
+    "language": ["English", "French"]
   },
   {
     "title": "Schindler's List",
@@ -2022,7 +2394,9 @@
     "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
     "rating": 92,
     "cover": "covers/schindlers_list.jpg",
-    "genres": ["Biograaphy", "Drama", "History"]
+    "genres": ["Biograaphy", "Drama", "History"],
+    "duration": 195,
+    "language": ["English", "German", "Hebrew", "Polish"]
   },
   {
     "title": "Se7en",
@@ -2032,7 +2406,9 @@
     "cast": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow", "Kevin Spacey"],
     "rating": 81,
     "cover": "covers/se7en.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 127,
+    "language": ["English"]
   },
   {
     "title": "Seven Samurai",
@@ -2042,7 +2418,9 @@
     "cast": ["Toshirô Mifune", "Takashi Shimura", "Keiko Tsushima"],
     "rating": 93,
     "cover": "covers/seven_samurai.jpg",
-    "genres": ["Action", "Drama"]
+    "genres": ["Action", "Drama"],
+    "duration": 207,
+    "language": ["Japanese"]
   },
   {
     "title": "Shaolin Soccer",
@@ -2052,7 +2430,9 @@
     "cast": ["Stephen Chow", "Wei Zhao", "Man Tat Ng"],
     "rating": 76,
     "cover": "covers/shaolin_soccer.jpg",
-    "genres": ["Action", "Comedy", "Fantasy"]
+    "genres": ["Action", "Comedy", "Fantasy"],
+    "duration": 87,
+    "language": ["Cantonese"]
   },
   {
     "title": "Shazam!",
@@ -2062,7 +2442,9 @@
     "cast": ["Zachary Levi", "Asher Angel", "Mark Strong", "Jack Dylan Grazer"],
     "rating": 69,
     "cover": "covers/shazam.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 132,
+    "language": ["English"]
   },
   {
     "title": "Shoot 'Em Up",
@@ -2072,7 +2454,9 @@
     "cast": ["Clive Owen", "Paul Giamatti", "Monica Bellucci"],
     "rating": 63,
     "cover": "covers/shoot_em_up.jpg",
-    "genres": ["Action", "Comedy", "Thriller"]
+    "genres": ["Action", "Comedy", "Thriller"],
+    "duration": 86,
+    "language": ["English"]
   },
   {
     "title": "Shutter Island",
@@ -2087,7 +2471,9 @@
     ],
     "rating": 77,
     "cover": "covers/shutter_island.jpg",
-    "genres": ["Drama", "Mystery", "Thriller"]
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "duration": 138,
+    "language": ["English", "German"]
   },
   {
     "title": "Singin' in the Rain",
@@ -2097,7 +2483,9 @@
     "cast": ["Gene Kelly", "Donald O'Connor", "Debbie Reynolds"],
     "rating": 90,
     "cover": "covers/singin_in_the_rain.jpg",
-    "genres": ["Comedy", "Musical", "Romance"]
+    "genres": ["Comedy", "Musical", "Romance"],
+    "duration": 103,
+    "language": ["English"]
   },
   {
     "title": "Skyfall",
@@ -2107,7 +2495,9 @@
     "cast": ["Daniel Craig", "Javier Bardem", "Naomie Harris", "Judi Dench"],
     "rating": 81,
     "cover": "covers/skyfall.jpg",
-    "genres": ["Action", "Adventure", "Thriller"]
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 143,
+    "language": ["English", "French"]
   },
   {
     "title": "Soul",
@@ -2117,7 +2507,9 @@
     "cast": ["Jamie Foxx", "Tina Fey", "Graham Norton", "Rachel House"],
     "rating": 82,
     "cover": "covers/soul.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 100,
+    "language": ["English"]
   },
   {
     "title": "Spirited Away",
@@ -2127,7 +2519,9 @@
     "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
     "rating": 91,
     "cover": "covers/spirited_away.jpg",
-    "genres": ["Adventure", "Animation", "Family", "Fantasy"]
+    "genres": ["Adventure", "Animation", "Family", "Fantasy"],
+    "duration": 125,
+    "language": ["Japanese"]
   },
   {
     "title": "Split",
@@ -2137,7 +2531,9 @@
     "cast": ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley"],
     "rating": 71,
     "cover": "covers/split.jpg",
-    "genres": ["Horror", "Thriller"]
+    "genres": ["Horror", "Thriller"],
+    "duration": 117,
+    "language": ["English"]
   },
   {
     "title": "Star Wars: Episode I - The Phantom Menace",
@@ -2147,7 +2543,9 @@
     "cast": ["Liam Neeson", "Ewan McGregor", "Natalie Portman", "Jake Lloyd"],
     "rating": 64,
     "cover": "covers/star_wars_episode_i_the_phantom_menace.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 136,
+    "language": ["English"]
   },
   {
     "title": "Star Wars: Episode II - Attack of the Clones",
@@ -2162,7 +2560,9 @@
     ],
     "rating": 66,
     "cover": "covers/star_wars_episode_ii_attack_of_the_clones.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 142,
+    "language": ["English"]
   },
   {
     "title": "Sweeney Todd: The Demon Barber of Fleet Street",
@@ -2177,7 +2577,9 @@
     ],
     "rating": 76,
     "cover": "covers/sweeney_todd_the_demon_barber_of_fleet_street.jpg",
-    "genres": ["Drama", "Horror", "Musical"]
+    "genres": ["Drama", "Horror", "Musical"],
+    "duration": 116,
+    "language": ["English"]
   },
   {
     "title": "Tales from Earthsea",
@@ -2187,7 +2589,9 @@
     "cast": ["Junichi Okada", "Aoi Teshima", "Bunta Sugawara"],
     "rating": 59,
     "cover": "covers/tales_from_earthsea.jpg",
-    "genres": ["Animation", "Adventure", "Fantasy"]
+    "genres": ["Animation", "Adventure", "Fantasy"],
+    "duration": 115,
+    "language": ["Japanese"]
   },
   {
     "title": "Taste of Cherry",
@@ -2202,7 +2606,9 @@
     ],
     "rating": 81,
     "cover": "covers/taste_of_cherry.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 95,
+    "language": ["Persian"]
   },
   {
     "title": "Taxi Driver",
@@ -2212,7 +2618,9 @@
     "cast": ["Robert De Niro", "Jodie Foster", "Cybill Shepherd"],
     "rating": 87,
     "cover": "covers/taxi_driver.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 114,
+    "language": ["English"]
   },
   {
     "title": "Tenet",
@@ -2227,7 +2635,9 @@
     ],
     "rating": 71,
     "cover": "covers/tenet.jpg",
-    "genres": ["Action", "Sci-Fi", "Thriller"]
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "duration": 150,
+    "language": ["English", "Russian", "Norwegian", "Estonian", "Hindi"]
   },
   {
     "title": "The Batman",
@@ -2237,7 +2647,9 @@
     "cast": ["Robert Pattinson", "Zoë Kravitz", "Paul Dano", "Jeffrey Wright"],
     "rating": 78,
     "cover": "covers/the_batman.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "duration": 176,
+    "language": ["English"]
   },
   {
     "title": "The Boy and the Heron",
@@ -2247,7 +2659,9 @@
     "cast": ["Soma Santoki", "Masaki Suda", "Ko Shibasaki"],
     "rating": 83,
     "cover": "covers/the_boy_and_the_heron.jpg",
-    "genres": ["Adventure", "Animation", "Fantasy", "Drama"]
+    "genres": ["Adventure", "Animation", "Fantasy", "Drama"],
+    "duration": 124,
+    "language": ["Japanese"]
   },
   {
     "title": "The Color of Paradise",
@@ -2257,7 +2671,9 @@
     "cast": ["Mohsen Ramezani", "Hossein Mahjoub", "Salameh Feyzi"],
     "rating": 82,
     "cover": "covers/the_color_of_paradise.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 90,
+    "language": ["Persian"]
   },
   {
     "title": "The Conjuring",
@@ -2267,7 +2683,9 @@
     "cast": ["Vera Farmiga", "Patrick Wilson", "Lili Taylor", "Ron Livingston"],
     "rating": 75,
     "cover": "covers/the_conjuring.jpg",
-    "genres": ["Horror", "Mystery", "Thriller"]
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "duration": 112,
+    "language": ["English"]
   },
   {
     "title": "The Conjuring 2",
@@ -2282,7 +2700,9 @@
     ],
     "rating": 72,
     "cover": "covers/the_conjuring_2.jpg",
-    "genres": ["Horror", "Mystery", "Thriller"]
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "duration": 134,
+    "language": ["English"]
   },
   {
     "title": "The Dark Knight",
@@ -2292,7 +2712,9 @@
     "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
     "rating": 88,
     "cover": "covers/the_dark_knight.jpg",
-    "genres": ["Action", "Crime", "Drama"]
+    "genres": ["Action", "Crime", "Drama"],
+    "duration": 152,
+    "language": ["English", "Mandarin"]
   },
   {
     "title": "The Dark Knight Rises",
@@ -2302,7 +2724,9 @@
     "cast": ["Christian Bale", "Tom Hardy", "Anne Hathaway", "Gary Oldman"],
     "rating": 80,
     "cover": "covers/the_dark_knight_rises.jpg",
-    "genres": ["Action", "Crime", "Drama", "Thriller"]
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "duration": 165,
+    "language": ["English"]
   },
   {
     "title": "The Departed",
@@ -2317,7 +2741,9 @@
     ],
     "rating": 86,
     "cover": "covers/the_departed.jpg",
-    "genres": ["Crime", "Drama", "Thriller"]
+    "genres": ["Crime", "Drama", "Thriller"],
+    "duration": 151,
+    "language": ["English", "Cantonese"]
   },
   {
     "title": "The Dictator",
@@ -2332,7 +2758,9 @@
     ],
     "rating": 64,
     "cover": "covers/the_dictator.jpg",
-    "genres": ["Comedy"]
+    "genres": ["Comedy"],
+    "duration": 83,
+    "language": ["English", "Hebrew", "Arabic", "Armenian"]
   },
   {
     "title": "The Exorcist",
@@ -2342,7 +2770,9 @@
     "cast": ["Ellen Burstyn", "Max von Sydow", "Linda Blair"],
     "rating": 82,
     "cover": "covers/the_exorcist.jpg",
-    "genres": ["Horror"]
+    "genres": ["Horror"],
+    "duration": 122,
+    "language": ["English", "Latin", "Greek", "French", "German", "Arabic"]
   },
   {
     "title": "The Godfather",
@@ -2358,7 +2788,9 @@
     ],
     "rating": 93,
     "cover": "covers/the_godfather.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 175,
+    "language": ["English", "Italian", "Latin", "Sicilian"]
   },
   {
     "title": "The Godfather Part II",
@@ -2368,7 +2800,9 @@
     "cast": ["Al Pacino", "Robert De Niro", "Robert Duvall", "Diane Keaton"],
     "rating": 92,
     "cover": "covers/the_godfather_part_ii.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 202,
+    "language": ["English", "Italian", "Spanish", "Latin", "Sicilian"]
   },
   {
     "title": "The Godfather Part III",
@@ -2378,7 +2812,9 @@
     "cast": ["Al Pacino", "Diane Keaton", "Andy Garcia", "Talia Shire"],
     "rating": 72,
     "cover": "covers/the_godfather_part_iii.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 162,
+    "language": ["English", "Italian", "Latin", "German", "Sicilian"]
   },
   {
     "title": "The Good, the Bad and the Ugly",
@@ -2388,7 +2824,9 @@
     "cast": ["Clint Eastwood", "Eli Wallach", "Lee Van Cleef"],
     "rating": 89,
     "cover": "covers/the_good_the_bad_and_the_ugly.jpg",
-    "genres": ["Adventure", "Drama", "Western"]
+    "genres": ["Adventure", "Drama", "Western"],
+    "duration": 161,
+    "language": ["Italian", "English"]
   },
   {
     "title": "The Grand Budapest Hotel",
@@ -2403,7 +2841,9 @@
     ],
     "rating": 85,
     "cover": "covers/the_grand_budapest_hotel.jpg",
-    "genres": ["Comedy", "Adventure", "Crime"]
+    "genres": ["Comedy", "Adventure", "Crime"],
+    "duration": 99,
+    "language": ["English", "French", "German"]
   },
   {
     "title": "The Great Gatsby",
@@ -2418,7 +2858,9 @@
     ],
     "rating": 67,
     "cover": "covers/the_great_gatsby.jpg",
-    "genres": ["Drama", "Romance"]
+    "genres": ["Drama", "Romance"],
+    "duration": 143,
+    "language": ["English"]
   },
   {
     "title": "The Great Wall",
@@ -2428,7 +2870,9 @@
     "cast": ["Matt Damon", "Jing Tian", "Willem Dafoe", "Andy Lau"],
     "rating": 52,
     "cover": "covers/the_great_wall.jpg",
-    "genres": ["Action", "Adventure", "Fantasy"]
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "duration": 103,
+    "language": ["English", "Mandarin"]
   },
   {
     "title": "The Green Mile",
@@ -2443,7 +2887,9 @@
     ],
     "rating": 78,
     "cover": "covers/the_green_mile.jpg",
-    "genres": ["Crime", "Drama", "Fantasy"]
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "duration": 189,
+    "language": ["English"]
   },
   {
     "title": "The Hateful Eight",
@@ -2458,7 +2904,9 @@
     ],
     "rating": 77,
     "cover": "covers/the_hateful_eight.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 168,
+    "language": ["English", "French", "Spanish"]
   },
   {
     "title": "The Hobbit: An Unexpected Journey",
@@ -2473,7 +2921,9 @@
     ],
     "rating": 71,
     "cover": "covers/the_hobbit_an_unexpected_journey.jpg",
-    "genres": ["Adventure", "Fantasy"]
+    "genres": ["Adventure", "Fantasy"],
+    "duration": 169,
+    "language": ["English"]
   },
   {
     "title": "The Hobbit: The Battle of the Five Armies",
@@ -2488,7 +2938,9 @@
     ],
     "rating": 68,
     "cover": "covers/the_hobbit_the_battle_of_the_five_armies.jpg",
-    "genres": ["Adventure", "Fantasy"]
+    "genres": ["Adventure", "Fantasy"],
+    "duration": 144,
+    "language": ["English"]
   },
   {
     "title": "The Hobbit: The Desolation of Smaug",
@@ -2503,7 +2955,9 @@
     ],
     "rating": 71,
     "cover": "covers/the_hobbit_the_desolation_of_smaug.jpg",
-    "genres": ["Adventure", "Fantasy"]
+    "genres": ["Adventure", "Fantasy"],
+    "duration": 161,
+    "language": ["English"]
   },
   {
     "title": "The Imitation Game",
@@ -2518,7 +2972,9 @@
     ],
     "rating": 79,
     "cover": "covers/the_imitation_game.jpg",
-    "genres": ["Biograaphy", "Drama", "Thriller"]
+    "genres": ["Biograaphy", "Drama", "Thriller"],
+    "duration": 113,
+    "language": ["English", "German"]
   },
   {
     "title": "The Irishman",
@@ -2528,7 +2984,9 @@
     "cast": ["Robert De Niro", "Al Pacino", "Joe Pesci"],
     "rating": 85,
     "cover": "covers/the_irishman.jpg",
-    "genres": ["Biograaphy", "Crime", "Drama"]
+    "genres": ["Biograaphy", "Crime", "Drama"],
+    "duration": 209,
+    "language": ["English", "Italian", "Latin", "Spanish"]
   },
   {
     "title": "The King's Man",
@@ -2543,7 +3001,9 @@
     ],
     "rating": 58,
     "cover": "covers/the_kings_man.jpg",
-    "genres": ["Action", "Adventure", "Thriller"]
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 131,
+    "language": ["English", "German", "Russian"]
   },
   {
     "title": "The Last: Naruto the Movie",
@@ -2553,7 +3013,9 @@
     "cast": ["Junko Takeuchi", "Nana Mizuki", "Jun Fukuyama", "Chie Nakamura"],
     "rating": 62,
     "cover": "covers/the_last_naruto.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 112,
+    "language": ["Japanese"]
   },
   {
     "title": "The Lighthouse",
@@ -2563,7 +3025,9 @@
     "cast": ["Robert Pattinson", "Willem Dafoe"],
     "rating": 79,
     "cover": "covers/the_lighthouse.jpg",
-    "genres": ["Drama", "Fantasy", "Horror"]
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "duration": 109,
+    "language": ["English"]
   },
   {
     "title": "The Lion King",
@@ -2578,7 +3042,9 @@
     ],
     "rating": 86,
     "cover": "covers/the_lion_king.jpg",
-    "genres": ["Animation", "Adventure", "Drama", "Family", "Musical"]
+    "genres": ["Animation", "Adventure", "Drama", "Family", "Musical"],
+    "duration": 88,
+    "language": ["English", "Swahili", "Zulu", "Xhosa"]
   },
   {
     "title": "The Lone Ranger",
@@ -2593,7 +3059,9 @@
     ],
     "rating": 55,
     "cover": "covers/the_lone_ranger.jpg",
-    "genres": ["Western"]
+    "genres": ["Western"],
+    "duration": 149,
+    "language": ["English", "Comanche"]
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -2603,7 +3071,9 @@
     "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Orlando Bloom"],
     "rating": 87,
     "cover": "covers/the_lord_of_the_rings_the_fellowship_of_the_ring.jpg",
-    "genres": ["Adventure", "Fantasy", "Action", "Drama"]
+    "genres": ["Adventure", "Fantasy", "Action", "Drama"],
+    "duration": 178,
+    "language": ["English", "Sindarin"]
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
@@ -2613,7 +3083,9 @@
     "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
     "rating": 89,
     "cover": "covers/the_lord_of_the_rings_the_return_of_the_king.jpg",
-    "genres": ["Action", "Adventure", "Fantasy", "Drama"]
+    "genres": ["Action", "Adventure", "Fantasy", "Drama"],
+    "duration": 201,
+    "language": ["English", "Sindarin", "Quenya"]
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -2623,7 +3095,9 @@
     "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Orlando Bloom"],
     "rating": 87,
     "cover": "covers/the_lord_of_the_rings_the_two_towers.jpg",
-    "genres": ["Action", "Adventure", "Drama", "Fantasy"]
+    "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+    "duration": 179,
+    "language": ["English", "Sindarin", "Old English"]
   },
   {
     "title": "The Machinist",
@@ -2633,7 +3107,9 @@
     "cast": ["Christian Bale", "Jennifer Jason Leigh", "Aitana Sánchez-Gijón"],
     "rating": 73,
     "cover": "covers/the_machinist.jpg",
-    "genres": ["Drama", "Mystery", "Thriller"]
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "duration": 101,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "The Maltese Falcon",
@@ -2643,7 +3119,9 @@
     "cast": ["Humphrey Bogart", "Mary Astor", "Gladys George"],
     "rating": 84,
     "cover": "covers/the_maltese_falcon.jpg",
-    "genres": ["Crime", "Drama", "Film-Noir", "Mystery", "Romance"]
+    "genres": ["Crime", "Drama", "Film-Noir", "Mystery", "Romance"],
+    "duration": 100,
+    "language": ["English"]
   },
   {
     "title": "The Mask",
@@ -2653,7 +3131,9 @@
     "cast": ["Jim Carrey", "Cameron Diaz", "Peter Riegert"],
     "rating": 69,
     "cover": "covers/the_mask.jpg",
-    "genres": ["Action", "Comedy", "Crime"]
+    "genres": ["Action", "Comedy", "Crime"],
+    "duration": 101,
+    "language": ["English"]
   },
   {
     "title": "The Matrix",
@@ -2668,7 +3148,9 @@
     ],
     "rating": 82,
     "cover": "covers/the_matrix.jpg",
-    "genres": ["Action", "Sci-Fi"]
+    "genres": ["Action", "Sci-Fi"],
+    "duration": 136,
+    "language": ["English"]
   },
   {
     "title": "The Maze Runner",
@@ -2683,7 +3165,9 @@
     ],
     "rating": 65,
     "cover": "covers/the_maze_runner.jpg",
-    "genres": ["Action", "Mystery", "Sci-Fi"]
+    "genres": ["Action", "Mystery", "Sci-Fi"],
+    "duration": 113,
+    "language": ["English"]
   },
   {
     "title": "The Phantom of the Opera",
@@ -2698,7 +3182,9 @@
     ],
     "rating": 64,
     "cover": "covers/the_phantom_of_the_opera.jpg",
-    "genres": ["Drama", "Musical", "Romance"]
+    "genres": ["Drama", "Musical", "Romance"],
+    "duration": 143,
+    "language": ["English", "Italian"]
   },
   {
     "title": "The Pianist",
@@ -2708,7 +3194,9 @@
     "cast": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
     "rating": 87,
     "cover": "covers/the_pianist.jpg",
-    "genres": ["Biograaphy", "Drama", "Music"]
+    "genres": ["Biograaphy", "Drama", "Music"],
+    "duration": 150,
+    "language": ["English", "German", "Russian"]
   },
   {
     "title": "The Prestige",
@@ -2723,7 +3211,9 @@
     ],
     "rating": 77,
     "cover": "covers/the_prestige.jpg",
-    "genres": ["Drama", "Mystery", "Sci-Fi"]
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "duration": 130,
+    "language": ["English"]
   },
   {
     "title": "The Red Turtle",
@@ -2733,7 +3223,9 @@
     "cast": ["Tom Hudson", "Baptiste Goy", "Axel Devillers", "Barbara Beretta"],
     "rating": 77,
     "cover": "covers/the_red_turtle.jpg",
-    "genres": ["Animation", "Drama", "Family"]
+    "genres": ["Animation", "Drama", "Family"],
+    "duration": 80,
+    "language": ["None (Dialogue-free)"]
   },
   {
     "title": "The Revenant",
@@ -2748,7 +3240,9 @@
     ],
     "rating": 79,
     "cover": "covers/the_revenant.jpg",
-    "genres": ["Action", "Adventure", "Drama"]
+    "genres": ["Action", "Adventure", "Drama"],
+    "duration": 156,
+    "language": ["English", "Pawnee", "Arikara", "French"]
   },
   {
     "title": "The Secret World of Arrietty",
@@ -2758,7 +3252,9 @@
     "cast": ["Mirai Shida", "Ryunosuke Kamiki", "Shinobu Otake"],
     "rating": 79,
     "cover": "covers/the_secret_world_of_arrietty.jpg",
-    "genres": ["Animation", "Adventure", "Drama"]
+    "genres": ["Animation", "Adventure", "Drama"],
+    "duration": 94,
+    "language": ["Japanese"]
   },
   {
     "title": "The Shape of Water",
@@ -2773,7 +3269,9 @@
     ],
     "rating": 79,
     "cover": "covers/the_shape_of_water.jpg",
-    "genres": ["Drama", "Fantasy", "Romance"]
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "duration": 123,
+    "language": ["English", "American Sign Language"]
   },
   {
     "title": "The Shawshank Redemption",
@@ -2783,7 +3281,9 @@
     "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
     "rating": 89,
     "cover": "covers/the_shawshank_redemption.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 142,
+    "language": ["English"]
   },
   {
     "title": "The Shining",
@@ -2798,7 +3298,9 @@
     ],
     "rating": 82,
     "cover": "covers/the_shining.jpg",
-    "genres": ["Drama", "Horror"]
+    "genres": ["Drama", "Horror"],
+    "duration": 146,
+    "language": ["English"]
   },
   {
     "title": "The Silence of the Lambs",
@@ -2808,7 +3310,9 @@
     "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"],
     "rating": 87,
     "cover": "covers/the_silence_of_the_lambs.jpg",
-    "genres": ["Horror", "Mystery", "Thriller", "Crime", "Drama"]
+    "genres": ["Horror", "Mystery", "Thriller", "Crime", "Drama"],
+    "duration": 118,
+    "language": ["English"]
   },
   {
     "title": "The Sixth Sense",
@@ -2818,7 +3322,9 @@
     "cast": ["Bruce Willis", "Haley Joel Osment", "Toni Collette"],
     "rating": 79,
     "cover": "covers/the_sixth_sense.jpg",
-    "genres": ["Drama", "Mystery", "Thriller"]
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "duration": 107,
+    "language": ["English", "Latin", "Spanish"]
   },
   {
     "title": "The Tale of The Princess Kaguya",
@@ -2828,7 +3334,9 @@
     "cast": ["Aki Asakura", "Kengo Kora", "Nobuko Miyamoto"],
     "rating": 84,
     "cover": "covers/the_tale_of_the_princess_kaguya.jpg",
-    "genres": ["Animation", "Drama", "Family"]
+    "genres": ["Animation", "Drama", "Family"],
+    "duration": 137,
+    "language": ["Japanese"]
   },
   {
     "title": "The Thing",
@@ -2838,7 +3346,9 @@
     "cast": ["Kurt Russell", "Wilford Brimley", "Keith David"],
     "rating": 78,
     "cover": "covers/the_thing.jpg",
-    "genres": ["Horror", "Mystery", "Sci-Fi"]
+    "genres": ["Horror", "Mystery", "Sci-Fi"],
+    "duration": 109,
+    "language": ["English", "Norwegian"]
   },
   {
     "title": "The Truman Show",
@@ -2848,7 +3358,9 @@
     "cast": ["Jim Carrey", "Laura Linney", "Ed Harris", "Noah Emmerich"],
     "rating": 86,
     "cover": "covers/the_truman_show.jpg",
-    "genres": ["Comedy", "Drama"]
+    "genres": ["Comedy", "Drama"],
+    "duration": 103,
+    "language": ["English"]
   },
   {
     "title": "The Usual Suspects",
@@ -2863,7 +3375,9 @@
     ],
     "rating": 82,
     "cover": "covers/the_usual_suspects.jpg",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 106,
+    "language": ["English", "Hungarian", "Spanish"]
   },
   {
     "title": "The Wind Rises",
@@ -2873,7 +3387,9 @@
     "cast": ["Hideaki Anno", "Hidetoshi Nishijima", "Miori Takimoto"],
     "rating": 83,
     "cover": "covers/the_wind_rises.jpg",
-    "genres": ["Animation", "Biograaphy", "Drama"]
+    "genres": ["Animation", "Biograaphy", "Drama"],
+    "duration": 126,
+    "language": ["Japanese", "German", "Italian", "French"]
   },
   {
     "title": "The Wind Will Carry Us",
@@ -2883,7 +3399,9 @@
     "cast": ["Behzad Dorani", "Noghre Asadi", "Roushan Karam Elmi"],
     "rating": 83,
     "cover": "covers/the_wind_will_carry_us.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 118,
+    "language": ["Persian", "Kurdish", "Azerbaijani"]
   },
   {
     "title": "The Witch",
@@ -2898,7 +3416,9 @@
     ],
     "rating": 77,
     "cover": "covers/the_witch.jpg",
-    "genres": ["Drama", "Fantasy", "Horror"]
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "duration": 92,
+    "language": ["Early Modern English"]
   },
   {
     "title": "The Wolf of Wall Street",
@@ -2913,7 +3433,9 @@
     ],
     "rating": 81,
     "cover": "covers/the_wolf_of_wall_street.jpg",
-    "genres": ["Biograaphy", "Comedy", "Crime"]
+    "genres": ["Biograaphy", "Comedy", "Crime"],
+    "duration": 180,
+    "language": ["English"]
   },
   {
     "title": "There Will Be Blood",
@@ -2923,7 +3445,9 @@
     "cast": ["Daniel Day-Lewis", "Paul Dano", "Dillon Freasier"],
     "rating": 88,
     "cover": "covers/there_will_be_blood.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 158,
+    "language": ["English"]
   },
   {
     "title": "Thor: Ragnarok",
@@ -2938,7 +3462,9 @@
     ],
     "rating": 77,
     "cover": "covers/thor_ragnarok.jpg",
-    "genres": ["Action", "Adventure", "Comedy"]
+    "genres": ["Action", "Adventure", "Comedy"],
+    "duration": 130,
+    "language": ["English"]
   },
   {
     "title": "Through the Olive Trees",
@@ -2953,7 +3479,9 @@
     ],
     "rating": 79,
     "cover": "covers/through_the_olive_trees.jpg",
-    "genres": ["Drama"]
+    "genres": ["Drama"],
+    "duration": 103,
+    "language": ["Persian", "Gilaki"]
   },
   {
     "title": "To Kill a Mockingbird",
@@ -2963,7 +3491,9 @@
     "cast": ["Gregory Peck", "Mary Badham", "Phillip Alford"],
     "rating": 85,
     "cover": "covers/to_kill_a_mockingbird.jpg",
-    "genres": ["Crime", "Drama"]
+    "genres": ["Crime", "Drama"],
+    "duration": 129,
+    "language": ["English"]
   },
   {
     "title": "Toy Story",
@@ -2973,7 +3503,9 @@
     "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
     "rating": 88,
     "cover": "covers/toy_story.jpg",
-    "genres": ["Adventure", "Animation", "Comedy"]
+    "genres": ["Adventure", "Animation", "Comedy"],
+    "duration": 81,
+    "language": ["English"]
   },
   {
     "title": "Toy Story 2",
@@ -2983,7 +3515,9 @@
     "cast": ["Tom Hanks", "Tim Allen", "Joan Cusack", "Kelsey Grammer"],
     "rating": 85,
     "cover": "covers/toy_story_2.jpg",
-    "genres": ["Adventure", "Animation", "Comedy"]
+    "genres": ["Adventure", "Animation", "Comedy"],
+    "duration": 92,
+    "language": ["English"]
   },
   {
     "title": "Toy Story 3",
@@ -2993,7 +3527,9 @@
     "cast": ["Tom Hanks", "Tim Allen", "Joan Cusack"],
     "rating": 86,
     "cover": "covers/toy_story_3.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 103,
+    "language": ["English", "Spanish"]
   },
   {
     "title": "Toy Story 4",
@@ -3003,7 +3539,9 @@
     "cast": ["Tom Hanks", "Tim Allen", "Annie Potts", "Tony Hale"],
     "rating": 79,
     "cover": "covers/toy_story_4.jpg",
-    "genres": ["Adventure", "Animation", "Comedy"]
+    "genres": ["Adventure", "Animation", "Comedy"],
+    "duration": 100,
+    "language": ["English"]
   },
   {
     "title": "Tropic Thunder",
@@ -3013,7 +3551,9 @@
     "cast": ["Ben Stiller", "Jack Black", "Robert Downey Jr.", "Tom Cruise"],
     "rating": 73,
     "cover": "covers/tropic_thunder.jpg",
-    "genres": ["Comedy", "Action", "War"]
+    "genres": ["Comedy", "Action", "War"],
+    "duration": 107,
+    "language": ["English", "Mandarin"]
   },
   {
     "title": "Up",
@@ -3023,7 +3563,9 @@
     "cast": ["Ed Asner", "Christopher Plummer", "Jordan Nagai"],
     "rating": 85,
     "cover": "covers/up.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"]
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "duration": 96,
+    "language": ["English"]
   },
   {
     "title": "Vertigo",
@@ -3033,7 +3575,9 @@
     "cast": ["James Stewart", "Kim Novak", "Barbara Bel Geddes"],
     "rating": 88,
     "cover": "covers/vertigo.jpg",
-    "genres": ["Romance", "Mystery", "Thriller"]
+    "genres": ["Romance", "Mystery", "Thriller"],
+    "duration": 128,
+    "language": ["English"]
   },
   {
     "title": "WALL-E",
@@ -3043,7 +3587,9 @@
     "cast": ["Ben Burtt", "Elissa Knight", "Jeff Garlin"],
     "rating": 88,
     "cover": "covers/wall_e.jpg",
-    "genres": ["Animation", "Adventure", "Family"]
+    "genres": ["Animation", "Adventure", "Family"],
+    "duration": 98,
+    "language": ["English"]
   },
   {
     "title": "Wait Until Dark",
@@ -3053,7 +3599,9 @@
     "cast": ["Audrey Hepburn", "Alan Arkin", "Richard Crenna"],
     "rating": 80,
     "cover": "covers/wait_until_dark.jpg",
-    "genres": ["Thriller"]
+    "genres": ["Thriller"],
+    "duration": 108,
+    "language": ["English"]
   },
   {
     "title": "When Marnie Was There",
@@ -3063,7 +3611,9 @@
     "cast": ["Sara Takatsuki", "Kasumi Arimura", "Nanako Matsushima"],
     "rating": 78,
     "cover": "covers/when_marnie_was_there.jpg",
-    "genres": ["Animation", "Drama", "Fantasy"]
+    "genres": ["Animation", "Drama", "Fantasy"],
+    "duration": 103,
+    "language": ["Japanese"]
   },
   {
     "title": "Where Is My Friend's House?",
@@ -3073,7 +3623,9 @@
     "cast": ["Babak Ahmadpour", "Ahmad Ahmadpour", "Kheda Barech Defai"],
     "rating": 82,
     "cover": "covers/where_is_my_friends_house.jpg",
-    "genres": ["Drama", "Family"]
+    "genres": ["Drama", "Family"],
+    "duration": 83,
+    "language": ["Persian"]
   },
   {
     "title": "Whiplash",
@@ -3083,7 +3635,9 @@
     "cast": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
     "rating": 88,
     "cover": "covers/whiplash.jpg",
-    "genres": ["Drama", "Music"]
+    "genres": ["Drama", "Music"],
+    "duration": 107,
+    "language": ["English"]
   },
   {
     "title": "Whisper of the Heart",
@@ -3093,7 +3647,9 @@
     "cast": ["Yōko Honna", "Issei Takahashi", "Takashi Tachibana"],
     "rating": 81,
     "cover": "covers/whisper_of_the_heart.jpg",
-    "genres": ["Animation", "Drama", "Family"]
+    "genres": ["Animation", "Drama", "Family"],
+    "duration": 111,
+    "language": ["Japanese"]
   },
   {
     "title": "Wolfwalkers",
@@ -3103,7 +3659,9 @@
     "cast": ["Honor Kneafsey", "Eva Whittaker", "Sean Bean"],
     "rating": 85,
     "cover": "covers/wolfwalkers.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 103,
+    "language": ["English"]
   },
   {
     "title": "Yes Man",
@@ -3118,7 +3676,9 @@
     ],
     "rating": 62,
     "cover": "covers/yes_man.jpg",
-    "genres": ["Comedy", "Romance"]
+    "genres": ["Comedy", "Romance"],
+    "duration": 104,
+    "language": ["English"]
   },
   {
     "title": "Zootopia",
@@ -3128,16 +3688,8 @@
     "cast": ["Ginnifer Goodwin", "Jason Bateman", "Idris Elba", "Jenny Slate"],
     "rating": 80,
     "cover": "covers/zootopia.jpg",
-    "genres": ["Action", "Adventure", "Animation"]
-  },
-  {
-    "title": "Mononoke the Movie: Chapter II - The Ashes of Rage",
-    "year": 2025,
-    "director": "Kenji Nakamura",
-    "description": "The Medicine Seller returns as the Edo harem faces a new crisis, with family feuds, inner turmoil and fiery envy igniting the birth of a raging spirit.",
-    "cast": ["Hiroshi Kamiya", "Cho", "Daisuke Hosomi", "Haruka Tomatsu"],
-    "rating": 76,
-    "cover": "covers/mononoke_the_movie_chapter_ii_the_ashes_of_rage.jpg",
-    "genres": ["Animation", "Fantasy", "Mystery"]
+    "genres": ["Action", "Adventure", "Animation"],
+    "duration": 108,
+    "language": ["English"]
   }
 ]
