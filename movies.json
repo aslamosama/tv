@@ -3691,5 +3691,17 @@
     "genres": ["Action", "Adventure", "Animation"],
     "duration": 108,
     "language": ["English"]
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "director": "Orson Welles",
+    "description": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+    "cast": ["Orson Welles", "Joseph Cotten", "Dorothy Comingore", "Ray Collins"],
+    "rating": 89,
+    "cover": "covers/citizen_kane.jpg",
+    "genres": ["Mystery", "Drama"],
+    "duration": 119,
+    "language": ["English"]
   }
 ]
