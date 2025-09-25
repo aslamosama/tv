@@ -3703,5 +3703,17 @@
     "genres": ["Mystery", "Drama"],
     "duration": 119,
     "language": ["English"]
+  },
+  {
+    "title": "Time that Remains",
+    "year": 2009,
+    "director": "Elia Suleiman",
+    "description": "An examination of the creation of the state of Israel in 1948 through to the present day. A semi-biographic film, in four chapters, about a family spanning from 1948 until recent times. Combined with intimate memories of each member, the film attempts to portray the daily life of those Palestinians who remained in their land and were labelled \"Israeli-Arabs,\" living as a minority in their own homeland.",
+    "cast": ["Saleh Bakri", "Elia Suleiman", "Samar Qudha Tanus", "Shafika Bajjali"],
+    "rating": 74,
+    "cover": "covers/time_that_remains.jpg",
+    "genres": ["History", "Drama"],
+    "duration": 109,
+    "language": ["English", "Arabic", "Hebrew"]
   }
 ]
