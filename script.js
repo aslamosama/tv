@@ -508,7 +508,7 @@ Bar Width = (AdjustedScore / MaxScore)^3 × 100%
       this.elements.modalTitle.textContent = `${media.title} (${media.year})`;
       this.elements.modalRating.innerHTML =
         media.rating !== undefined
-          ? `<span class="modal-label">Rating:</span> <span class="modal-value">${media.rating}/100</span>`
+          ? `<span class="modal-label">Rating:</span> <span class="modal-value">${media.rating}</span>`
           : "";
       this.elements.modalGenre.innerHTML =
         media.genres && media.genres.length > 0

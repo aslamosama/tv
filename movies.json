@@ -294,7 +294,7 @@
     ],
     "rating": 61,
     "cover": "covers/berserk_movie_1.jpg",
-    "genres": ["Animation", "Action", "Adventure"],
+    "genres": ["Animation", "Action", "Adventure", "Anime"],
     "duration": 76,
     "language": ["Japanese"]
   },
@@ -315,6 +315,7 @@
       "Action",
       "Adventure",
       "Animation",
+      "Anime",
       "Drama",
       "Fantasy",
       "Horror"
@@ -339,6 +340,7 @@
       "Action",
       "Adventure",
       "Animation",
+      "Anime",
       "Drama",
       "Fantasy",
       "Horror"
@@ -443,7 +445,7 @@
     "cast": ["Mayumi Tanaka", "Keiko Yokozawa", "Kotoe Hatsui"],
     "rating": 82,
     "cover": "covers/castle_in_the_sky.jpg",
-    "genres": ["Animation", "Adventure", "Family", "Fantasy"],
+    "genres": ["Animation", "Adventure", "Family", "Fantasy", "Anime"],
     "duration": 124,
     "language": ["Japanese"]
   },
@@ -509,6 +511,23 @@
     "genres": ["Drama", "Family", "Sport"],
     "duration": 89,
     "language": ["Persian"]
+  },
+  {
+    "title": "Citizen Kane",
+    "year": 1941,
+    "director": "Orson Welles",
+    "description": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore",
+      "Ray Collins"
+    ],
+    "rating": 89,
+    "cover": "covers/citizen_kane.jpg",
+    "genres": ["Mystery", "Drama"],
+    "duration": 119,
+    "language": ["English"]
   },
   {
     "title": "City Lights",
@@ -667,6 +686,7 @@
     "cover": "covers/dbs_broly.jpg",
     "genres": [
       "Animation",
+      "Anime",
       "Action",
       "Adventure",
       "Family",
@@ -876,7 +896,15 @@
     "cast": ["Masami Nagasawa", "Jun Fubuki", "Shunsuke Kazama"],
     "rating": 75,
     "cover": "covers/from_up_on_poppy_hill.jpg",
-    "genres": ["Animation", "Comedy", "Drama", "Family", "History", "Romance"],
+    "genres": [
+      "Animation",
+      "Anime",
+      "Comedy",
+      "Drama",
+      "Family",
+      "History",
+      "Romance"
+    ],
     "duration": 91,
     "language": ["Japanese"]
   },
@@ -941,7 +969,7 @@
     "cast": ["Tsutomu Tatsumi", "Ayano Shiraishi", "Yoshiko Shinohara"],
     "rating": 92,
     "cover": "covers/grave_of_the_fireflies.jpg",
-    "genres": ["Animation", "War", "Drama"],
+    "genres": ["Animation", "Anime", "War", "Drama"],
     "duration": 89,
     "language": ["Japanese"]
   },
@@ -1045,7 +1073,7 @@
     "cast": ["Chieko Baisho", "Takuya Kimura", "Tatsuya Gashuin"],
     "rating": 84,
     "cover": "covers/howls_moving_castle.jpg",
-    "genres": ["Adventure", "Animation", "Fantasy"],
+    "genres": ["Adventure", "Animation", "Fantasy", "Anime"],
     "duration": 119,
     "language": ["Japanese"]
   },
@@ -1328,7 +1356,7 @@
     ],
     "rating": 80,
     "cover": "covers/jjk0.jpg",
-    "genres": ["Animation", "Action", "Fantasy"],
+    "genres": ["Animation", "Action", "Fantasy", "Anime"],
     "duration": 105,
     "language": ["Japanese"]
   },
@@ -1357,7 +1385,7 @@
     "cast": ["Minami Takayama", "Rei Sakuma", "Kappei Yamaguchi"],
     "rating": 84,
     "cover": "covers/kikis_delivery_service.jpg",
-    "genres": ["Animation", "Family", "Fantasy"],
+    "genres": ["Animation", "Family", "Fantasy", "Anime"],
     "duration": 103,
     "language": ["Japanese"]
   },
@@ -1576,7 +1604,7 @@
     "cast": ["Kanichi Kurita", "Daisuke Namikawa", "Akio Otsuka"],
     "rating": 75,
     "cover": "covers/lupin_the_third_goemons_blood_spray.jpg",
-    "genres": ["Action", "Adventure", "Animation"],
+    "genres": ["Action", "Adventure", "Animation", "Anime"],
     "duration": 54,
     "language": ["Japanese"]
   },
@@ -1720,7 +1748,7 @@
     "cast": ["Hiroshi Kamiya", "Cho", "Daisuke Hosomi", "Haruka Tomatsu"],
     "rating": 76,
     "cover": "covers/mononoke_the_movie_chapter_ii_the_ashes_of_rage.jpg",
-    "genres": ["Animation", "Fantasy", "Mystery"],
+    "genres": ["Animation", "Fantasy", "Mystery", "Anime"],
     "duration": 113,
     "language": ["Japanese"]
   },
@@ -1732,7 +1760,7 @@
     "cast": ["Hiroshi Kamiya", "Tomoyo Kurosawa", "Aoi Yuki", "Mami Koyama"],
     "rating": 72,
     "cover": "covers/mononoke_the_movie_the_phantom_in_the_rain.jpg",
-    "genres": ["Animation", "Fantasy", "Mystery"],
+    "genres": ["Animation", "Fantasy", "Mystery", "Anime"],
     "duration": 114,
     "language": ["Japanese"]
   },
@@ -1804,7 +1832,7 @@
     "cast": ["Hitoshi Takagi", "Noriko Hidaka", "Chika Sakamoto"],
     "rating": 86,
     "cover": "covers/my_neighbor_totoro.jpg",
-    "genres": ["Animation", "Comedy", "Family", "Fantasy"],
+    "genres": ["Animation", "Anime", "Comedy", "Family", "Fantasy"],
     "duration": 86,
     "language": ["Japanese"]
   },
@@ -1816,7 +1844,7 @@
     "cast": ["Yukiji Asaoka", "Toru Masuoka", "Masako Araki"],
     "rating": 71,
     "cover": "covers/my_neighbors_the_yamadas.jpg",
-    "genres": ["Animation", "Comedy", "Family"],
+    "genres": ["Animation", "Anime", "Comedy", "Family"],
     "duration": 104,
     "language": ["Japanese"]
   },
@@ -1828,7 +1856,7 @@
     "cast": ["Sumi Shimamoto", "Mahito Tsujimura", "Hisako Kyoda"],
     "rating": 85,
     "cover": "covers/nausica_of_the_valley_of_the_wind.jpg",
-    "genres": ["Adventure", "Animation", "Sci-Fi", "Fantasy"],
+    "genres": ["Adventure", "Animation", "Anime", "Sci-Fi", "Fantasy"],
     "duration": 117,
     "language": ["Japanese"]
   },
@@ -1881,7 +1909,14 @@
     ],
     "rating": 77,
     "cover": "covers/ninja_scroll.jpg",
-    "genres": ["Animation", "Action", "Adventure", "Fantasy", "Thriller"],
+    "genres": [
+      "Animation",
+      "Anime",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Thriller"
+    ],
     "duration": 94,
     "language": ["Japanese"]
   },
@@ -1975,7 +2010,7 @@
     "cast": ["Mayumi Tanaka", "Kazuya Nakai", "Akemi Okamura"],
     "rating": 73,
     "cover": "covers/one_piece_stampede.jpg",
-    "genres": ["Animation", "Action", "Adventure"],
+    "genres": ["Animation", "Anime", "Action", "Adventure"],
     "duration": 101,
     "language": ["Japanese"]
   },
@@ -1987,7 +2022,7 @@
     "cast": ["Miki Imai", "Toshirō Yanagiba", "Yoko Honna"],
     "rating": 82,
     "cover": "covers/only_yesterday.jpg",
-    "genres": ["Animation", "Drama", "Romance"],
+    "genres": ["Animation", "Anime", "Drama", "Romance"],
     "duration": 118,
     "language": ["Japanese"]
   },
@@ -2127,7 +2162,7 @@
     "cast": ["Shinchou Kokontei", "Makoto Nonomura", "Nijiko Kiyokawa"],
     "rating": 72,
     "cover": "covers/pom_poko.jpg",
-    "genres": ["Animation", "Comedy", "Drama"],
+    "genres": ["Animation", "Anime", "Comedy", "Drama"],
     "duration": 119,
     "language": ["Japanese"]
   },
@@ -2139,7 +2174,7 @@
     "cast": ["Yuria Nara", "Hiroki Doi", "George Tokoro"],
     "rating": 82,
     "cover": "covers/ponyo.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"],
+    "genres": ["Animation", "Anime", "Adventure", "Comedy"],
     "duration": 101,
     "language": ["Japanese"]
   },
@@ -2151,7 +2186,7 @@
     "cast": ["Shūichirō Moriyama", "Tokiko Katō", "Akemi Okamura"],
     "rating": 82,
     "cover": "covers/porco_rosso.jpg",
-    "genres": ["Animation", "Adventure", "Comedy"],
+    "genres": ["Animation", "Anime", "Adventure", "Comedy"],
     "duration": 94,
     "language": ["Japanese", "Italian"]
   },
@@ -2175,7 +2210,7 @@
     "cast": ["Yōji Matsuda", "Yuriko Ishida", "Yūko Tanaka"],
     "rating": 84,
     "cover": "covers/princess_mononoke.jpg",
-    "genres": ["Animation", "Fantasy", "Adventure"],
+    "genres": ["Animation", "Anime", "Fantasy", "Adventure"],
     "duration": 134,
     "language": ["Japanese"]
   },
@@ -2334,7 +2369,7 @@
     "cast": ["Takuya Kimura", "Tadanobu Asano", "Takeshi Aono"],
     "rating": 60,
     "cover": "covers/redline.jpg",
-    "genres": ["Animation", "Action", "Sci-Fi"],
+    "genres": ["Animation", "Anime", "Action", "Sci-Fi"],
     "duration": 102,
     "language": ["Japanese"]
   },
@@ -2519,7 +2554,7 @@
     "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
     "rating": 91,
     "cover": "covers/spirited_away.jpg",
-    "genres": ["Adventure", "Animation", "Family", "Fantasy"],
+    "genres": ["Adventure", "Animation", "Anime", "Family", "Fantasy"],
     "duration": 125,
     "language": ["Japanese"]
   },
@@ -2589,7 +2624,7 @@
     "cast": ["Junichi Okada", "Aoi Teshima", "Bunta Sugawara"],
     "rating": 59,
     "cover": "covers/tales_from_earthsea.jpg",
-    "genres": ["Animation", "Adventure", "Fantasy"],
+    "genres": ["Animation", "Anime", "Adventure", "Fantasy"],
     "duration": 115,
     "language": ["Japanese"]
   },
@@ -2659,7 +2694,7 @@
     "cast": ["Soma Santoki", "Masaki Suda", "Ko Shibasaki"],
     "rating": 83,
     "cover": "covers/the_boy_and_the_heron.jpg",
-    "genres": ["Adventure", "Animation", "Fantasy", "Drama"],
+    "genres": ["Adventure", "Animation", "Anime", "Fantasy", "Drama"],
     "duration": 124,
     "language": ["Japanese"]
   },
@@ -3013,7 +3048,7 @@
     "cast": ["Junko Takeuchi", "Nana Mizuki", "Jun Fukuyama", "Chie Nakamura"],
     "rating": 62,
     "cover": "covers/the_last_naruto.jpg",
-    "genres": ["Action", "Adventure", "Animation"],
+    "genres": ["Action", "Adventure", "Anime", "Animation"],
     "duration": 112,
     "language": ["Japanese"]
   },
@@ -3223,7 +3258,7 @@
     "cast": ["Tom Hudson", "Baptiste Goy", "Axel Devillers", "Barbara Beretta"],
     "rating": 77,
     "cover": "covers/the_red_turtle.jpg",
-    "genres": ["Animation", "Drama", "Family"],
+    "genres": ["Animation", "Anime", "Drama", "Family"],
     "duration": 80,
     "language": ["None (Dialogue-free)"]
   },
@@ -3252,7 +3287,7 @@
     "cast": ["Mirai Shida", "Ryunosuke Kamiki", "Shinobu Otake"],
     "rating": 79,
     "cover": "covers/the_secret_world_of_arrietty.jpg",
-    "genres": ["Animation", "Adventure", "Drama"],
+    "genres": ["Animation", "Anime", "Adventure", "Drama"],
     "duration": 94,
     "language": ["Japanese"]
   },
@@ -3334,7 +3369,7 @@
     "cast": ["Aki Asakura", "Kengo Kora", "Nobuko Miyamoto"],
     "rating": 84,
     "cover": "covers/the_tale_of_the_princess_kaguya.jpg",
-    "genres": ["Animation", "Drama", "Family"],
+    "genres": ["Animation", "Anime", "Drama", "Family"],
     "duration": 137,
     "language": ["Japanese"]
   },
@@ -3387,7 +3422,7 @@
     "cast": ["Hideaki Anno", "Hidetoshi Nishijima", "Miori Takimoto"],
     "rating": 83,
     "cover": "covers/the_wind_rises.jpg",
-    "genres": ["Animation", "Biograaphy", "Drama"],
+    "genres": ["Animation", "Anime", "Biograaphy", "Drama"],
     "duration": 126,
     "language": ["Japanese", "German", "Italian", "French"]
   },
@@ -3482,6 +3517,23 @@
     "genres": ["Drama"],
     "duration": 103,
     "language": ["Persian", "Gilaki"]
+  },
+  {
+    "title": "Time that Remains",
+    "year": 2009,
+    "director": "Elia Suleiman",
+    "description": "An examination of the creation of the state of Israel in 1948 through to the present day. A semi-biographic film, in four chapters, about a family spanning from 1948 until recent times. Combined with intimate memories of each member, the film attempts to portray the daily life of those Palestinians who remained in their land and were labelled \"Israeli-Arabs,\" living as a minority in their own homeland.",
+    "cast": [
+      "Saleh Bakri",
+      "Elia Suleiman",
+      "Samar Qudha Tanus",
+      "Shafika Bajjali"
+    ],
+    "rating": 74,
+    "cover": "covers/time_that_remains.jpg",
+    "genres": ["History", "Drama"],
+    "duration": 109,
+    "language": ["English", "Arabic", "Hebrew"]
   },
   {
     "title": "To Kill a Mockingbird",
@@ -3611,7 +3663,7 @@
     "cast": ["Sara Takatsuki", "Kasumi Arimura", "Nanako Matsushima"],
     "rating": 78,
     "cover": "covers/when_marnie_was_there.jpg",
-    "genres": ["Animation", "Drama", "Fantasy"],
+    "genres": ["Animation", "Anime", "Drama", "Fantasy"],
     "duration": 103,
     "language": ["Japanese"]
   },
@@ -3647,7 +3699,7 @@
     "cast": ["Yōko Honna", "Issei Takahashi", "Takashi Tachibana"],
     "rating": 81,
     "cover": "covers/whisper_of_the_heart.jpg",
-    "genres": ["Animation", "Drama", "Family"],
+    "genres": ["Animation", "Anime", "Drama", "Family"],
     "duration": 111,
     "language": ["Japanese"]
   },
@@ -3691,29 +3743,5 @@
     "genres": ["Action", "Adventure", "Animation"],
     "duration": 108,
     "language": ["English"]
-  },
-  {
-    "title": "Citizen Kane",
-    "year": 1941,
-    "director": "Orson Welles",
-    "description": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
-    "cast": ["Orson Welles", "Joseph Cotten", "Dorothy Comingore", "Ray Collins"],
-    "rating": 89,
-    "cover": "covers/citizen_kane.jpg",
-    "genres": ["Mystery", "Drama"],
-    "duration": 119,
-    "language": ["English"]
-  },
-  {
-    "title": "Time that Remains",
-    "year": 2009,
-    "director": "Elia Suleiman",
-    "description": "An examination of the creation of the state of Israel in 1948 through to the present day. A semi-biographic film, in four chapters, about a family spanning from 1948 until recent times. Combined with intimate memories of each member, the film attempts to portray the daily life of those Palestinians who remained in their land and were labelled \"Israeli-Arabs,\" living as a minority in their own homeland.",
-    "cast": ["Saleh Bakri", "Elia Suleiman", "Samar Qudha Tanus", "Shafika Bajjali"],
-    "rating": 74,
-    "cover": "covers/time_that_remains.jpg",
-    "genres": ["History", "Drama"],
-    "duration": 109,
-    "language": ["English", "Arabic", "Hebrew"]
   }
 ]
