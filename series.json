@@ -88,6 +88,24 @@
     "total_duration": 2914
   },
   {
+    "title": "Chernobyl",
+    "year": 2019,
+    "description": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+    "cast": [
+      "Jared Harris",
+      "Stellan Skarsgård",
+      "Emily Watson",
+      "Paul Ritter"
+    ],
+    "rating": 93,
+    "cover": "covers/chernobyl.jpg",
+    "genres": ["History", "Drama", "Thriller"],
+    "language": ["English", "Russian", "Ukranian"],
+    "total_episodes": 5,
+    "avg_episode_duration": 60,
+    "total_duration": 300
+  },
+  {
     "title": "Cowboy Bebop",
     "year": 1998,
     "description": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
@@ -193,6 +211,24 @@
     "total_duration": 3841
   },
   {
+    "title": "Frieren: Beyond Journey's End",
+    "year": 2023,
+    "description": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+    "cast": [
+      "Atsumi Tanezaki",
+      "Kana Ichinose",
+      "Chiaki Kobayashi",
+      "Nobuhiko Okamoto"
+    ],
+    "rating": 89,
+    "cover": "covers/frieren.jpg",
+    "genres": ["Fantasy", "Adventure", "Animation", "Anime", "Comedy", "Drama"],
+    "language": ["Japanese"],
+    "total_episodes": 29,
+    "avg_episode_duration": 25,
+    "total_duration": 725
+  },
+  {
     "title": "Fullmetal Alchemist: Brotherhood",
     "year": 2009,
     "description": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable",
@@ -222,6 +258,37 @@
     "total_episodes": 73,
     "avg_episode_duration": 57,
     "total_duration": 4161
+  },
+  {
+    "title": "Hannibal",
+    "year": 2013,
+    "description": "Both a gift and a curse, Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.",
+    "cast": [
+      "Mads Mikkelsen",
+      "Hugh Dancy",
+      "Laurence Fishburne",
+      "Caroline Dhavernas"
+    ],
+    "rating": 85,
+    "cover": "covers/hannibal.jpg",
+    "genres": ["Drama", "Crime", "Horror", "Mystery", "Thriller"],
+    "language": ["English"],
+    "total_episodes": 39,
+    "avg_episode_duration": 45,
+    "total_duration": 1755
+  },
+  {
+    "title": "Mob Psycho 100",
+    "year": 2016,
+    "description": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob is determined to live a normal life and keeps his ESP suppressed, but when his emotions surge to a level of 100%, something terrible happens to him! As he's surrounded by false espers, evil spirits, and mysterious organizations, what will Mob think? What choices will he make?",
+    "cast": ["Setsuo Ito", "Takahiro Sakurai", "Miyu Irino", "Akio Otsuka"],
+    "rating": 85,
+    "cover": "covers/mob_psycho_100.jpg",
+    "genres": ["Animation", "Action", "Adventure", "Comedy", "Fantasy"],
+    "language": ["Japanese"],
+    "total_episodes": 37,
+    "avg_episode_duration": 24,
+    "total_duration": 888
   },
   {
     "title": "Hellsing Ultimate",
@@ -448,9 +515,9 @@
     "cover": "covers/one_piece.jpg",
     "genres": ["Action", "Adventure", "Animation", "Anime"],
     "language": ["Japanese"],
-    "total_episodes": 1144,
+    "total_episodes": 1145,
     "avg_episode_duration": 24,
-    "total_duration": 27456
+    "total_duration": 27480
   },
   {
     "title": "Peaky Blinders",
@@ -551,6 +618,19 @@
     "total_duration": 624
   },
   {
+    "title": "Severance",
+    "year": 2022,
+    "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+    "cast": [" Adam Scott", "Britt Lower", "Tramell Tillman", "Zach Cherry"],
+    "rating": 87,
+    "cover": "covers/severance.jpg",
+    "genres": ["Sci-Fi", "Drama", "Mystery", "Fantasy"],
+    "language": ["English"],
+    "total_episodes": 20,
+    "avg_episode_duration": 50,
+    "total_duration": 1000
+  },
+  {
     "title": "Sherlock",
     "year": 2010,
     "description": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
@@ -602,6 +682,19 @@
     "rating": 83,
     "cover": "covers/the_legend_of_korra.jpg",
     "genres": ["Action", "Adventure", "Animation"],
+    "language": ["English"],
+    "total_episodes": 52,
+    "avg_episode_duration": 23,
+    "total_duration": 1196
+  },
+  {
+    "title": "The Looney Tunes Show",
+    "year": 2011,
+    "description": "Bugs Bunny, Daffy Duck and the rest of the “Looney Tunes” characters are back with more adventures for a new generation of viewers. The animated series features roommates Bugs and Daffy moving out of the woods and into the suburbs, interacting with their neighbors, who happen to be other \"Looney Tunes\" favorites -- including Sylvester, Tweety, Porky Pig and Foghorn Leghorn.",
+    "cast": ["Jeff Bergman", "Bob Bergen", "Kristen Wiig", "Billy West"],
+    "rating": 78,
+    "cover": "covers/the_looney_tunes_show.jpg",
+    "genres": ["Comedy", "Family", "Animation"],
     "language": ["English"],
     "total_episodes": 52,
     "avg_episode_duration": 23,
