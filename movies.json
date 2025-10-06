@@ -602,6 +602,23 @@
     "language": ["English"]
   },
   {
+    "title": "Dead Poets Society ",
+    "year": 1989,
+    "director": "Peter Weir",
+    "description": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles"
+    ],
+    "rating": 82,
+    "cover": "covers/dead_poets_society.jpg",
+    "genres": ["Drama"],
+    "duration": 128,
+    "language": ["English", "Latin", "French"]
+  },
+  {
     "title": "Despicable Me",
     "year": 2010,
     "director": "Pierre Coffin, Chris Renaud",
@@ -1933,6 +1950,32 @@
     "language": ["English", "Spanish"]
   },
   {
+    "title": "No Time to Die",
+    "year": 2021,
+    "director": "Cary Joji Fukunaga",
+    "description": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "cast": [
+      "Daniel Craig",
+      "Léa Seydoux",
+      "Rami Malek",
+      "Lashana Lynch",
+      "Ana de Armas"
+    ],
+    "rating": 72,
+    "cover": "covers/no_time_to_die.jpg",
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 163,
+    "language": [
+      "English",
+      "Spanish",
+      "French",
+      "Italian",
+      "Russian",
+      "Norwegian",
+      "German"
+    ]
+  },
+  {
     "title": "Nosferatu",
     "year": 2024,
     "director": "Robert Eggers",
@@ -2066,6 +2109,18 @@
     "genres": ["Drama", "Thriller"],
     "duration": 132,
     "language": ["Korean", "English"]
+  },
+  {
+    "title": "Perfect Days",
+    "year": 2023,
+    "director": "Wim Wenders",
+    "description": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+    "cast": ["Koji Yakusho", "Tokio Emoto", "Arisa Nakano", "Aoi Yamada"],
+    "rating": 84,
+    "cover": "covers/perfect_days.jpg",
+    "genres": ["Drama"],
+    "duration": 124,
+    "language": ["Japanese", "English"]
   },
   {
     "title": "Perfume: The Story of a Murderer",
@@ -2384,6 +2439,24 @@
     "genres": ["Crime", "Thriller"],
     "duration": 99,
     "language": ["English"]
+  },
+  {
+    "title": "Rio",
+    "year": 2011,
+    "director": "Carlos Saldanha",
+    "description": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.",
+    "cast": ["Jesse Eisenberg", "Anne Hathaway", "Leslie Mann", "Jane Lynch"],
+    "rating": 70,
+    "cover": "covers/rio.jpg",
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
+    "duration": 96,
+    "language": [
+      "English",
+      "Portuguese",
+      "Arabic",
+      "Spanish",
+      "Brazillian Sign Language"
+    ]
   },
   {
     "title": "Roman Holiday",
@@ -3205,6 +3278,18 @@
     "language": ["English"]
   },
   {
+    "title": "The Pale Blue Eye",
+    "year": 2023,
+    "director": "Scott Cooper",
+    "description": "West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe.",
+    "cast": ["Christian Bale", "Harry Melling", "Lucy Boynton", "Toby Jones"],
+    "rating": 66,
+    "cover": "covers/the_pale_blue_eye.jpg",
+    "genres": ["Thriller", "Mystery", "Crime", "Horror"],
+    "duration": 128,
+    "language": ["English", "French", "Latin"]
+  },
+  {
     "title": "The Phantom of the Opera",
     "year": 2004,
     "director": "Joel Schumacher",
@@ -3386,6 +3471,23 @@
     "language": ["English", "Norwegian"]
   },
   {
+    "title": "The Trial",
+    "year": 1962,
+    "director": "Orson Welles",
+    "description": "Josef K wakes up in the morning and finds the police in his room. They tell him that he is on trial but nobody tells him what he is accused of. In order to find out about the reason for this accusation and to protest his innocence, he tries to look behind the façade of the judicial system. But since this remains fruitless, there seems to be no chance for him to escape from this nightmare.",
+    "cast": [
+      "Anthony Perkins",
+      "Jeanne Moreau",
+      "Romy Schneider",
+      "Orson Welles"
+    ],
+    "rating": 78,
+    "cover": "covers/the_trial.jpg",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 119,
+    "language": ["English"]
+  },
+  {
     "title": "The Truman Show",
     "year": 1998,
     "director": "Peter Weir",
@@ -3473,6 +3575,23 @@
     "language": ["English"]
   },
   {
+    "title": "The Wonderful Story of Henry Sugar",
+    "year": 2023,
+    "director": "Wes Anderson",
+    "description": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+    "cast": [
+      "Ralph Fiennes",
+      "Benedict Cumberbatch",
+      "Dev Patel",
+      "Ben Kingsley"
+    ],
+    "rating": 81,
+    "cover": "covers/the_wonderful_story_of_henry_sugar.jpg",
+    "genres": ["Comedy", "Fantasy", "Adventure"],
+    "duration": 40,
+    "language": ["English"]
+  },
+  {
     "title": "There Will Be Blood",
     "year": 2007,
     "director": "Paul Thomas Anderson",
@@ -3548,6 +3667,122 @@
     "language": ["English"]
   },
   {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "director": " Yasujirō Ozu",
+    "description": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
+    "cast": [
+      "Chishū Ryū",
+      "Chieko Higashiyama",
+      "Setsuko Hara",
+      "Haruko Sugimura"
+    ],
+    "rating": 91,
+    "cover": "covers/tokyo_story.jpg",
+    "genres": ["Drama"],
+    "duration": 137,
+    "language": ["Japanese"]
+  },
+  {
+    "title": "Tom & Jerry",
+    "year": 2021,
+    "director": "Tim Story",
+    "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+    "cast": ["Chloë Grace Moretz", "Michael Peña", "Colin Jost", "Rob Delaney"],
+    "rating": 43,
+    "cover": "covers/tom_&_jerry.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 101,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: A Nutcracker Tale",
+    "year": 2007,
+    "director": "Spike Brandt,Tony Cervone",
+    "description": "Christmas is never so spirited as when Tom and Jerry lock horns for the holidays in their new original movie--Tom & Jerry: A Nutcracker Tale In an empty opera house, Jerry wishes for a chance to perform -- and magically his dream comes true. The little mouse is whisked away to an enchanted kingdom where anything is possible: candy forests, singing snowflakes, even the toys spring to life! Jerry has a great time with his new friends, and when Jerry dances with the music box ballerina, he is as happy as happy can be. Unfortunately, alley cats led by Tom crash Jerry's party, kidnap the music box ...",
+    "cast": [
+      "Kathleen Barr",
+      "Garry Chalk",
+      "Ian James Corlett",
+      "Trevor Devall"
+    ],
+    "rating": 55,
+    "cover": "covers/tom_and_jerry_a_nutcracker_tale.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 47,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry Blast Off to Mars!",
+    "year": 2005,
+    "director": "Bill Kopp",
+    "description": "While carrying on their usual hi-jinks, they inadvertantly stow-away on a spaceship bound for Mars. They meet up with the local Martian residents and cause them to invade the Earth, aided by the \"Invincitron\", a vacuum-wielding giant robot. Tom, Jerry and their Martian ally, Peep, save the day.",
+    "cast": ["Jeff Bennett", "Corey Burton", "Kathryn Fiore", "Brad Garrett"],
+    "rating": 52,
+    "cover": "covers/tom_and_jerry_blast_off_to_mars.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Adventure"],
+    "duration": 74,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: Shiver Me Whiskers",
+    "year": 2006,
+    "director": "Scott Jeralds",
+    "description": "Dueling cat-and-mouse team Tom and Jerry hit the high seas on a hunt for buried treasure in this pirate adventure. The tale begins when crew member Tom sets sail with an infamous pirate and finds a treasure map along with stowaway Jerry. The furry swashbucklers race to a deserted island where X marks the spot, but along with battling each other, they must outwit ruthless buccaneers, angry monkeys and a giant octopus to strike it rich.",
+    "cast": [
+      "William Hanna",
+      "Mark Hamill",
+      "Kathy Najimy",
+      "Charles Nelson Reilly"
+    ],
+    "rating": 55,
+    "cover": "covers/tom_and_jerry_shiver_me_whiskers.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Adventure"],
+    "duration": 74,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Fast and the Furry",
+    "year": 2005,
+    "director": "Bill Kopp",
+    "description": "After being evicted from their old house by Tom's owner for causing major damage, cat and mouse Tom and Jerry enter a race entitled the \"Fabulous Super Race\" to win a mansion.",
+    "cast": ["Charlie Adler", "Jeff Bennett", "John DiMaggio", "Jess Harnell"],
+    "rating": 57,
+    "cover": "covers/tom_and_jerry_the_fast_and_the_furry.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 75,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Magic Ring",
+    "year": 2002,
+    "director": "James T. Walker",
+    "description": "The Oscar-winning cat-and-mouse twosome--Tom and Jerry--returns with another adventure. When Tom and Jerry's irrepressible curiosity gets the best of them, the mysterious magic ring that Tom guards with his life ends up stuck over Jerry's head. Now, Jerry must find a way to free himself of the ring while fleeing Tom, who wants to remove the ring any way he can! Find out if the pair can conjure up a solution in this fur-raising, madcap escapade.",
+    "cast": [
+      "Jeff Bennett",
+      "Frank Welker",
+      "Charlie Schlatter",
+      "Jim Cummings"
+    ],
+    "rating": 52,
+    "cover": "covers/tom_and_jerry_the_magic_ring.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Fantasy"],
+    "duration": 62,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Movie",
+    "year": 1992,
+    "director": "Phil Roman",
+    "description": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian..",
+    "cast": ["Richard Kind", "Dana Hill", "Anndi McAfee", "Tony Jay"],
+    "rating": 48,
+    "cover": "covers/tom_and_jerry_the_movie.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 84,
+    "language": ["English"]
+  },
+  {
     "title": "Toy Story",
     "year": 1995,
     "director": "John Lasseter",
@@ -3618,6 +3853,35 @@
     "genres": ["Animation", "Adventure", "Comedy"],
     "duration": 96,
     "language": ["English"]
+  },
+  {
+    "title": "Venom",
+    "year": 2018,
+    "director": "Ruben Fleischer",
+    "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "cast": ["Tom Hardy", "Michelle Williams", "Riz Ahmed", "Scott Haze"],
+    "rating": 58,
+    "cover": "covers/venom.jpg",
+    "genres": ["Sci-Fi", "Action"],
+    "duration": 112,
+    "language": ["English", "Mandarin", "Malay"]
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "director": "Andy Serkis",
+    "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+    "cast": [
+      "Tom Hardy",
+      "Woody Harrelson",
+      "Michelle Williams",
+      "Naomie Harris"
+    ],
+    "rating": 58,
+    "cover": "covers/venom_let_there_be_carnage.jpg",
+    "genres": ["Sci-Fi", "Action"],
+    "duration": 97,
+    "language": ["English", "Spanish", "Mandarin", "Japanese"]
   },
   {
     "title": "Vertigo",
