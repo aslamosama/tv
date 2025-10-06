@@ -219,6 +219,23 @@
     "language": ["English", "French", "Vietnamese"]
   },
   {
+    "title": "Arrival",
+    "year": 2016,
+    "director": "Denis Villeneuve",
+    "description": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg"
+    ],
+    "rating": 82,
+    "cover": "covers/arrival.jpg",
+    "genres": ["Drama", "Sci-Fi", "Mystery"],
+    "duration": 116,
+    "language": ["English", "Mandarin", "Russian"]
+  },
+  {
     "title": "Avengers: Endgame",
     "year": 2019,
     "director": "Anthony Russo, Joe Russo",
@@ -268,6 +285,18 @@
     "genres": ["Comedy"],
     "duration": 99,
     "language": ["English"]
+  },
+  {
+    "title": "Bashu, the Little Stranger",
+    "year": 1989,
+    "director": "Bahram Beyzai",
+    "description": "During the Iran-Iraq War, Bashu, a young boy loses his house and all his family. Scared, he sneaks into a truck that is leaving the area. He gets off the truck in the Northern part of the country, where everything from landscape to language is different. He meets Naii, who is trying to raise her two young children on a farm, while her husband is away. Despite cultural differences, and the fact that they do not speak the same language, Bashu and Naii slowly form a strong bond.",
+    "cast": ["Susan Taslimi", "Parviz Pourhosseini", "Adnan Afravian"],
+    "rating": 80,
+    "cover": "covers/bashu.jpg",
+    "genres": ["War", "Drama"],
+    "duration": 120,
+    "language": ["Persian", "Arabic"]
   },
   {
     "title": "Batman Begins",
@@ -414,6 +443,35 @@
     "language": ["English", "Kazakh", "Romanian", "Hebrew", "Armenian"]
   },
   {
+    "title": "Breakfast at Tiffany's",
+    "year": 1961,
+    "director": "Blake Edwards",
+    "description": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+    "cast": [
+      "Audrey Hepburn",
+      "George Peppard",
+      "Patricia Neal",
+      "Buddy Ebsen"
+    ],
+    "rating": 78,
+    "cover": "covers/breakfast_at_tiffanys.jpg",
+    "genres": ["Comedy", "Romance", "Drama"],
+    "duration": 115,
+    "language": ["English"]
+  },
+  {
+    "title": "Bronson",
+    "year": 2008,
+    "director": "Nicolas Winding Refn",
+    "description": "A young man who was sentenced to 7 years in prison for robbing a post office ends up spending 30 years in solitary confinement. During this time, his own personality is supplanted by his alter ego, Charles Bronson.",
+    "cast": ["Tom Hardy", "Matt King", "James Lance", "Kelly Adams"],
+    "rating": 71,
+    "cover": "covers/bronson.jpg",
+    "genres": ["Drama", "Action", "Crime"],
+    "duration": 92,
+    "language": ["English", "Spanish"]
+  },
+  {
     "title": "Casablanca",
     "year": 1942,
     "director": "Michael Curtiz",
@@ -482,6 +540,18 @@
     "genres": ["Drama", "Romance"],
     "duration": 106,
     "language": ["French", "English", "Italian"]
+  },
+  {
+    "title": "Charade",
+    "year": 1963,
+    "director": "Stanley Donen",
+    "description": "After Regina Lampert falls for the dashing Peter Joshua on a skiing holiday in the French Alps, she discovers upon her return to Paris that her husband has been murdered. Soon, she and Peter are giving chase to three of her late husband's World War II cronies, Tex, Scobie and Gideon, who are after a quarter of a million dollars the quartet stole while behind enemy lines.",
+    "cast": ["Cary Grant", "Audrey Hepburn", "Walter Matthau", "James Coburn"],
+    "rating": 81,
+    "cover": "covers/charade.jpg",
+    "genres": ["Mystery", "Comedy", "Romance"],
+    "duration": 123,
+    "language": ["English"]
   },
   {
     "title": "Charlie and the Chocolate Factory",
@@ -600,6 +670,23 @@
     "genres": ["Action", "Comedy", "Adventure", "Sci-Fi"],
     "duration": 119,
     "language": ["English"]
+  },
+  {
+    "title": "Dead Poets Society ",
+    "year": 1989,
+    "director": "Peter Weir",
+    "description": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles"
+    ],
+    "rating": 82,
+    "cover": "covers/dead_poets_society.jpg",
+    "genres": ["Drama"],
+    "duration": 128,
+    "language": ["English", "Latin", "French"]
   },
   {
     "title": "Despicable Me",
@@ -765,6 +852,18 @@
     "genres": ["Action", "Crime", "Drama"],
     "duration": 122,
     "language": ["English"]
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "director": "Robert Clouse",
+    "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "cast": ["Bruce Lee", "John Saxon", "Jim Kelly", "Sek Kin"],
+    "rating": 76,
+    "cover": "covers/enter_the_dragon.jpg",
+    "genres": ["Action"],
+    "duration": 102,
+    "language": ["English", "Cantonese"]
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -972,6 +1071,35 @@
     "genres": ["Animation", "Anime", "War", "Drama"],
     "duration": 89,
     "language": ["Japanese"]
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "director": "James Gunn",
+    "description": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "cast": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Vin Diesel"],
+    "rating": 78,
+    "cover": "covers/guardians_of_the_galaxy.jpg",
+    "genres": ["Action", "Sci-Fi", "Adventure"],
+    "duration": 121,
+    "language": ["English"]
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "director": "Alfonso Cuarón",
+    "description": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane"
+    ],
+    "rating": 82,
+    "cover": "covers/harry_potter_and_the_prisoner_of_azkaban.jpg",
+    "genres": ["Adventure", "Fantasy"],
+    "duration": 142,
+    "language": ["English"]
   },
   {
     "title": "Hereditary",
@@ -1448,6 +1576,18 @@
     "language": ["English", "Osage"]
   },
   {
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "director": "Ridley Scott",
+    "description": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+    "cast": ["Orlando Bloom", "Eva Green", "Jeremy Irons", "David Thewlis"],
+    "rating": 73,
+    "cover": "covers/kingdom_of_heaven.jpg",
+    "genres": ["Action", "Adventure", "Drama", "History", "War"],
+    "duration": 144,
+    "language": ["English", "Arabic", "Latin"]
+  },
+  {
     "title": "Kingsman: The Golden Circle",
     "year": 2017,
     "director": "Matthew Vaughn",
@@ -1547,6 +1687,23 @@
     "genres": ["Drama", "Romance", "War"],
     "duration": 133,
     "language": ["English"]
+  },
+  {
+    "title": "Life, and Nothing More...",
+    "year": 1992,
+    "director": "Abbas Kiarostami",
+    "description": "After the earthquake of Guilan, a film director and his son travel to the devastated area to search for the actors from the movie the director made there a few years previously. In their search, they see how people who have lost everything in the earthquake still have hope and try to live life to the fullest.",
+    "cast": [
+      "Farhad Kheradmand",
+      "Buba Bayour",
+      "Hossein Rezai",
+      "Hocine Rifahi"
+    ],
+    "rating": 84,
+    "cover": "covers/life_and_nothing_more.jpg",
+    "genres": ["Drama"],
+    "duration": 95,
+    "language": ["Persian"]
   },
   {
     "title": "Life is Beautiful",
@@ -1729,6 +1886,23 @@
     "language": ["Korean"]
   },
   {
+    "title": "Miracle in Cell No. 7",
+    "year": 2019,
+    "director": "Mehmet Ada Öztekin",
+    "description": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
+    "cast": [
+      "Aras Bulut İynemli",
+      "Nisa Sofiya Aksongur",
+      "İlker Aksum",
+      "Mesut Akusta"
+    ],
+    "rating": 74,
+    "cover": "covers/miracle_in_cell_no_7.jpg",
+    "genres": ["Drama"],
+    "duration": 132,
+    "language": ["Turkish"]
+  },
+  {
     "title": "Modern Times",
     "year": 1936,
     "director": "Charlie Chaplin",
@@ -1861,6 +2035,18 @@
     "language": ["Japanese"]
   },
   {
+    "title": "Network",
+    "year": 1976,
+    "director": "Sidney Lumet",
+    "description": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+    "cast": ["Faye Dunaway", "William Holden", "Peter Finch", "Robert Duvall"],
+    "rating": 83,
+    "cover": "covers/network.jpg",
+    "genres": ["Drama"],
+    "duration": 121,
+    "language": ["English"]
+  },
+  {
     "title": "Night at the Museum",
     "year": 2006,
     "director": "Shawn Levy",
@@ -1933,6 +2119,32 @@
     "language": ["English", "Spanish"]
   },
   {
+    "title": "No Time to Die",
+    "year": 2021,
+    "director": "Cary Joji Fukunaga",
+    "description": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "cast": [
+      "Daniel Craig",
+      "Léa Seydoux",
+      "Rami Malek",
+      "Lashana Lynch",
+      "Ana de Armas"
+    ],
+    "rating": 72,
+    "cover": "covers/no_time_to_die.jpg",
+    "genres": ["Action", "Adventure", "Thriller"],
+    "duration": 163,
+    "language": [
+      "English",
+      "Spanish",
+      "French",
+      "Italian",
+      "Russian",
+      "Norwegian",
+      "German"
+    ]
+  },
+  {
     "title": "Nosferatu",
     "year": 2024,
     "director": "Robert Eggers",
@@ -1947,7 +2159,7 @@
     "cover": "covers/nosferatu.jpg",
     "genres": ["Horror", "Mystery"],
     "duration": 94,
-    "language": ["Silent (German intertitles)"]
+    "language": ["English", "Romanian", "Romany", "Russian", "Latin", "German"]
   },
   {
     "title": "Office Space",
@@ -2068,6 +2280,18 @@
     "language": ["Korean", "English"]
   },
   {
+    "title": "Perfect Days",
+    "year": 2023,
+    "director": "Wim Wenders",
+    "description": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+    "cast": ["Koji Yakusho", "Tokio Emoto", "Arisa Nakano", "Aoi Yamada"],
+    "rating": 84,
+    "cover": "covers/perfect_days.jpg",
+    "genres": ["Drama"],
+    "duration": 124,
+    "language": ["Japanese", "English"]
+  },
+  {
     "title": "Perfume: The Story of a Murderer",
     "year": 2006,
     "director": "Tom Tykwer",
@@ -2153,6 +2377,23 @@
     "genres": ["Action", "Adventure", "Fantasy"],
     "duration": 143,
     "language": ["English"]
+  },
+  {
+    "title": "Polar",
+    "year": 2019,
+    "director": "Jonas Åkerlund",
+    "description": "When a retiring assassin realizes that he is the target of a hit, he winds up back in the game going head to head with a gang of younger, ruthless killers.",
+    "cast": [
+      "Mads Mikkelsen",
+      "Vanessa Hudgens",
+      "Katheryn Winnick",
+      "Fei Ren"
+    ],
+    "rating": 63,
+    "cover": "covers/polar.jpg",
+    "genres": ["Action", "Crime", "Thriller"],
+    "duration": 118,
+    "language": ["English", "Russian"]
   },
   {
     "title": "Pom Poko",
@@ -2386,6 +2627,24 @@
     "language": ["English"]
   },
   {
+    "title": "Rio",
+    "year": 2011,
+    "director": "Carlos Saldanha",
+    "description": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.",
+    "cast": ["Jesse Eisenberg", "Anne Hathaway", "Leslie Mann", "Jane Lynch"],
+    "rating": 70,
+    "cover": "covers/rio.jpg",
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
+    "duration": 96,
+    "language": [
+      "English",
+      "Portuguese",
+      "Arabic",
+      "Spanish",
+      "Brazillian Sign Language"
+    ]
+  },
+  {
     "title": "Roman Holiday",
     "year": 1953,
     "director": "William Wyler",
@@ -2420,6 +2679,23 @@
     "genres": ["Comedy", "Drama", "Romance"],
     "duration": 113,
     "language": ["English", "French"]
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "director": "Martin Brest",
+    "description": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+    "cast": [
+      "Al Pacino",
+      "Chris O'Donnell",
+      "James Rebhorn",
+      "Gabrielle Anwar"
+    ],
+    "rating": 74,
+    "cover": "covers/scent_of_a_woman.jpg",
+    "genres": ["Drama", "Comedy"],
+    "duration": 156,
+    "language": ["English"]
   },
   {
     "title": "Schindler's List",
@@ -2482,6 +2758,47 @@
     "language": ["English"]
   },
   {
+    "title": "Sherlock Jr",
+    "year": 1924,
+    "director": "Buster Keaton",
+    "description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "cast": [
+      "Buster Keaton",
+      "Kathryn McGuire",
+      "Joe Keaton",
+      "Erwin Connelly"
+    ],
+    "rating": 89,
+    "cover": "covers/sherlock_jr.jpg",
+    "genres": ["Comedy", "Action", "Mystery"],
+    "duration": 45,
+    "language": ["Silent (English intertitles)"]
+  },
+  {
+    "title": "Sherlock Holmes",
+    "year": 2009,
+    "director": "Guy Ritchie",
+    "description": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+    "cast": ["Robert Downey Jr.", "Jude Law", "Rachel McAdams", "Mark Strong"],
+    "rating": 76,
+    "cover": "covers/sherlock_holmes_2009.jpg",
+    "genres": ["Action", "Adventure", "Crime", "Mystery"],
+    "duration": 128,
+    "language": ["English"]
+  },
+  {
+    "title": "Sherlock Holmes: A Game of Shadows",
+    "year": 2011,
+    "director": "Guy Ritchie",
+    "description": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.",
+    "cast": ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Jared Harris"],
+    "rating": 74,
+    "cover": "covers/sherlock_holmes_a_game_of_shadows.jpg",
+    "genres": ["Action", "Adventure", "Crime", "Mystery"],
+    "duration": 129,
+    "language": ["English"]
+  },
+  {
     "title": "Shoot 'Em Up",
     "year": 2007,
     "director": "Michael Davis",
@@ -2491,6 +2808,23 @@
     "cover": "covers/shoot_em_up.jpg",
     "genres": ["Action", "Comedy", "Thriller"],
     "duration": 86,
+    "language": ["English"]
+  },
+  {
+    "title": "Shot Caller",
+    "year": 2017,
+    "director": "Ric Roman Waugh",
+    "description": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+    "cast": [
+      "Nikolaj Coster-Waldau",
+      "Omari Hardwick",
+      "Jon Bernthal",
+      "Lake Bell"
+    ],
+    "rating": 68,
+    "cover": "covers/shot_caller.jpg",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "duration": 121,
     "language": ["English"]
   },
   {
@@ -2675,6 +3009,23 @@
     "language": ["English", "Russian", "Norwegian", "Estonian", "Hindi"]
   },
   {
+    "title": "The Apartment",
+    "year": 1960,
+    "director": "Billy Wilder",
+    "description": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+    "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray",
+      "Ray Walston"
+    ],
+    "rating": 88,
+    "cover": "covers/the_apartment.jpg",
+    "genres": ["Comedy", "Romance", "Drama"],
+    "duration": 125,
+    "language": ["English"]
+  },
+  {
     "title": "The Batman",
     "year": 2022,
     "director": "Matt Reeves",
@@ -2810,6 +3161,18 @@
     "language": ["English", "Latin", "Greek", "French", "German", "Arabic"]
   },
   {
+    "title": "The General",
+    "year": 1926,
+    "director": "Clyde Bruckman, Buster Keaton",
+    "description": "During America’s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'—with Johnnie's lady love aboard an attached boxcar—and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
+    "cast": ["Buster Keaton", "Marion Mack", "Glen Cavender", "Jim Farley"],
+    "rating": 86,
+    "cover": "covers/the_general.jpg",
+    "genres": ["War", "Comedy", "Action", "Adventure"],
+    "duration": 78,
+    "language": ["Silent (English intertitles)"]
+  },
+  {
     "title": "The Godfather",
     "year": 1972,
     "director": "Francis Ford Coppola",
@@ -2845,7 +3208,7 @@
     "director": "Francis Ford Coppola",
     "description": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
     "cast": ["Al Pacino", "Diane Keaton", "Andy Garcia", "Talia Shire"],
-    "rating": 72,
+    "rating": 76,
     "cover": "covers/the_godfather_part_iii.jpg",
     "genres": ["Crime", "Drama"],
     "duration": 162,
@@ -3022,6 +3385,18 @@
     "genres": ["Biograaphy", "Crime", "Drama"],
     "duration": 209,
     "language": ["English", "Italian", "Latin", "Spanish"]
+  },
+  {
+    "title": "The Karate Kid",
+    "year": 2010,
+    "director": "Harald Zwart",
+    "description": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "cast": ["Jaden Smith", "Jackie Chan", "Taraji P. Henson", "Wenwen Han"],
+    "rating": 65,
+    "cover": "covers/the_karate_kid.jpg",
+    "genres": ["Action", "Adventure", "Drama", "Family"],
+    "duration": 130,
+    "language": ["English", "Mandarin"]
   },
   {
     "title": "The King's Man",
@@ -3205,6 +3580,18 @@
     "language": ["English"]
   },
   {
+    "title": "The Pale Blue Eye",
+    "year": 2023,
+    "director": "Scott Cooper",
+    "description": "West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe.",
+    "cast": ["Christian Bale", "Harry Melling", "Lucy Boynton", "Toby Jones"],
+    "rating": 66,
+    "cover": "covers/the_pale_blue_eye.jpg",
+    "genres": ["Thriller", "Mystery", "Crime", "Horror"],
+    "duration": 128,
+    "language": ["English", "French", "Latin"]
+  },
+  {
     "title": "The Phantom of the Opera",
     "year": 2004,
     "director": "Joel Schumacher",
@@ -3386,6 +3773,23 @@
     "language": ["English", "Norwegian"]
   },
   {
+    "title": "The Trial",
+    "year": 1962,
+    "director": "Orson Welles",
+    "description": "Josef K wakes up in the morning and finds the police in his room. They tell him that he is on trial but nobody tells him what he is accused of. In order to find out about the reason for this accusation and to protest his innocence, he tries to look behind the façade of the judicial system. But since this remains fruitless, there seems to be no chance for him to escape from this nightmare.",
+    "cast": [
+      "Anthony Perkins",
+      "Jeanne Moreau",
+      "Romy Schneider",
+      "Orson Welles"
+    ],
+    "rating": 78,
+    "cover": "covers/the_trial.jpg",
+    "genres": ["Crime", "Drama", "Mystery"],
+    "duration": 119,
+    "language": ["English"]
+  },
+  {
     "title": "The Truman Show",
     "year": 1998,
     "director": "Peter Weir",
@@ -3413,6 +3817,18 @@
     "genres": ["Crime", "Drama", "Mystery"],
     "duration": 106,
     "language": ["English", "Hungarian", "Spanish"]
+  },
+  {
+    "title": "The Wailing",
+    "year": 2016,
+    "director": "Na Hong-jin",
+    "description": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+    "cast": ["Kwak Do-won", "Hwang Jung-min", "Chun Woo-hee", "Jun Kunimura"],
+    "rating": 79,
+    "cover": "covers/the_wailing.jpg",
+    "genres": ["Horror", "Mystery"],
+    "duration": 156,
+    "language": ["Korean", "Japanese"]
   },
   {
     "title": "The Wind Rises",
@@ -3470,6 +3886,23 @@
     "cover": "covers/the_wolf_of_wall_street.jpg",
     "genres": ["Biograaphy", "Comedy", "Crime"],
     "duration": 180,
+    "language": ["English"]
+  },
+  {
+    "title": "The Wonderful Story of Henry Sugar",
+    "year": 2023,
+    "director": "Wes Anderson",
+    "description": "A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.",
+    "cast": [
+      "Ralph Fiennes",
+      "Benedict Cumberbatch",
+      "Dev Patel",
+      "Ben Kingsley"
+    ],
+    "rating": 81,
+    "cover": "covers/the_wonderful_story_of_henry_sugar.jpg",
+    "genres": ["Comedy", "Fantasy", "Adventure"],
+    "duration": 40,
     "language": ["English"]
   },
   {
@@ -3548,6 +3981,122 @@
     "language": ["English"]
   },
   {
+    "title": "Tokyo Story",
+    "year": 1953,
+    "director": " Yasujirō Ozu",
+    "description": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
+    "cast": [
+      "Chishū Ryū",
+      "Chieko Higashiyama",
+      "Setsuko Hara",
+      "Haruko Sugimura"
+    ],
+    "rating": 91,
+    "cover": "covers/tokyo_story.jpg",
+    "genres": ["Drama"],
+    "duration": 137,
+    "language": ["Japanese"]
+  },
+  {
+    "title": "Tom & Jerry",
+    "year": 2021,
+    "director": "Tim Story",
+    "description": "Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.",
+    "cast": ["Chloë Grace Moretz", "Michael Peña", "Colin Jost", "Rob Delaney"],
+    "rating": 43,
+    "cover": "covers/tom_&_jerry.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 101,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: A Nutcracker Tale",
+    "year": 2007,
+    "director": "Spike Brandt,Tony Cervone",
+    "description": "Christmas is never so spirited as when Tom and Jerry lock horns for the holidays in their new original movie--Tom & Jerry: A Nutcracker Tale In an empty opera house, Jerry wishes for a chance to perform -- and magically his dream comes true. The little mouse is whisked away to an enchanted kingdom where anything is possible: candy forests, singing snowflakes, even the toys spring to life! Jerry has a great time with his new friends, and when Jerry dances with the music box ballerina, he is as happy as happy can be. Unfortunately, alley cats led by Tom crash Jerry's party, kidnap the music box ...",
+    "cast": [
+      "Kathleen Barr",
+      "Garry Chalk",
+      "Ian James Corlett",
+      "Trevor Devall"
+    ],
+    "rating": 55,
+    "cover": "covers/tom_and_jerry_a_nutcracker_tale.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 47,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry Blast Off to Mars!",
+    "year": 2005,
+    "director": "Bill Kopp",
+    "description": "While carrying on their usual hi-jinks, they inadvertantly stow-away on a spaceship bound for Mars. They meet up with the local Martian residents and cause them to invade the Earth, aided by the \"Invincitron\", a vacuum-wielding giant robot. Tom, Jerry and their Martian ally, Peep, save the day.",
+    "cast": ["Jeff Bennett", "Corey Burton", "Kathryn Fiore", "Brad Garrett"],
+    "rating": 52,
+    "cover": "covers/tom_and_jerry_blast_off_to_mars.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Adventure"],
+    "duration": 74,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: Shiver Me Whiskers",
+    "year": 2006,
+    "director": "Scott Jeralds",
+    "description": "Dueling cat-and-mouse team Tom and Jerry hit the high seas on a hunt for buried treasure in this pirate adventure. The tale begins when crew member Tom sets sail with an infamous pirate and finds a treasure map along with stowaway Jerry. The furry swashbucklers race to a deserted island where X marks the spot, but along with battling each other, they must outwit ruthless buccaneers, angry monkeys and a giant octopus to strike it rich.",
+    "cast": [
+      "William Hanna",
+      "Mark Hamill",
+      "Kathy Najimy",
+      "Charles Nelson Reilly"
+    ],
+    "rating": 55,
+    "cover": "covers/tom_and_jerry_shiver_me_whiskers.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Adventure"],
+    "duration": 74,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Fast and the Furry",
+    "year": 2005,
+    "director": "Bill Kopp",
+    "description": "After being evicted from their old house by Tom's owner for causing major damage, cat and mouse Tom and Jerry enter a race entitled the \"Fabulous Super Race\" to win a mansion.",
+    "cast": ["Charlie Adler", "Jeff Bennett", "John DiMaggio", "Jess Harnell"],
+    "rating": 57,
+    "cover": "covers/tom_and_jerry_the_fast_and_the_furry.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 75,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Magic Ring",
+    "year": 2002,
+    "director": "James T. Walker",
+    "description": "The Oscar-winning cat-and-mouse twosome--Tom and Jerry--returns with another adventure. When Tom and Jerry's irrepressible curiosity gets the best of them, the mysterious magic ring that Tom guards with his life ends up stuck over Jerry's head. Now, Jerry must find a way to free himself of the ring while fleeing Tom, who wants to remove the ring any way he can! Find out if the pair can conjure up a solution in this fur-raising, madcap escapade.",
+    "cast": [
+      "Jeff Bennett",
+      "Frank Welker",
+      "Charlie Schlatter",
+      "Jim Cummings"
+    ],
+    "rating": 52,
+    "cover": "covers/tom_and_jerry_the_magic_ring.jpg",
+    "genres": ["Animation", "Comedy", "Family", "Fantasy"],
+    "duration": 62,
+    "language": ["English"]
+  },
+  {
+    "title": "Tom and Jerry: The Movie",
+    "year": 1992,
+    "director": "Phil Roman",
+    "description": "The popular cartoon cat and mouse are thrown into a feature film. The story has the twosome trying to help an orphan girl who is being berated and exploited by a greedy guardian..",
+    "cast": ["Richard Kind", "Dana Hill", "Anndi McAfee", "Tony Jay"],
+    "rating": 48,
+    "cover": "covers/tom_and_jerry_the_movie.jpg",
+    "genres": ["Animation", "Comedy", "Family"],
+    "duration": 84,
+    "language": ["English"]
+  },
+  {
     "title": "Toy Story",
     "year": 1995,
     "director": "John Lasseter",
@@ -3618,6 +4167,35 @@
     "genres": ["Animation", "Adventure", "Comedy"],
     "duration": 96,
     "language": ["English"]
+  },
+  {
+    "title": "Venom",
+    "year": 2018,
+    "director": "Ruben Fleischer",
+    "description": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "cast": ["Tom Hardy", "Michelle Williams", "Riz Ahmed", "Scott Haze"],
+    "rating": 58,
+    "cover": "covers/venom.jpg",
+    "genres": ["Sci-Fi", "Action"],
+    "duration": 112,
+    "language": ["English", "Mandarin", "Malay"]
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "director": "Andy Serkis",
+    "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+    "cast": [
+      "Tom Hardy",
+      "Woody Harrelson",
+      "Michelle Williams",
+      "Naomie Harris"
+    ],
+    "rating": 58,
+    "cover": "covers/venom_let_there_be_carnage.jpg",
+    "genres": ["Sci-Fi", "Action"],
+    "duration": 97,
+    "language": ["English", "Spanish", "Mandarin", "Japanese"]
   },
   {
     "title": "Vertigo",
